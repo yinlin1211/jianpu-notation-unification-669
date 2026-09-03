@@ -1,0 +1,2935 @@
+{
+ "songdata": {
+  "song_name": "我们的爱",
+  "alias_name": "",
+  "music_composer": "",
+  "lyric_composer": "",
+  "music_composer666": "F.I.R.",
+  "music_order": "歌手作曲作词",
+  "lyric_composer666": "F.I.R./谢宥慧",
+  "rhythm": "4/4",
+  "keynote": "1=A",
+  "comment": "",
+  "music_url": "",
+  "notation": "{play:A B C D1 B C D2 C D3}\nA:\n0x5xx5xx5x5xx(5xx5xx)2x.2x1x|2x3xx(3xx3)00|0x5xx5xx5x5xx(5xx5xx)1gx.7x5x|\n7x.(1gxx1g)-(3:5x1gx2gx)|(3g3gx.)(1gxx2g.)0xx3xx|1gx7xx(5xx5xx)7x(7xx1g)-|\n5x1xx(1xx1x.)5xx5x1xx(1xx1xx)5x(5xx|7)-00|\nB:\n0x5xx5xx5x5xx(5xx5xx)2x.2x1x|\n2x3xx(3xx3)00|0x5xx5xx5x5xx(5xx5xx)1gx.(3:7x5x7x)|7x.(1gxx1g)-(3:5x1gx2gx)|\n(3g3gx.)(1gxx2g.)0xx3xx|1gx7xx(5xx5xx)2gx(2gxx1g)-|5x1xx(1xx1x.)5xx5x1xx(1xx1)|\n7x.(7xx7xx)1gx(1gxx(2g-|2g))-0\nC:\n(3:3x5x7x)|(1g.2gxx(1gxx1g.))7xx5xx|\n5x7xx(2gxx2gxx)4gx(3gxx3g)-|1gx2gxx(3gxx3gxx)5gx.4gx3gxx(2gxx1gxx)1gx.|2g5x.(7xx7)(3:3x5x7x)|\n1g1gxx2gx(1gxx1g.)7xx5xx|5x7xx(2gxx2gxx)4gx(3gxx3g)-|1gx2gxx(3gxx3gxx)5gx.4gx3gxx(2gxx1gxx)1gx.|\n2g-2gx3gxx(2gxx2gxx)7x(7xx|1g)000|\n{!can.gqi.ang!}{mark:D1}\n000.1gxx2gxx|\n2gx.(5xx7xx5xx)(5x5)0|\n{mark:D2}\n2gx.(4gxx4gx)(3gx3g.)2gxx3gxx|(3:4gx4gx4gx)(3:4xg3gx(2gx)1gx)(1gx1gx)1gxx2gxx|\n(3:3gxb3gx3gx)(3:3gx2gx(1gx)7xb)(7x7x)7xx1gxx|(3:2gxb2gx2gx)(3:2gx1gx7xb)5.b2gxx2gxx|\n(3gb3gxx)1gx(3gxx4g)-|5g--\n{mark:D3}\n000.1gxx2gxx|\n2gx.(5xx7xx5xx)(5x5)0|||",
+  "tags": "",
+  "lyric": "[\"回忆里想起/模糊的小时候/ 云朵漂浮在/蓝蓝的天空/ 那时的你/说 /要和我手/牵手/ 一起走/到时间的/尽头/  从此以后/我都不敢抬头看/ 仿佛我的天/空失去了颜色/ 从那一天/起/ 我忘记了/呼吸/ 眼泪啊/永远不再/ 不再/哭泣// 我们的爱/// 过了就不再/回来/ 直到现/在 我还默/默的等待/ 我们的爱 我明白/ 已变成你的/负担/ 只是永/远 我都放/不开 最后的/温暖/ 你给的温//暖/  的温/暖/ 不要再问你是否爱/我/ 现在我想要自由天/空/ 远离开这被捆绑的世界 不再/寂寞/喔 你给 的温/；暖/\"]",
+  "price": "",
+  "hot": 0,
+  "instruments": "o12,o3,x10,p8",
+  "fingerings": "o12-A,o3-C,o3-F,o3-G,o3-E,o3-D,o3-A,x10-C,p8-F,p8-bB,p8-C,p8-bE,p8-bA",
+  "tonalities": "o12-AC,o3-AF,o3-AG,o3-AC",
+  "scores": "[{\"tag\":\"o12@fA4@g\",\"name\":\"十二孔陶笛A调指法图谱\",\"best\":1},{\"tag\":\"o3@fC5@g\",\"name\":\"三管陶笛C调指法图谱\",\"best\":1},{\"tag\":\"x10@fC5@g\",\"name\":\"十孔埙C调指法图谱\",\"best\":1},{\"tag\":\"p8@fF4@g\",\"name\":\"八孔洞箫F调指法图谱\",\"best\":1}]",
+  "source": "{song_name:我们的爱}\n{music_composer666:F.I.R.}\n{lyric_composer666:F.I.R./谢宥慧}\n{time_signature:4/4}\n{key_signature:A}\n{music_order:歌手作曲作词}\n{play:A B C D1 B C D2 C D3}\n{playyes:A B C D1 B C D2 C D3}\nA:\n0x5xx5xx5x5xx(5xx5xx)2x.2x1x|2x3xx(3xx3)00|0x5xx5xx5x5xx(5xx5xx)1gx.7x5x|\n7x.(1gxx1g)-(3:5x1gx2gx)|(3g3gx.)(1gxx2g.)0xx3xx|1gx7xx(5xx5xx)7x(7xx1g)-|\n5x1xx(1xx1x.)5xx5x1xx(1xx1xx)5x(5xx|7)-00|\nB:\n0x5xx5xx5x5xx(5xx5xx)2x.2x1x|\n2x3xx(3xx3)00|0x5xx5xx5x5xx(5xx5xx)1gx.(3:7x5x7x)|7x.(1gxx1g)-(3:5x1gx2gx)|\n(3g3gx.)(1gxx2g.)0xx3xx|1gx7xx(5xx5xx)2gx(2gxx1g)-|5x1xx(1xx1x.)5xx5x1xx(1xx1)|\n7x.(7xx7xx)1gx(1gxx(2g-|2g))-0\nC:\n(3:3x5x7x)|(1g.2gxx(1gxx1g.))7xx5xx|\n5x7xx(2gxx2gxx)4gx(3gxx3g)-|1gx2gxx(3gxx3gxx)5gx.4gx3gxx(2gxx1gxx)1gx.|2g5x.(7xx7)(3:3x5x7x)|\n1g1gxx2gx(1gxx1g.)7xx5xx|5x7xx(2gxx2gxx)4gx(3gxx3g)-|1gx2gxx(3gxx3gxx)5gx.4gx3gxx(2gxx1gxx)1gx.|\n2g-2gx3gxx(2gxx2gxx)7x(7xx|1g)000|\n{!can.gqi.ang!}{mark:D1}\n000.1gxx2gxx|\n2gx.(5xx7xx5xx)(5x5)0|\n{mark:D2}\n2gx.(4gxx4gx)(3gx3g.)2gxx3gxx|(3:4gx4gx4gx)(3:4xg3gx(2gx)1gx)(1gx1gx)1gxx2gxx|\n(3:3gxb3gx3gx)(3:3gx2gx(1gx)7xb)(7x7x)7xx1gxx|(3:2gxb2gx2gx)(3:2gx1gx7xb)5.b2gxx2gxx|\n(3gb3gxx)1gx(3gxx4g)-|5g--\n{mark:D3}\n000.1gxx2gxx|\n2gx.(5xx7xx5xx)(5x5)0|||\n\n{lyric}\n回忆里想起/模糊的小时候/ 云朵漂浮在/蓝蓝的天空/ 那时的你/说 /要和我手/牵手/ 一起走/到时间的/尽头/  从此以后/我都不敢抬头看/ 仿佛我的天/空失去了颜色/ 从那一天/起/ 我忘记了/呼吸/ 眼泪啊/永远不再/ 不再/哭泣// 我们的爱/// 过了就不再/回来/ 直到现/在 我还默/默的等待/ 我们的爱 我明白/ 已变成你的/负担/ 只是永/远 我都放/不开 最后的/温暖/ 你给的温//暖/  的温/暖/ 不要再问你是否爱/我/ 现在我想要自由天/空/ 远离开这被捆绑的世界 不再/寂寞/喔 你给 的温/；暖/\n{/lyric}",
+  "_id": 23910,
+  "_collected_at": "2026-01-27T17:05:45.924Z",
+  "notation_raw": "{play:A B C D1 B C D2 C D3}\nA:\n0x5xx5xx5x5xx(5xx5xx)2x.2x1x|2x3xx(3xx3)00|0x5xx5xx5x5xx(5xx5xx)1gx.7x5x|\n7x.(1gxx1g)-(3:5x1gx2gx)|(3g3gx.)(1gxx2g.)0xx3xx|1gx7xx(5xx5xx)7x(7xx1g)-|\n5x1xx(1xx1x.)5xx5x1xx(1xx1xx)5x(5xx|7)-00|\nB:\n0x5xx5xx5x5xx(5xx5xx)2x.2x1x|\n2x3xx(3xx3)00|0x5xx5xx5x5xx(5xx5xx)1gx.(3:7x5x7x)|7x.(1gxx1g)-(3:5x1gx2gx)|\n(3g3gx.)(1gxx2g.)0xx3xx|1gx7xx(5xx5xx)2gx(2gxx1g)-|5x1xx(1xx1x.)5xx5x1xx(1xx1)|\n7x.(7xx7xx)1gx(1gxx(2g-|2g))-0\nC:\n(3:3x5x7x)|(1g.2gxx(1gxx1g.))7xx5xx|\n5x7xx(2gxx2gxx)4gx(3gxx3g)-|1gx2gxx(3gxx3gxx)5gx.4gx3gxx(2gxx1gxx)1gx.|2g5x.(7xx7)(3:3x5x7x)|\n1g1gxx2gx(1gxx1g.)7xx5xx|5x7xx(2gxx2gxx)4gx(3gxx3g)-|1gx2gxx(3gxx3gxx)5gx.4gx3gxx(2gxx1gxx)1gx.|\n2g-2gx3gxx(2gxx2gxx)7x(7xx|1g)000|\n{!can.gqi.ang!}{mark:D1}\n000.1gxx2gxx|\n2gx.(5xx7xx5xx)(5x5)0|\n{mark:D2}\n2gx.(4gxx4gx)(3gx3g.)2gxx3gxx|(3:4gx4gx4gx)(3:4xg3gx(2gx)1gx)(1gx1gx)1gxx2gxx|\n(3:3gxb3gx3gx)(3:3gx2gx(1gx)7xb)(7x7x)7xx1gxx|(3:2gxb2gx2gx)(3:2gx1gx7xb)5.b2gxx2gxx|\n(3gb3gxx)1gx(3gxx4g)-|5g--\n{mark:D3}\n000.1gxx2gxx|\n2gx.(5xx7xx5xx)(5x5)0|||",
+  "notation_dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "lyric_layer": {
+   "raw_lyric": "[\"回忆里想起/模糊的小时候/ 云朵漂浮在/蓝蓝的天空/ 那时的你/说 /要和我手/牵手/ 一起走/到时间的/尽头/  从此以后/我都不敢抬头看/ 仿佛我的天/空失去了颜色/ 从那一天/起/ 我忘记了/呼吸/ 眼泪啊/永远不再/ 不再/哭泣// 我们的爱/// 过了就不再/回来/ 直到现/在 我还默/默的等待/ 我们的爱 我明白/ 已变成你的/负担/ 只是永/远 我都放/不开 最后的/温暖/ 你给的温//暖/  的温/暖/ 不要再问你是否爱/我/ 现在我想要自由天/空/ 远离开这被捆绑的世界 不再/寂寞/喔 你给 的温/；暖/\"]",
+   "raw_lyric_parsed": [
+    "回忆里想起/模糊的小时候/ 云朵漂浮在/蓝蓝的天空/ 那时的你/说 /要和我手/牵手/ 一起走/到时间的/尽头/  从此以后/我都不敢抬头看/ 仿佛我的天/空失去了颜色/ 从那一天/起/ 我忘记了/呼吸/ 眼泪啊/永远不再/ 不再/哭泣// 我们的爱/// 过了就不再/回来/ 直到现/在 我还默/默的等待/ 我们的爱 我明白/ 已变成你的/负担/ 只是永/远 我都放/不开 最后的/温暖/ 你给的温//暖/  的温/暖/ 不要再问你是否爱/我/ 现在我想要自由天/空/ 远离开这被捆绑的世界 不再/寂寞/喔 你给 的温/；暖/"
+   ],
+   "pinyin_slots": [],
+   "slots": [
+    {
+     "line": 17,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 2,
+     "occ": 1,
+     "chars": "回"
+    },
+    {
+     "line": 17,
+     "col": 5,
+     "occ": 1,
+     "chars": "忆"
+    },
+    {
+     "line": 17,
+     "col": 8,
+     "occ": 1,
+     "chars": "里"
+    },
+    {
+     "line": 17,
+     "col": 10,
+     "occ": 1,
+     "chars": "想"
+    },
+    {
+     "line": 17,
+     "col": 14,
+     "occ": 1,
+     "chars": "起"
+    },
+    {
+     "line": 17,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 21,
+     "occ": 1,
+     "chars": "模"
+    },
+    {
+     "line": 17,
+     "col": 24,
+     "occ": 1,
+     "chars": "糊"
+    },
+    {
+     "line": 17,
+     "col": 26,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 17,
+     "col": 29,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 17,
+     "col": 31,
+     "occ": 1,
+     "chars": "时"
+    },
+    {
+     "line": 17,
+     "col": 35,
+     "occ": 1,
+     "chars": "候"
+    },
+    {
+     "line": 17,
+     "col": 38,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 40,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 41,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 43,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 45,
+     "occ": 1,
+     "chars": "云"
+    },
+    {
+     "line": 17,
+     "col": 48,
+     "occ": 1,
+     "chars": "朵"
+    },
+    {
+     "line": 17,
+     "col": 51,
+     "occ": 1,
+     "chars": "漂"
+    },
+    {
+     "line": 17,
+     "col": 53,
+     "occ": 1,
+     "chars": "浮"
+    },
+    {
+     "line": 17,
+     "col": 57,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 17,
+     "col": 60,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 64,
+     "occ": 1,
+     "chars": "蓝"
+    },
+    {
+     "line": 17,
+     "col": 68,
+     "occ": 1,
+     "chars": "蓝"
+    },
+    {
+     "line": 17,
+     "col": 70,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 18,
+     "col": 0,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 18,
+     "col": 4,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 18,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 15,
+     "occ": 1,
+     "chars": "那"
+    },
+    {
+     "line": 18,
+     "col": 17,
+     "occ": 1,
+     "chars": "时"
+    },
+    {
+     "line": 18,
+     "col": 20,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 18,
+     "col": 26,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 18,
+     "col": 28,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 34,
+     "occ": 1,
+     "chars": "说"
+    },
+    {
+     "line": 18,
+     "col": 38,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 42,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 45,
+     "occ": 1,
+     "chars": "要"
+    },
+    {
+     "line": 18,
+     "col": 49,
+     "occ": 1,
+     "chars": "和"
+    },
+    {
+     "line": 18,
+     "col": 52,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 18,
+     "col": 56,
+     "occ": 1,
+     "chars": "手"
+    },
+    {
+     "line": 18,
+     "col": 59,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 63,
+     "occ": 1,
+     "chars": "牵"
+    },
+    {
+     "line": 18,
+     "col": 66,
+     "occ": 1,
+     "chars": "手"
+    },
+    {
+     "line": 18,
+     "col": 69,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 72,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 19,
+     "col": 2,
+     "occ": 1,
+     "chars": "起"
+    },
+    {
+     "line": 19,
+     "col": 6,
+     "occ": 1,
+     "chars": "走"
+    },
+    {
+     "line": 19,
+     "col": 9,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 13,
+     "occ": 1,
+     "chars": "到"
+    },
+    {
+     "line": 19,
+     "col": 16,
+     "occ": 1,
+     "chars": "时"
+    },
+    {
+     "line": 19,
+     "col": 18,
+     "occ": 1,
+     "chars": "间"
+    },
+    {
+     "line": 19,
+     "col": 22,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 19,
+     "col": 25,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 29,
+     "occ": 1,
+     "chars": "尽"
+    },
+    {
+     "line": 19,
+     "col": 32,
+     "occ": 1,
+     "chars": "头"
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 38,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 39,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 40,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 1,
+     "chars": "从"
+    },
+    {
+     "line": 21,
+     "col": 5,
+     "occ": 1,
+     "chars": "此"
+    },
+    {
+     "line": 21,
+     "col": 8,
+     "occ": 1,
+     "chars": "以"
+    },
+    {
+     "line": 21,
+     "col": 10,
+     "occ": 1,
+     "chars": "后"
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 17,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 21,
+     "col": 21,
+     "occ": 1,
+     "chars": "都"
+    },
+    {
+     "line": 21,
+     "col": 24,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 1,
+     "chars": "敢"
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 1,
+     "chars": "抬"
+    },
+    {
+     "line": 22,
+     "col": 2,
+     "occ": 1,
+     "chars": "头"
+    },
+    {
+     "line": 22,
+     "col": 6,
+     "occ": 1,
+     "chars": "看"
+    },
+    {
+     "line": 22,
+     "col": 9,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 12,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 14,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 16,
+     "occ": 1,
+     "chars": "仿"
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 1,
+     "chars": "佛"
+    },
+    {
+     "line": 22,
+     "col": 22,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 22,
+     "col": 28,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 22,
+     "col": 31,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 35,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 22,
+     "col": 42,
+     "occ": 1,
+     "chars": "失"
+    },
+    {
+     "line": 22,
+     "col": 44,
+     "occ": 1,
+     "chars": "去"
+    },
+    {
+     "line": 22,
+     "col": 46,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 22,
+     "col": 50,
+     "occ": 1,
+     "chars": "颜"
+    },
+    {
+     "line": 22,
+     "col": 54,
+     "occ": 1,
+     "chars": "色"
+    },
+    {
+     "line": 22,
+     "col": 58,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 61,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 65,
+     "occ": 1,
+     "chars": "从"
+    },
+    {
+     "line": 22,
+     "col": 67,
+     "occ": 1,
+     "chars": "那"
+    },
+    {
+     "line": 22,
+     "col": 70,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 23,
+     "col": 1,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 23,
+     "col": 3,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 9,
+     "occ": 1,
+     "chars": "起"
+    },
+    {
+     "line": 23,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 20,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 23,
+     "col": 24,
+     "occ": 1,
+     "chars": "忘"
+    },
+    {
+     "line": 23,
+     "col": 27,
+     "occ": 1,
+     "chars": "记"
+    },
+    {
+     "line": 23,
+     "col": 31,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 23,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 38,
+     "occ": 1,
+     "chars": "呼"
+    },
+    {
+     "line": 23,
+     "col": 42,
+     "occ": 1,
+     "chars": "吸"
+    },
+    {
+     "line": 23,
+     "col": 46,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 49,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 51,
+     "occ": 1,
+     "chars": "眼"
+    },
+    {
+     "line": 23,
+     "col": 53,
+     "occ": 1,
+     "chars": "泪"
+    },
+    {
+     "line": 23,
+     "col": 57,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 23,
+     "col": 60,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 64,
+     "occ": 1,
+     "chars": "永"
+    },
+    {
+     "line": 23,
+     "col": 67,
+     "occ": 1,
+     "chars": "远"
+    },
+    {
+     "line": 23,
+     "col": 69,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 23,
+     "col": 73,
+     "occ": 1,
+     "chars": "再"
+    },
+    {
+     "line": 23,
+     "col": 76,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 1,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 7,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 11,
+     "occ": 1,
+     "chars": "哭"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 1,
+     "chars": "泣"
+    },
+    {
+     "line": 24,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 22,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 28,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 29,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 5,
+     "occ": 1,
+     "chars": "们"
+    },
+    {
+     "line": 26,
+     "col": 7,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 26,
+     "col": 12,
+     "occ": 1,
+     "chars": "爱"
+    },
+    {
+     "line": 26,
+     "col": 15,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 29,
+     "occ": 1,
+     "chars": "过"
+    },
+    {
+     "line": 26,
+     "col": 32,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 27,
+     "col": 0,
+     "occ": 1,
+     "chars": "就"
+    },
+    {
+     "line": 27,
+     "col": 2,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 27,
+     "col": 6,
+     "occ": 1,
+     "chars": "再"
+    },
+    {
+     "line": 27,
+     "col": 10,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 15,
+     "occ": 1,
+     "chars": "回"
+    },
+    {
+     "line": 27,
+     "col": 19,
+     "occ": 1,
+     "chars": "来"
+    },
+    {
+     "line": 27,
+     "col": 23,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 26,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 28,
+     "occ": 1,
+     "chars": "直"
+    },
+    {
+     "line": 27,
+     "col": 31,
+     "occ": 1,
+     "chars": "到"
+    },
+    {
+     "line": 27,
+     "col": 36,
+     "occ": 1,
+     "chars": "现"
+    },
+    {
+     "line": 27,
+     "col": 40,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 45,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 27,
+     "col": 49,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 27,
+     "col": 52,
+     "occ": 1,
+     "chars": "还"
+    },
+    {
+     "line": 27,
+     "col": 57,
+     "occ": 1,
+     "chars": "默"
+    },
+    {
+     "line": 27,
+     "col": 61,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 66,
+     "occ": 1,
+     "chars": "默"
+    },
+    {
+     "line": 27,
+     "col": 71,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 27,
+     "col": 73,
+     "occ": 1,
+     "chars": "等"
+    },
+    {
+     "line": 27,
+     "col": 77,
+     "occ": 1,
+     "chars": "待"
+    },
+    {
+     "line": 27,
+     "col": 80,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 85,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 27,
+     "col": 87,
+     "occ": 1,
+     "chars": "们"
+    },
+    {
+     "line": 27,
+     "col": 89,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 1,
+     "chars": "爱"
+    },
+    {
+     "line": 28,
+     "col": 2,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 6,
+     "occ": 1,
+     "chars": "明"
+    },
+    {
+     "line": 28,
+     "col": 10,
+     "occ": 1,
+     "chars": "白"
+    },
+    {
+     "line": 28,
+     "col": 14,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 18,
+     "occ": 1,
+     "chars": "已"
+    },
+    {
+     "line": 28,
+     "col": 21,
+     "occ": 1,
+     "chars": "变"
+    },
+    {
+     "line": 28,
+     "col": 25,
+     "occ": 1,
+     "chars": "成"
+    },
+    {
+     "line": 28,
+     "col": 27,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 31,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 28,
+     "col": 35,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 40,
+     "occ": 1,
+     "chars": "负"
+    },
+    {
+     "line": 28,
+     "col": 44,
+     "occ": 1,
+     "chars": "担"
+    },
+    {
+     "line": 28,
+     "col": 48,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 51,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 53,
+     "occ": 1,
+     "chars": "只"
+    },
+    {
+     "line": 28,
+     "col": 56,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 28,
+     "col": 61,
+     "occ": 1,
+     "chars": "永"
+    },
+    {
+     "line": 28,
+     "col": 65,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 70,
+     "occ": 1,
+     "chars": "远"
+    },
+    {
+     "line": 28,
+     "col": 74,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 77,
+     "occ": 1,
+     "chars": "都"
+    },
+    {
+     "line": 28,
+     "col": 82,
+     "occ": 1,
+     "chars": "放"
+    },
+    {
+     "line": 28,
+     "col": 86,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 91,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 29,
+     "col": 0,
+     "occ": 1,
+     "chars": "开"
+    },
+    {
+     "line": 29,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 3,
+     "occ": 1,
+     "chars": "最"
+    },
+    {
+     "line": 29,
+     "col": 6,
+     "occ": 1,
+     "chars": "后"
+    },
+    {
+     "line": 29,
+     "col": 11,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 29,
+     "col": 15,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 20,
+     "occ": 1,
+     "chars": "温"
+    },
+    {
+     "line": 29,
+     "col": 23,
+     "occ": 1,
+     "chars": "暖"
+    },
+    {
+     "line": 29,
+     "col": 27,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 30,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 31,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 32,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 4,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 31,
+     "col": 8,
+     "occ": 1,
+     "chars": "给"
+    },
+    {
+     "line": 32,
+     "col": 0,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 32,
+     "col": 5,
+     "occ": 1,
+     "chars": "温"
+    },
+    {
+     "line": 32,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 16,
+     "occ": 1,
+     "chars": "暖"
+    },
+    {
+     "line": 32,
+     "col": 18,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 2,
+     "chars": "从"
+    },
+    {
+     "line": 21,
+     "col": 5,
+     "occ": 2,
+     "chars": "此"
+    },
+    {
+     "line": 21,
+     "col": 8,
+     "occ": 2,
+     "chars": "以"
+    },
+    {
+     "line": 21,
+     "col": 10,
+     "occ": 2,
+     "chars": "后"
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 17,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 21,
+     "col": 21,
+     "occ": 2,
+     "chars": "都"
+    },
+    {
+     "line": 21,
+     "col": 24,
+     "occ": 2,
+     "chars": "不"
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 2,
+     "chars": "敢"
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 2,
+     "chars": "抬"
+    },
+    {
+     "line": 22,
+     "col": 2,
+     "occ": 2,
+     "chars": "头"
+    },
+    {
+     "line": 22,
+     "col": 6,
+     "occ": 2,
+     "chars": "看"
+    },
+    {
+     "line": 22,
+     "col": 9,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 11,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 12,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 14,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 16,
+     "occ": 2,
+     "chars": "仿"
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 2,
+     "chars": "佛"
+    },
+    {
+     "line": 22,
+     "col": 22,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 22,
+     "col": 28,
+     "occ": 2,
+     "chars": "天"
+    },
+    {
+     "line": 22,
+     "col": 31,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 35,
+     "occ": 2,
+     "chars": "空"
+    },
+    {
+     "line": 22,
+     "col": 42,
+     "occ": 2,
+     "chars": "失"
+    },
+    {
+     "line": 22,
+     "col": 44,
+     "occ": 2,
+     "chars": "去"
+    },
+    {
+     "line": 22,
+     "col": 46,
+     "occ": 2,
+     "chars": "了"
+    },
+    {
+     "line": 22,
+     "col": 50,
+     "occ": 2,
+     "chars": "颜"
+    },
+    {
+     "line": 22,
+     "col": 54,
+     "occ": 2,
+     "chars": "色"
+    },
+    {
+     "line": 22,
+     "col": 58,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 61,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 65,
+     "occ": 2,
+     "chars": "从"
+    },
+    {
+     "line": 22,
+     "col": 67,
+     "occ": 2,
+     "chars": "那"
+    },
+    {
+     "line": 22,
+     "col": 70,
+     "occ": 2,
+     "chars": "一"
+    },
+    {
+     "line": 23,
+     "col": 1,
+     "occ": 2,
+     "chars": "天"
+    },
+    {
+     "line": 23,
+     "col": 3,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 9,
+     "occ": 2,
+     "chars": "起"
+    },
+    {
+     "line": 23,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 17,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 20,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 23,
+     "col": 24,
+     "occ": 2,
+     "chars": "忘"
+    },
+    {
+     "line": 23,
+     "col": 27,
+     "occ": 2,
+     "chars": "记"
+    },
+    {
+     "line": 23,
+     "col": 31,
+     "occ": 2,
+     "chars": "了"
+    },
+    {
+     "line": 23,
+     "col": 34,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 38,
+     "occ": 2,
+     "chars": "呼"
+    },
+    {
+     "line": 23,
+     "col": 42,
+     "occ": 2,
+     "chars": "吸"
+    },
+    {
+     "line": 23,
+     "col": 46,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 49,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 51,
+     "occ": 2,
+     "chars": "眼"
+    },
+    {
+     "line": 23,
+     "col": 53,
+     "occ": 2,
+     "chars": "泪"
+    },
+    {
+     "line": 23,
+     "col": 57,
+     "occ": 2,
+     "chars": "啊"
+    },
+    {
+     "line": 23,
+     "col": 60,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 64,
+     "occ": 2,
+     "chars": "永"
+    },
+    {
+     "line": 23,
+     "col": 67,
+     "occ": 2,
+     "chars": "远"
+    },
+    {
+     "line": 23,
+     "col": 69,
+     "occ": 2,
+     "chars": "不"
+    },
+    {
+     "line": 23,
+     "col": 73,
+     "occ": 2,
+     "chars": "再"
+    },
+    {
+     "line": 23,
+     "col": 76,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 2,
+     "chars": "不"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 2,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 7,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 11,
+     "occ": 2,
+     "chars": "哭"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 2,
+     "chars": "泣"
+    },
+    {
+     "line": 24,
+     "col": 20,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 22,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 24,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 28,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 29,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 5,
+     "occ": 2,
+     "chars": "们"
+    },
+    {
+     "line": 26,
+     "col": 7,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 26,
+     "col": 12,
+     "occ": 2,
+     "chars": "爱"
+    },
+    {
+     "line": 26,
+     "col": 15,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 20,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 24,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 29,
+     "occ": 2,
+     "chars": "过"
+    },
+    {
+     "line": 26,
+     "col": 32,
+     "occ": 2,
+     "chars": "了"
+    },
+    {
+     "line": 27,
+     "col": 0,
+     "occ": 2,
+     "chars": "就"
+    },
+    {
+     "line": 27,
+     "col": 2,
+     "occ": 2,
+     "chars": "不"
+    },
+    {
+     "line": 27,
+     "col": 6,
+     "occ": 2,
+     "chars": "再"
+    },
+    {
+     "line": 27,
+     "col": 10,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 15,
+     "occ": 2,
+     "chars": "回"
+    },
+    {
+     "line": 27,
+     "col": 19,
+     "occ": 2,
+     "chars": "来"
+    },
+    {
+     "line": 27,
+     "col": 23,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 26,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 28,
+     "occ": 2,
+     "chars": "直"
+    },
+    {
+     "line": 27,
+     "col": 31,
+     "occ": 2,
+     "chars": "到"
+    },
+    {
+     "line": 27,
+     "col": 36,
+     "occ": 2,
+     "chars": "现"
+    },
+    {
+     "line": 27,
+     "col": 40,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 45,
+     "occ": 2,
+     "chars": "在"
+    },
+    {
+     "line": 27,
+     "col": 49,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 27,
+     "col": 52,
+     "occ": 2,
+     "chars": "还"
+    },
+    {
+     "line": 27,
+     "col": 57,
+     "occ": 2,
+     "chars": "默"
+    },
+    {
+     "line": 27,
+     "col": 61,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 66,
+     "occ": 2,
+     "chars": "默"
+    },
+    {
+     "line": 27,
+     "col": 71,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 27,
+     "col": 73,
+     "occ": 2,
+     "chars": "等"
+    },
+    {
+     "line": 27,
+     "col": 77,
+     "occ": 2,
+     "chars": "待"
+    },
+    {
+     "line": 27,
+     "col": 80,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 85,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 27,
+     "col": 87,
+     "occ": 2,
+     "chars": "们"
+    },
+    {
+     "line": 27,
+     "col": 89,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 2,
+     "chars": "爱"
+    },
+    {
+     "line": 28,
+     "col": 2,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 6,
+     "occ": 2,
+     "chars": "明"
+    },
+    {
+     "line": 28,
+     "col": 10,
+     "occ": 2,
+     "chars": "白"
+    },
+    {
+     "line": 28,
+     "col": 14,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 18,
+     "occ": 2,
+     "chars": "已"
+    },
+    {
+     "line": 28,
+     "col": 21,
+     "occ": 2,
+     "chars": "变"
+    },
+    {
+     "line": 28,
+     "col": 25,
+     "occ": 2,
+     "chars": "成"
+    },
+    {
+     "line": 28,
+     "col": 27,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 31,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 28,
+     "col": 35,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 40,
+     "occ": 2,
+     "chars": "负"
+    },
+    {
+     "line": 28,
+     "col": 44,
+     "occ": 2,
+     "chars": "担"
+    },
+    {
+     "line": 28,
+     "col": 48,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 51,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 53,
+     "occ": 2,
+     "chars": "只"
+    },
+    {
+     "line": 28,
+     "col": 56,
+     "occ": 2,
+     "chars": "是"
+    },
+    {
+     "line": 28,
+     "col": 61,
+     "occ": 2,
+     "chars": "永"
+    },
+    {
+     "line": 28,
+     "col": 65,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 70,
+     "occ": 2,
+     "chars": "远"
+    },
+    {
+     "line": 28,
+     "col": 74,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 77,
+     "occ": 2,
+     "chars": "都"
+    },
+    {
+     "line": 28,
+     "col": 82,
+     "occ": 2,
+     "chars": "放"
+    },
+    {
+     "line": 28,
+     "col": 86,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 91,
+     "occ": 2,
+     "chars": "不"
+    },
+    {
+     "line": 29,
+     "col": 0,
+     "occ": 2,
+     "chars": "开"
+    },
+    {
+     "line": 29,
+     "col": 2,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 3,
+     "occ": 2,
+     "chars": "最"
+    },
+    {
+     "line": 29,
+     "col": 6,
+     "occ": 2,
+     "chars": "后"
+    },
+    {
+     "line": 29,
+     "col": 11,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 29,
+     "col": 15,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 20,
+     "occ": 2,
+     "chars": "温"
+    },
+    {
+     "line": 29,
+     "col": 23,
+     "occ": 2,
+     "chars": "暖"
+    },
+    {
+     "line": 29,
+     "col": 27,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 30,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 31,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 32,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 0,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 34,
+     "col": 5,
+     "occ": 1,
+     "chars": "温"
+    },
+    {
+     "line": 34,
+     "col": 9,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 14,
+     "occ": 1,
+     "chars": "暖"
+    },
+    {
+     "line": 34,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 21,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 34,
+     "col": 25,
+     "occ": 1,
+     "chars": "要"
+    },
+    {
+     "line": 34,
+     "col": 33,
+     "occ": 1,
+     "chars": "再"
+    },
+    {
+     "line": 34,
+     "col": 36,
+     "occ": 1,
+     "chars": "问"
+    },
+    {
+     "line": 34,
+     "col": 39,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 34,
+     "col": 46,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 34,
+     "col": 49,
+     "occ": 1,
+     "chars": "否"
+    },
+    {
+     "line": 34,
+     "col": 53,
+     "occ": 1,
+     "chars": "爱"
+    },
+    {
+     "line": 34,
+     "col": 57,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 62,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 34,
+     "col": 65,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 69,
+     "occ": 1,
+     "chars": "现"
+    },
+    {
+     "line": 34,
+     "col": 73,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 35,
+     "col": 3,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 35,
+     "col": 7,
+     "occ": 1,
+     "chars": "想"
+    },
+    {
+     "line": 35,
+     "col": 10,
+     "occ": 1,
+     "chars": "要"
+    },
+    {
+     "line": 35,
+     "col": 17,
+     "occ": 1,
+     "chars": "自"
+    },
+    {
+     "line": 35,
+     "col": 20,
+     "occ": 1,
+     "chars": "由"
+    },
+    {
+     "line": 35,
+     "col": 24,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 35,
+     "col": 28,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 33,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 35,
+     "col": 35,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 38,
+     "occ": 1,
+     "chars": "远"
+    },
+    {
+     "line": 35,
+     "col": 41,
+     "occ": 1,
+     "chars": "离"
+    },
+    {
+     "line": 35,
+     "col": 49,
+     "occ": 1,
+     "chars": "开"
+    },
+    {
+     "line": 35,
+     "col": 53,
+     "occ": 1,
+     "chars": "这"
+    },
+    {
+     "line": 35,
+     "col": 56,
+     "occ": 1,
+     "chars": "被"
+    },
+    {
+     "line": 35,
+     "col": 63,
+     "occ": 1,
+     "chars": "捆"
+    },
+    {
+     "line": 35,
+     "col": 66,
+     "occ": 1,
+     "chars": "绑"
+    },
+    {
+     "line": 35,
+     "col": 69,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 35,
+     "col": 73,
+     "occ": 1,
+     "chars": "世"
+    },
+    {
+     "line": 35,
+     "col": 76,
+     "occ": 1,
+     "chars": "界"
+    },
+    {
+     "line": 35,
+     "col": 80,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 36,
+     "col": 1,
+     "occ": 1,
+     "chars": "再"
+    },
+    {
+     "line": 36,
+     "col": 4,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 36,
+     "col": 9,
+     "occ": 1,
+     "chars": "寂"
+    },
+    {
+     "line": 36,
+     "col": 13,
+     "occ": 1,
+     "chars": "寞"
+    },
+    {
+     "line": 36,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 36,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 36,
+     "col": 22,
+     "occ": 1,
+     "chars": "喔"
+    },
+    {
+     "line": 36,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 36,
+     "col": 25,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 5,
+     "occ": 3,
+     "chars": "们"
+    },
+    {
+     "line": 26,
+     "col": 7,
+     "occ": 3,
+     "chars": "的"
+    },
+    {
+     "line": 26,
+     "col": 12,
+     "occ": 3,
+     "chars": "爱"
+    },
+    {
+     "line": 26,
+     "col": 15,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 20,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 24,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 29,
+     "occ": 3,
+     "chars": "过"
+    },
+    {
+     "line": 26,
+     "col": 32,
+     "occ": 3,
+     "chars": "了"
+    },
+    {
+     "line": 27,
+     "col": 0,
+     "occ": 3,
+     "chars": "就"
+    },
+    {
+     "line": 27,
+     "col": 2,
+     "occ": 3,
+     "chars": "不"
+    },
+    {
+     "line": 27,
+     "col": 6,
+     "occ": 3,
+     "chars": "再"
+    },
+    {
+     "line": 27,
+     "col": 10,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 15,
+     "occ": 3,
+     "chars": "回"
+    },
+    {
+     "line": 27,
+     "col": 19,
+     "occ": 3,
+     "chars": "来"
+    },
+    {
+     "line": 27,
+     "col": 23,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 26,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 28,
+     "occ": 3,
+     "chars": "直"
+    },
+    {
+     "line": 27,
+     "col": 31,
+     "occ": 3,
+     "chars": "到"
+    },
+    {
+     "line": 27,
+     "col": 36,
+     "occ": 3,
+     "chars": "现"
+    },
+    {
+     "line": 27,
+     "col": 40,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 45,
+     "occ": 3,
+     "chars": "在"
+    },
+    {
+     "line": 27,
+     "col": 49,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 27,
+     "col": 52,
+     "occ": 3,
+     "chars": "还"
+    },
+    {
+     "line": 27,
+     "col": 57,
+     "occ": 3,
+     "chars": "默"
+    },
+    {
+     "line": 27,
+     "col": 61,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 66,
+     "occ": 3,
+     "chars": "默"
+    },
+    {
+     "line": 27,
+     "col": 71,
+     "occ": 3,
+     "chars": "的"
+    },
+    {
+     "line": 27,
+     "col": 73,
+     "occ": 3,
+     "chars": "等"
+    },
+    {
+     "line": 27,
+     "col": 77,
+     "occ": 3,
+     "chars": "待"
+    },
+    {
+     "line": 27,
+     "col": 80,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 85,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 27,
+     "col": 87,
+     "occ": 3,
+     "chars": "们"
+    },
+    {
+     "line": 27,
+     "col": 89,
+     "occ": 3,
+     "chars": "的"
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 3,
+     "chars": "爱"
+    },
+    {
+     "line": 28,
+     "col": 2,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 6,
+     "occ": 3,
+     "chars": "明"
+    },
+    {
+     "line": 28,
+     "col": 10,
+     "occ": 3,
+     "chars": "白"
+    },
+    {
+     "line": 28,
+     "col": 14,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 18,
+     "occ": 3,
+     "chars": "已"
+    },
+    {
+     "line": 28,
+     "col": 21,
+     "occ": 3,
+     "chars": "变"
+    },
+    {
+     "line": 28,
+     "col": 25,
+     "occ": 3,
+     "chars": "成"
+    },
+    {
+     "line": 28,
+     "col": 27,
+     "occ": 3,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 31,
+     "occ": 3,
+     "chars": "的"
+    },
+    {
+     "line": 28,
+     "col": 35,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 40,
+     "occ": 3,
+     "chars": "负"
+    },
+    {
+     "line": 28,
+     "col": 44,
+     "occ": 3,
+     "chars": "担"
+    },
+    {
+     "line": 28,
+     "col": 48,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 51,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 53,
+     "occ": 3,
+     "chars": "只"
+    },
+    {
+     "line": 28,
+     "col": 56,
+     "occ": 3,
+     "chars": "是"
+    },
+    {
+     "line": 28,
+     "col": 61,
+     "occ": 3,
+     "chars": "永"
+    },
+    {
+     "line": 28,
+     "col": 65,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 70,
+     "occ": 3,
+     "chars": "远"
+    },
+    {
+     "line": 28,
+     "col": 74,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 77,
+     "occ": 3,
+     "chars": "都"
+    },
+    {
+     "line": 28,
+     "col": 82,
+     "occ": 3,
+     "chars": "放"
+    },
+    {
+     "line": 28,
+     "col": 86,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 91,
+     "occ": 3,
+     "chars": "不"
+    },
+    {
+     "line": 29,
+     "col": 0,
+     "occ": 3,
+     "chars": "开"
+    },
+    {
+     "line": 29,
+     "col": 2,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 3,
+     "occ": 3,
+     "chars": "最"
+    },
+    {
+     "line": 29,
+     "col": 6,
+     "occ": 3,
+     "chars": "后"
+    },
+    {
+     "line": 29,
+     "col": 11,
+     "occ": 3,
+     "chars": "的"
+    },
+    {
+     "line": 29,
+     "col": 15,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 20,
+     "occ": 3,
+     "chars": "温"
+    },
+    {
+     "line": 29,
+     "col": 23,
+     "occ": 3,
+     "chars": "暖"
+    },
+    {
+     "line": 29,
+     "col": 27,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 30,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 31,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 32,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 38,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 38,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 38,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 38,
+     "col": 4,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 38,
+     "col": 8,
+     "occ": 1,
+     "chars": "给"
+    },
+    {
+     "line": 39,
+     "col": 0,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 39,
+     "col": 5,
+     "occ": 1,
+     "chars": "温"
+    },
+    {
+     "line": 39,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 39,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 39,
+     "col": 16,
+     "occ": 1,
+     "chars": "暖"
+    },
+    {
+     "line": 39,
+     "col": 18,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 39,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    }
+   ],
+   "stats": {
+    "n_notes": 480,
+    "n_syllable": 325,
+    "n_events": 480
+   },
+   "conservation": {
+    "n_slot_han": 325,
+    "n_raw_han": 181,
+    "missing": []
+   }
+  }
+ }
+}

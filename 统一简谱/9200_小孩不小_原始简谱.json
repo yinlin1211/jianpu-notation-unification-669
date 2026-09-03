@@ -1,0 +1,487 @@
+{
+ "songdata": {
+  "song_name": "小孩不小",
+  "alias_name": "",
+  "music_composer": "",
+  "lyric_composer": "",
+  "music_composer666": "陈志敏",
+  "music_order": "歌手作曲作词",
+  "lyric_composer666": "陶行知",
+  "rhythm": "2/4",
+  "keynote": "1=F",
+  "comment": "",
+  "music_url": "",
+  "notation": " 5d3|21|6d(1x2x)|5d0|5.3x|21|6d(1x3x)|2X|3.5x|23|12|6d-|5.1x|3x3x5|32|10:|X-|||",
+  "tags": "",
+  "lyric": "[\"人人都说小孩/小，谁知人小心不/小。嗨！你若小看小孩子，就比小孩子还要小。嗨！\"]",
+  "price": "",
+  "hot": 0,
+  "instruments": "o6,o12,o3,x8,x10,p8,h7,a6",
+  "fingerings": "o6-F,o6-G,o12-F,o12-G,o12-bB,o3-F,o3-G,o3-C,o3-bB,x8-F,x8-G,x8-bB,x10-C,x10-F,x10-G,x10-bB,p8-F,p8-bB,p8-C,p8-bA,h7-F,a6-F",
+  "tonalities": "o6-AC,o12-AC,o12-AG,o3-AC,o3-AF,o3-AG,h7-C,a6-C",
+  "scores": "[{\"tag\":\"o6@fF5@g\",\"name\":\"六孔陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o6@fG5@g\",\"name\":\"六孔陶笛G调指法图谱\"},{\"tag\":\"o12@fF5@g\",\"name\":\"十二孔陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o12@fG5@g\",\"name\":\"十二孔陶笛G调指法图谱\"},{\"tag\":\"o12@fbB5@g\",\"name\":\"十二孔陶笛bB调指法图谱\"},{\"tag\":\"o3@fF5@g\",\"name\":\"三管陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o3@fG5@g\",\"name\":\"三管陶笛G调指法图谱\"},{\"tag\":\"o3@fC6@g\",\"name\":\"三管陶笛C调指法图谱\"},{\"tag\":\"o3@fbB5@g\",\"name\":\"三管陶笛bB调指法图谱\"},{\"tag\":\"x8@fF5@g\",\"name\":\"八孔埙F调指法图谱\",\"best\":1},{\"tag\":\"x8@fG5@g\",\"name\":\"八孔埙G调指法图谱\"},{\"tag\":\"x8@fbB5@g\",\"name\":\"八孔埙bB调指法图谱\"},{\"tag\":\"x10@fC6@g\",\"name\":\"十孔埙C调指法图谱\",\"best\":1},{\"tag\":\"x10@fF5@g\",\"name\":\"十孔埙F调指法图谱\"},{\"tag\":\"x10@fG5@g\",\"name\":\"十孔埙G调指法图谱\"},{\"tag\":\"x10@fbB5@g\",\"name\":\"十孔埙bB调指法图谱\"},{\"tag\":\"p8@fF4@g\",\"name\":\"八孔洞箫F调指法图谱\",\"best\":1},{\"tag\":\"p8@fbB4@g\",\"name\":\"八孔洞箫bB调指法图谱\"},{\"tag\":\"p8@fC5@g\",\"name\":\"八孔洞箫C调指法图谱\"},{\"tag\":\"p8@fbA4@g\",\"name\":\"八孔洞箫bA调指法图谱\"},{\"tag\":\"h7@fF5@g\",\"name\":\"葫芦丝F调指法图谱\",\"best\":1},{\"tag\":\"a6@fF5@g\",\"name\":\"六筒陶笛(APP)F调指法图谱\",\"best\":1}]",
+  "source": "{song_name:小孩不小}\n{music_composer666:陈志敏}\n{lyric_composer666:陶行知}\n{time_signature:2/4}\n{key_signature:F}\n{music_order:歌手作曲作词}\n 5,3|21|6,(1_2_)|5,0|5.3_|21|6,(1_3_)|2X|3.5_|23|12|6,-|5.1_|3_3_5|32|10:|X-|||\n\n{lyric}\n人人都说小孩/小，谁知人小心不/小。嗨！你若小看小孩子，就比小孩子还要小。嗨！\n{/lyric}",
+  "_id": 9200,
+  "_collected_at": "2026-01-26T14:55:30.674Z",
+  "notation_raw": " 5,3|21|6,(1_2_)|5,0|5.3_|21|6,(1_3_)|2X|3.5_|23|12|6,-|5.1_|3_3_5|32|10:|X-|||",
+  "notation_dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "lyric_layer": {
+   "raw_lyric": "[\"人人都说小孩/小，谁知人小心不/小。嗨！你若小看小孩子，就比小孩子还要小。嗨！\"]",
+   "raw_lyric_parsed": [
+    "人人都说小孩/小，谁知人小心不/小。嗨！你若小看小孩子，就比小孩子还要小。嗨！"
+   ],
+   "pinyin_slots": [],
+   "slots": [
+    {
+     "line": 15,
+     "col": 1,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 15,
+     "col": 3,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 15,
+     "col": 5,
+     "occ": 1,
+     "chars": "都"
+    },
+    {
+     "line": 15,
+     "col": 6,
+     "occ": 1,
+     "chars": "说"
+    },
+    {
+     "line": 15,
+     "col": 8,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 11,
+     "occ": 1,
+     "chars": "孩"
+    },
+    {
+     "line": 15,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 17,
+     "occ": 1,
+     "chars": "小，"
+    },
+    {
+     "line": 15,
+     "col": 19,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 21,
+     "occ": 1,
+     "chars": "谁"
+    },
+    {
+     "line": 15,
+     "col": 23,
+     "occ": 1,
+     "chars": "知"
+    },
+    {
+     "line": 15,
+     "col": 26,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 15,
+     "col": 27,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 29,
+     "occ": 1,
+     "chars": "心"
+    },
+    {
+     "line": 15,
+     "col": 32,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 15,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 38,
+     "occ": 1,
+     "chars": "小。"
+    },
+    {
+     "line": 15,
+     "col": 39,
+     "occ": 1,
+     "chars": "嗨！"
+    },
+    {
+     "line": 15,
+     "col": 41,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 15,
+     "col": 43,
+     "occ": 1,
+     "chars": "若"
+    },
+    {
+     "line": 15,
+     "col": 46,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 47,
+     "occ": 1,
+     "chars": "看"
+    },
+    {
+     "line": 15,
+     "col": 49,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 50,
+     "occ": 1,
+     "chars": "孩"
+    },
+    {
+     "line": 15,
+     "col": 52,
+     "occ": 1,
+     "chars": "子，"
+    },
+    {
+     "line": 15,
+     "col": 54,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 56,
+     "occ": 1,
+     "chars": "就"
+    },
+    {
+     "line": 15,
+     "col": 58,
+     "occ": 1,
+     "chars": "比"
+    },
+    {
+     "line": 15,
+     "col": 61,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 63,
+     "occ": 1,
+     "chars": "孩"
+    },
+    {
+     "line": 15,
+     "col": 65,
+     "occ": 1,
+     "chars": "子"
+    },
+    {
+     "line": 15,
+     "col": 67,
+     "occ": 1,
+     "chars": "还"
+    },
+    {
+     "line": 15,
+     "col": 68,
+     "occ": 1,
+     "chars": "要"
+    },
+    {
+     "line": 15,
+     "col": 70,
+     "occ": 1,
+     "chars": "小。"
+    },
+    {
+     "line": 15,
+     "col": 71,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 1,
+     "occ": 2,
+     "chars": "人"
+    },
+    {
+     "line": 15,
+     "col": 3,
+     "occ": 2,
+     "chars": "人"
+    },
+    {
+     "line": 15,
+     "col": 5,
+     "occ": 2,
+     "chars": "都"
+    },
+    {
+     "line": 15,
+     "col": 6,
+     "occ": 2,
+     "chars": "说"
+    },
+    {
+     "line": 15,
+     "col": 8,
+     "occ": 2,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 11,
+     "occ": 2,
+     "chars": "孩"
+    },
+    {
+     "line": 15,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 17,
+     "occ": 2,
+     "chars": "小，"
+    },
+    {
+     "line": 15,
+     "col": 19,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 21,
+     "occ": 2,
+     "chars": "谁"
+    },
+    {
+     "line": 15,
+     "col": 23,
+     "occ": 2,
+     "chars": "知"
+    },
+    {
+     "line": 15,
+     "col": 26,
+     "occ": 2,
+     "chars": "人"
+    },
+    {
+     "line": 15,
+     "col": 27,
+     "occ": 2,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 29,
+     "occ": 2,
+     "chars": "心"
+    },
+    {
+     "line": 15,
+     "col": 32,
+     "occ": 2,
+     "chars": "不"
+    },
+    {
+     "line": 15,
+     "col": 34,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 38,
+     "occ": 2,
+     "chars": "小。"
+    },
+    {
+     "line": 15,
+     "col": 39,
+     "occ": 2,
+     "chars": "嗨！"
+    },
+    {
+     "line": 15,
+     "col": 41,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 15,
+     "col": 43,
+     "occ": 2,
+     "chars": "若"
+    },
+    {
+     "line": 15,
+     "col": 46,
+     "occ": 2,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 47,
+     "occ": 2,
+     "chars": "看"
+    },
+    {
+     "line": 15,
+     "col": 49,
+     "occ": 2,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 50,
+     "occ": 2,
+     "chars": "孩"
+    },
+    {
+     "line": 15,
+     "col": 52,
+     "occ": 2,
+     "chars": "子，"
+    },
+    {
+     "line": 15,
+     "col": 54,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 56,
+     "occ": 2,
+     "chars": "就"
+    },
+    {
+     "line": 15,
+     "col": 58,
+     "occ": 2,
+     "chars": "比"
+    },
+    {
+     "line": 15,
+     "col": 61,
+     "occ": 2,
+     "chars": "小"
+    },
+    {
+     "line": 15,
+     "col": 63,
+     "occ": 2,
+     "chars": "孩"
+    },
+    {
+     "line": 15,
+     "col": 65,
+     "occ": 2,
+     "chars": "子"
+    },
+    {
+     "line": 15,
+     "col": 67,
+     "occ": 2,
+     "chars": "还"
+    },
+    {
+     "line": 15,
+     "col": 68,
+     "occ": 2,
+     "chars": "要"
+    },
+    {
+     "line": 15,
+     "col": 70,
+     "occ": 2,
+     "chars": "小。"
+    },
+    {
+     "line": 15,
+     "col": 71,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 15,
+     "col": 74,
+     "occ": 1,
+     "chars": "嗨！"
+    },
+    {
+     "line": 15,
+     "col": 75,
+     "occ": 1,
+     "chars": ""
+    }
+   ],
+   "stats": {
+    "n_notes": 72,
+    "n_syllable": 61,
+    "n_events": 72
+   },
+   "conservation": {
+    "n_slot_han": 61,
+    "n_raw_han": 31,
+    "missing": []
+   }
+  }
+ }
+}

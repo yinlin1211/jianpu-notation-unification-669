@@ -1,0 +1,5984 @@
+{
+ "songdata": {
+  "song_name": "游山恋",
+  "alias_name": "",
+  "music_composer": "海伦",
+  "lyric_composer": "",
+  "music_composer666": "海伦",
+  "music_order": "歌手作曲作词",
+  "lyric_composer666": "海伦",
+  "rhythm": "4/4",
+  "keynote": "1=F",
+  "comment": "",
+  "music_url": "",
+  "notation": "{play:A B B C B}\n{hot}\nA:\n6dx1x1x6dx2x3x2|3x35dx6d-|6dx1x1x6dx2x3x2|32x5x33x5x|61x3x21x2x|\n35dx1x6d6dx5dx|6d0x3x2x(3xx2xx)1x(7dx|7dx)(6dx6d)-1x7dx|6d1(2x3x)2|3x3x5x2x31x7dx|\n6d12x3x5x2x|3-03x5x|65x1x21x2x|36dx1x6d6dx5dx|6dx6dx0x3x(2x3xx2xx)1x7dx|\n6d--0|{omit:4m}|6d.1x25|3---|6d.1x23|(3)@6---|\nB:\n3x2x3x5x5x3x3x(2x|\n2x)(3x3)--|3x2x3x5x5x3x2|5dx(6dx6d)-1x2x|66x3x2-|23x5dx6d-|\n6dx5dx6dx1x0x(2x2x)5dx|6d---:|\nC:\n6dx1x1x6dx2x3x2|3x35dx6d-|1x1x1x6dx2x3x2|32x5x33x5x|61x3x21x2x|\n33x5dx66dx5dx|6d0x3x2x.(3xx3x)5dx|6d---|||\n\n",
+  "tags": "",
+  "lyric": "[\"我醉提酒游寒山 霜华满天 一吸寒气冷风翻 酒洒河山 仰望 蓝水云烟 翩翩雀落人间 抬手间 我酒落；湿衫；前； 你看雪花 飘；散 芊芊换白观 白发老人背着孩下山 远观天仙舞欢我今醉酒悠哉 一别寒山 我何；；时归来 啊啊啊啊啊啊啊啊啊啊  我欲迎风在留住几；步； 怎舍寒风吹动我痛处； 我说寒山别哭 我带你出 我敬滴酒带；你出    我醉提酒游寒山 难舍美观 仙着衣裳抚琴欢 美人奏弦 你看白雪人间 你看冰川璀璨 来者恋 如大梦；眼前  \",\"；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；； 我欲成冰再也无退；路； 怎舍寒冰冰冻我心哭； 我说寒山别哭 我带你出 我画美观带；你出\"]",
+  "price": "",
+  "hot": 1,
+  "instruments": "o6,o12,o3,x8,x10,p8,h7,a6",
+  "fingerings": "o6-F,o12-F,o12-G,o3-F,o3-G,o3-C,o3-bB,x8-F,x8-G,x10-F,x10-G,x10-bB,p8-F,p8-bB,p8-C,p8-bA,h7-F,a6-F",
+  "tonalities": "o6-AC,o12-AC,o3-AC,o3-AF,o3-AG,h7-C,a6-C",
+  "scores": "[{\"tag\":\"o6@fF5@g\",\"name\":\"六孔陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o12@fF5@g\",\"name\":\"十二孔陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o12@fG5@g\",\"name\":\"十二孔陶笛G调指法图谱\"},{\"tag\":\"o3@fF5@g\",\"name\":\"三管陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o3@fG5@g\",\"name\":\"三管陶笛G调指法图谱\"},{\"tag\":\"o3@fC6@g\",\"name\":\"三管陶笛C调指法图谱\"},{\"tag\":\"o3@fbB5@g\",\"name\":\"三管陶笛bB调指法图谱\"},{\"tag\":\"x8@fF5@g\",\"name\":\"八孔埙F调指法图谱\",\"best\":1},{\"tag\":\"x8@fG5@g\",\"name\":\"八孔埙G调指法图谱\"},{\"tag\":\"x10@fF5@g\",\"name\":\"十孔埙F调指法图谱\",\"best\":1},{\"tag\":\"x10@fG5@g\",\"name\":\"十孔埙G调指法图谱\"},{\"tag\":\"x10@fbB5@g\",\"name\":\"十孔埙bB调指法图谱\"},{\"tag\":\"p8@fF4@g\",\"name\":\"八孔洞箫F调指法图谱\",\"best\":1},{\"tag\":\"p8@fbB4@g\",\"name\":\"八孔洞箫bB调指法图谱\"},{\"tag\":\"p8@fC5@g\",\"name\":\"八孔洞箫C调指法图谱\"},{\"tag\":\"p8@fbA4@g\",\"name\":\"八孔洞箫bA调指法图谱\"},{\"tag\":\"h7@fF5@g\",\"name\":\"葫芦丝F调指法图谱\",\"best\":1},{\"tag\":\"a6@fF5@g\",\"name\":\"六筒陶笛(APP)F调指法图谱\",\"best\":1}]",
+  "source": "{song_name:游山恋}\n{music_composer:海伦}\n{music_composer666:海伦}\n{lyric_composer666:海伦}\n{time_signature:4/4}\n{key_signature:F}\n{music_order:歌手作曲作词}\n{play:A B B C B}\n{hot}\nA:\n6dx1x1x6dx2x3x2|3x35dx6d-|6dx1x1x6dx2x3x2|32x5x33x5x|61x3x21x2x|\n35dx1x6d6dx5dx|6d0x3x2x(3xx2xx)1x(7dx|7dx)(6dx6d)-1x7dx|6d1(2x3x)2|3x3x5x2x31x7dx|\n6d12x3x5x2x|3-03x5x|65x1x21x2x|36dx1x6d6dx5dx|6dx6dx0x3x(2x3xx2xx)1x7dx|\n6d--0|{omit:4m}|6d.1x25|3---|6d.1x23|(3)@6---|\nB:\n3x2x3x5x5x3x3x(2x|\n2x)(3x3)--|3x2x3x5x5x3x2|5dx(6dx6d)-1x2x|66x3x2-|23x5dx6d-|\n6dx5dx6dx1x0x(2x2x)5dx|6d---:|\nC:\n6dx1x1x6dx2x3x2|3x35dx6d-|1x1x1x6dx2x3x2|32x5x33x5x|61x3x21x2x|\n33x5dx66dx5dx|6d0x3x2x.(3xx3x)5dx|6d---|||\n\n\n\n{lyric}\n我醉提酒游寒山 霜华满天 一吸寒气冷风翻 酒洒河山 仰望 蓝水云烟 翩翩雀落人间 抬手间 我酒落；湿衫；前； 你看雪花 飘；散 芊芊换白观 白发老人背着孩下山 远观天仙舞欢我今醉酒悠哉 一别寒山 我何；；时归来 啊啊啊啊啊啊啊啊啊啊  我欲迎风在留住几；步； 怎舍寒风吹动我痛处； 我说寒山别哭 我带你出 我敬滴酒带；你出    我醉提酒游寒山 难舍美观 仙着衣裳抚琴欢 美人奏弦 你看白雪人间 你看冰川璀璨 来者恋 如大梦；眼前  \n{/lyric}\n\n{lyric}\n；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；； 我欲成冰再也无退；路； 怎舍寒冰冰冻我心哭； 我说寒山别哭 我带你出 我画美观带；你出\n{/lyric}",
+  "_id": 3617,
+  "_collected_at": "2026-01-26T16:22:18.074Z",
+  "notation_raw": "{play:A B B C B}\n{hot}\nA:\n6dx1x1x6dx2x3x2|3x35dx6d-|6dx1x1x6dx2x3x2|32x5x33x5x|61x3x21x2x|\n35dx1x6d6dx5dx|6d0x3x2x(3xx2xx)1x(7dx|7dx)(6dx6d)-1x7dx|6d1(2x3x)2|3x3x5x2x31x7dx|\n6d12x3x5x2x|3-03x5x|65x1x21x2x|36dx1x6d6dx5dx|6dx6dx0x3x(2x3xx2xx)1x7dx|\n6d--0|{omit:4m}|6d.1x25|3---|6d.1x23|(3)@6---|\nB:\n3x2x3x5x5x3x3x(2x|\n2x)(3x3)--|3x2x3x5x5x3x2|5dx(6dx6d)-1x2x|66x3x2-|23x5dx6d-|\n6dx5dx6dx1x0x(2x2x)5dx|6d---:|\nC:\n6dx1x1x6dx2x3x2|3x35dx6d-|1x1x1x6dx2x3x2|32x5x33x5x|61x3x21x2x|\n33x5dx66dx5dx|6d0x3x2x.(3xx3x)5dx|6d---|||\n\n",
+  "notation_dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "lyric_layer": {
+   "raw_lyric": "[\"我醉提酒游寒山 霜华满天 一吸寒气冷风翻 酒洒河山 仰望 蓝水云烟 翩翩雀落人间 抬手间 我酒落；湿衫；前； 你看雪花 飘；散 芊芊换白观 白发老人背着孩下山 远观天仙舞欢我今醉酒悠哉 一别寒山 我何；；时归来 啊啊啊啊啊啊啊啊啊啊  我欲迎风在留住几；步； 怎舍寒风吹动我痛处； 我说寒山别哭 我带你出 我敬滴酒带；你出    我醉提酒游寒山 难舍美观 仙着衣裳抚琴欢 美人奏弦 你看白雪人间 你看冰川璀璨 来者恋 如大梦；眼前  \",\"；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；； 我欲成冰再也无退；路； 怎舍寒冰冰冻我心哭； 我说寒山别哭 我带你出 我画美观带；你出\"]",
+   "raw_lyric_parsed": [
+    "我醉提酒游寒山 霜华满天 一吸寒气冷风翻 酒洒河山 仰望 蓝水云烟 翩翩雀落人间 抬手间 我酒落；湿衫；前； 你看雪花 飘；散 芊芊换白观 白发老人背着孩下山 远观天仙舞欢我今醉酒悠哉 一别寒山 我何；；时归来 啊啊啊啊啊啊啊啊啊啊  我欲迎风在留住几；步； 怎舍寒风吹动我痛处； 我说寒山别哭 我带你出 我敬滴酒带；你出    我醉提酒游寒山 难舍美观 仙着衣裳抚琴欢 美人奏弦 你看白雪人间 你看冰川璀璨 来者恋 如大梦；眼前  ",
+    "；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；； 我欲成冰再也无退；路； 怎舍寒冰冰冻我心哭； 我说寒山别哭 我带你出 我画美观带；你出"
+   ],
+   "pinyin_slots": [],
+   "slots": [
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 19,
+     "col": 3,
+     "occ": 1,
+     "chars": "醉"
+    },
+    {
+     "line": 19,
+     "col": 5,
+     "occ": 1,
+     "chars": "提"
+    },
+    {
+     "line": 19,
+     "col": 7,
+     "occ": 1,
+     "chars": "酒"
+    },
+    {
+     "line": 19,
+     "col": 10,
+     "occ": 1,
+     "chars": "游"
+    },
+    {
+     "line": 19,
+     "col": 12,
+     "occ": 1,
+     "chars": "寒"
+    },
+    {
+     "line": 19,
+     "col": 14,
+     "occ": 1,
+     "chars": "山"
+    },
+    {
+     "line": 19,
+     "col": 16,
+     "occ": 1,
+     "chars": "霜"
+    },
+    {
+     "line": 19,
+     "col": 18,
+     "occ": 1,
+     "chars": "华"
+    },
+    {
+     "line": 19,
+     "col": 19,
+     "occ": 1,
+     "chars": "满"
+    },
+    {
+     "line": 19,
+     "col": 22,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 19,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 26,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 19,
+     "col": 29,
+     "occ": 1,
+     "chars": "吸"
+    },
+    {
+     "line": 19,
+     "col": 31,
+     "occ": 1,
+     "chars": "寒"
+    },
+    {
+     "line": 19,
+     "col": 33,
+     "occ": 1,
+     "chars": "气"
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 1,
+     "chars": "冷"
+    },
+    {
+     "line": 19,
+     "col": 38,
+     "occ": 1,
+     "chars": "风"
+    },
+    {
+     "line": 19,
+     "col": 40,
+     "occ": 1,
+     "chars": "翻"
+    },
+    {
+     "line": 19,
+     "col": 42,
+     "occ": 1,
+     "chars": "酒"
+    },
+    {
+     "line": 19,
+     "col": 43,
+     "occ": 1,
+     "chars": "洒"
+    },
+    {
+     "line": 19,
+     "col": 45,
+     "occ": 1,
+     "chars": "河"
+    },
+    {
+     "line": 19,
+     "col": 47,
+     "occ": 1,
+     "chars": "山"
+    },
+    {
+     "line": 19,
+     "col": 48,
+     "occ": 1,
+     "chars": "仰"
+    },
+    {
+     "line": 19,
+     "col": 50,
+     "occ": 1,
+     "chars": "望"
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 1,
+     "chars": "蓝"
+    },
+    {
+     "line": 19,
+     "col": 54,
+     "occ": 1,
+     "chars": "水"
+    },
+    {
+     "line": 19,
+     "col": 56,
+     "occ": 1,
+     "chars": "云"
+    },
+    {
+     "line": 19,
+     "col": 58,
+     "occ": 1,
+     "chars": "烟"
+    },
+    {
+     "line": 19,
+     "col": 59,
+     "occ": 1,
+     "chars": "翩"
+    },
+    {
+     "line": 19,
+     "col": 61,
+     "occ": 1,
+     "chars": "翩"
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 1,
+     "chars": "雀"
+    },
+    {
+     "line": 20,
+     "col": 1,
+     "occ": 1,
+     "chars": "落"
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 1,
+     "chars": "间"
+    },
+    {
+     "line": 20,
+     "col": 8,
+     "occ": 1,
+     "chars": "抬"
+    },
+    {
+     "line": 20,
+     "col": 11,
+     "occ": 1,
+     "chars": "手"
+    },
+    {
+     "line": 20,
+     "col": 15,
+     "occ": 1,
+     "chars": "间"
+    },
+    {
+     "line": 20,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 19,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 20,
+     "col": 21,
+     "occ": 1,
+     "chars": "酒"
+    },
+    {
+     "line": 20,
+     "col": 24,
+     "occ": 1,
+     "chars": "落"
+    },
+    {
+     "line": 20,
+     "col": 27,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 31,
+     "occ": 1,
+     "chars": "湿"
+    },
+    {
+     "line": 20,
+     "col": 34,
+     "occ": 1,
+     "chars": "衫"
+    },
+    {
+     "line": 20,
+     "col": 38,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 43,
+     "occ": 1,
+     "chars": "前"
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 49,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 50,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 20,
+     "col": 52,
+     "occ": 1,
+     "chars": "看"
+    },
+    {
+     "line": 20,
+     "col": 56,
+     "occ": 1,
+     "chars": "雪"
+    },
+    {
+     "line": 20,
+     "col": 58,
+     "occ": 1,
+     "chars": "花"
+    },
+    {
+     "line": 20,
+     "col": 60,
+     "occ": 1,
+     "chars": "飘"
+    },
+    {
+     "line": 20,
+     "col": 62,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 65,
+     "occ": 1,
+     "chars": "散"
+    },
+    {
+     "line": 20,
+     "col": 67,
+     "occ": 1,
+     "chars": "芊"
+    },
+    {
+     "line": 20,
+     "col": 69,
+     "occ": 1,
+     "chars": "芊"
+    },
+    {
+     "line": 20,
+     "col": 71,
+     "occ": 1,
+     "chars": "换"
+    },
+    {
+     "line": 20,
+     "col": 73,
+     "occ": 1,
+     "chars": "白"
+    },
+    {
+     "line": 20,
+     "col": 75,
+     "occ": 1,
+     "chars": "观"
+    },
+    {
+     "line": 20,
+     "col": 76,
+     "occ": 1,
+     "chars": "白"
+    },
+    {
+     "line": 20,
+     "col": 78,
+     "occ": 1,
+     "chars": "发"
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 1,
+     "chars": "老"
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 21,
+     "col": 3,
+     "occ": 1,
+     "chars": "背"
+    },
+    {
+     "line": 21,
+     "col": 5,
+     "occ": 1,
+     "chars": "着"
+    },
+    {
+     "line": 21,
+     "col": 7,
+     "occ": 1,
+     "chars": "孩"
+    },
+    {
+     "line": 21,
+     "col": 9,
+     "occ": 1,
+     "chars": "下"
+    },
+    {
+     "line": 21,
+     "col": 12,
+     "occ": 1,
+     "chars": "山"
+    },
+    {
+     "line": 21,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 15,
+     "occ": 1,
+     "chars": "远"
+    },
+    {
+     "line": 21,
+     "col": 17,
+     "occ": 1,
+     "chars": "观"
+    },
+    {
+     "line": 21,
+     "col": 20,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 21,
+     "col": 21,
+     "occ": 1,
+     "chars": "仙"
+    },
+    {
+     "line": 21,
+     "col": 23,
+     "occ": 1,
+     "chars": "舞"
+    },
+    {
+     "line": 21,
+     "col": 25,
+     "occ": 1,
+     "chars": "欢"
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 21,
+     "col": 28,
+     "occ": 1,
+     "chars": "今"
+    },
+    {
+     "line": 21,
+     "col": 31,
+     "occ": 1,
+     "chars": "醉"
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 1,
+     "chars": "酒"
+    },
+    {
+     "line": 21,
+     "col": 35,
+     "occ": 1,
+     "chars": "悠"
+    },
+    {
+     "line": 21,
+     "col": 37,
+     "occ": 1,
+     "chars": "哉"
+    },
+    {
+     "line": 21,
+     "col": 39,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 21,
+     "col": 42,
+     "occ": 1,
+     "chars": "别"
+    },
+    {
+     "line": 21,
+     "col": 46,
+     "occ": 1,
+     "chars": "寒"
+    },
+    {
+     "line": 21,
+     "col": 49,
+     "occ": 1,
+     "chars": "山"
+    },
+    {
+     "line": 21,
+     "col": 52,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 54,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 21,
+     "col": 57,
+     "occ": 1,
+     "chars": "何"
+    },
+    {
+     "line": 21,
+     "col": 59,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 62,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 66,
+     "occ": 1,
+     "chars": "时"
+    },
+    {
+     "line": 21,
+     "col": 68,
+     "occ": 1,
+     "chars": "归"
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 1,
+     "chars": "来"
+    },
+    {
+     "line": 22,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 3,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 16,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 21,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 22,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 25,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 26,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 27,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 29,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 32,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 34,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 35,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 41,
+     "occ": 1,
+     "chars": "啊"
+    },
+    {
+     "line": 22,
+     "col": 42,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 43,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 44,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 1,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 1,
+     "chars": "迎"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 1,
+     "chars": "风"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 1,
+     "chars": "留"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 1,
+     "chars": "住"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 1,
+     "chars": "几"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 1,
+     "chars": "步"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 1,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 1,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 1,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 1,
+     "chars": "风"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 1,
+     "chars": "吹"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 1,
+     "chars": "动"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 1,
+     "chars": "痛"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 1,
+     "chars": "处"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 1,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 1,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 1,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 1,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 1,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 1,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 1,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 1,
+     "chars": "敬"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 1,
+     "chars": "滴"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 1,
+     "chars": "酒"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 1,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 1,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 3,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 5,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 7,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 10,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 12,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 14,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 16,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 18,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 19,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 22,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 24,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 26,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 29,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 31,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 33,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 38,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 40,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 42,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 43,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 45,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 47,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 48,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 50,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 54,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 56,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 58,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 59,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 61,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 1,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 8,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 11,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 15,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 17,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 19,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 21,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 24,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 27,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 31,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 34,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 38,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 43,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 49,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 50,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 52,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 56,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 58,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 60,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 62,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 65,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 67,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 69,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 71,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 73,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 75,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 76,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 78,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 3,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 5,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 7,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 9,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 12,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 15,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 17,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 20,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 21,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 23,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 25,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 28,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 31,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 35,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 37,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 39,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 42,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 46,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 49,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 52,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 54,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 57,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 59,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 62,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 66,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 68,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 2,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 3,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 16,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 21,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 22,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 25,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 26,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 27,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 29,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 32,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 34,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 35,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 41,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 42,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 43,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 44,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 2,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 2,
+     "chars": "成"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 2,
+     "chars": "冰"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 2,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 2,
+     "chars": "也"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 2,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 2,
+     "chars": "退"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 2,
+     "chars": "路"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 2,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 2,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 2,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 2,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 2,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 2,
+     "chars": "冻"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 2,
+     "chars": "心"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 2,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 2,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 2,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 2,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 2,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 2,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 2,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 2,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 2,
+     "chars": "画"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 2,
+     "chars": "美"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 2,
+     "chars": "观"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 2,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 2,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 3,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 3,
+     "chars": "成"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 3,
+     "chars": "冰"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 3,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 3,
+     "chars": "也"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 3,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 3,
+     "chars": "退"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 3,
+     "chars": "路"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 3,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 3,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 3,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 3,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 3,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 3,
+     "chars": "冻"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 3,
+     "chars": "心"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 3,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 3,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 3,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 3,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 3,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 3,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 3,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 3,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 3,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 3,
+     "chars": "画"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 3,
+     "chars": "美"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 3,
+     "chars": "观"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 3,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 3,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 3,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 3,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 5,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 7,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 10,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 12,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 14,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 16,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 18,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 19,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 22,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 24,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 26,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 29,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 31,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 33,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 38,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 40,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 42,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 43,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 45,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 47,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 48,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 50,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 54,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 56,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 58,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 59,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 61,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 1,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 8,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 11,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 15,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 17,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 19,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 21,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 24,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 27,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 31,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 34,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 38,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 43,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 49,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 50,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 52,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 56,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 58,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 60,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 62,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 65,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 67,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 69,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 71,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 73,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 75,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 76,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 78,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 3,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 5,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 7,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 9,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 12,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 13,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 15,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 17,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 20,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 21,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 23,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 25,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 28,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 31,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 35,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 37,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 39,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 42,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 46,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 49,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 52,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 54,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 57,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 59,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 62,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 66,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 68,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 2,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 3,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 16,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 21,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 22,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 25,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 26,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 27,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 29,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 32,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 34,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 35,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 41,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 42,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 43,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 44,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 4,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 4,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 4,
+     "chars": "成"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 4,
+     "chars": "冰"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 4,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 4,
+     "chars": "也"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 4,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 4,
+     "chars": "退"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 4,
+     "chars": "路"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 4,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 4,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 4,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 4,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 4,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 4,
+     "chars": "冻"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 4,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 4,
+     "chars": "心"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 4,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 4,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 4,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 4,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 4,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 4,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 4,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 4,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 4,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 4,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 4,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 4,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 4,
+     "chars": "画"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 4,
+     "chars": "美"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 4,
+     "chars": "观"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 4,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 4,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 4,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 5,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 5,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 5,
+     "chars": "成"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 5,
+     "chars": "冰"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 5,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 5,
+     "chars": "也"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 5,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 5,
+     "chars": "退"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 5,
+     "chars": "路"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 5,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 5,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 5,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 5,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 5,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 5,
+     "chars": "冻"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 5,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 5,
+     "chars": "心"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 5,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 5,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 5,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 5,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 5,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 5,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 5,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 5,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 5,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 5,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 5,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 5,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 5,
+     "chars": "画"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 5,
+     "chars": "美"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 5,
+     "chars": "观"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 5,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 5,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 5,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 5,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 3,
+     "occ": 1,
+     "chars": "醉"
+    },
+    {
+     "line": 28,
+     "col": 5,
+     "occ": 1,
+     "chars": "提"
+    },
+    {
+     "line": 28,
+     "col": 7,
+     "occ": 1,
+     "chars": "酒"
+    },
+    {
+     "line": 28,
+     "col": 10,
+     "occ": 1,
+     "chars": "游"
+    },
+    {
+     "line": 28,
+     "col": 12,
+     "occ": 1,
+     "chars": "寒"
+    },
+    {
+     "line": 28,
+     "col": 14,
+     "occ": 1,
+     "chars": "山"
+    },
+    {
+     "line": 28,
+     "col": 16,
+     "occ": 1,
+     "chars": "难"
+    },
+    {
+     "line": 28,
+     "col": 18,
+     "occ": 1,
+     "chars": "舍"
+    },
+    {
+     "line": 28,
+     "col": 19,
+     "occ": 1,
+     "chars": "美"
+    },
+    {
+     "line": 28,
+     "col": 22,
+     "occ": 1,
+     "chars": "观"
+    },
+    {
+     "line": 28,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 26,
+     "occ": 1,
+     "chars": "仙"
+    },
+    {
+     "line": 28,
+     "col": 28,
+     "occ": 1,
+     "chars": "着"
+    },
+    {
+     "line": 28,
+     "col": 30,
+     "occ": 1,
+     "chars": "衣"
+    },
+    {
+     "line": 28,
+     "col": 32,
+     "occ": 1,
+     "chars": "裳"
+    },
+    {
+     "line": 28,
+     "col": 35,
+     "occ": 1,
+     "chars": "抚"
+    },
+    {
+     "line": 28,
+     "col": 37,
+     "occ": 1,
+     "chars": "琴"
+    },
+    {
+     "line": 28,
+     "col": 39,
+     "occ": 1,
+     "chars": "欢"
+    },
+    {
+     "line": 28,
+     "col": 41,
+     "occ": 1,
+     "chars": "美"
+    },
+    {
+     "line": 28,
+     "col": 42,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 28,
+     "col": 44,
+     "occ": 1,
+     "chars": "奏"
+    },
+    {
+     "line": 28,
+     "col": 46,
+     "occ": 1,
+     "chars": "弦"
+    },
+    {
+     "line": 28,
+     "col": 47,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 49,
+     "occ": 1,
+     "chars": "看"
+    },
+    {
+     "line": 28,
+     "col": 52,
+     "occ": 1,
+     "chars": "白"
+    },
+    {
+     "line": 28,
+     "col": 53,
+     "occ": 1,
+     "chars": "雪"
+    },
+    {
+     "line": 28,
+     "col": 55,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 28,
+     "col": 57,
+     "occ": 1,
+     "chars": "间"
+    },
+    {
+     "line": 28,
+     "col": 58,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 60,
+     "occ": 1,
+     "chars": "看"
+    },
+    {
+     "line": 29,
+     "col": 0,
+     "occ": 1,
+     "chars": "冰"
+    },
+    {
+     "line": 29,
+     "col": 1,
+     "occ": 1,
+     "chars": "川"
+    },
+    {
+     "line": 29,
+     "col": 3,
+     "occ": 1,
+     "chars": "璀"
+    },
+    {
+     "line": 29,
+     "col": 6,
+     "occ": 1,
+     "chars": "璨"
+    },
+    {
+     "line": 29,
+     "col": 7,
+     "occ": 1,
+     "chars": "来"
+    },
+    {
+     "line": 29,
+     "col": 10,
+     "occ": 1,
+     "chars": "者"
+    },
+    {
+     "line": 29,
+     "col": 14,
+     "occ": 1,
+     "chars": "恋"
+    },
+    {
+     "line": 29,
+     "col": 16,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 18,
+     "occ": 1,
+     "chars": "如"
+    },
+    {
+     "line": 29,
+     "col": 20,
+     "occ": 1,
+     "chars": "大"
+    },
+    {
+     "line": 29,
+     "col": 24,
+     "occ": 1,
+     "chars": "梦"
+    },
+    {
+     "line": 29,
+     "col": 27,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 30,
+     "occ": 1,
+     "chars": "眼"
+    },
+    {
+     "line": 29,
+     "col": 34,
+     "occ": 1,
+     "chars": "前"
+    },
+    {
+     "line": 29,
+     "col": 36,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 37,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 38,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 6,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 6,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 6,
+     "chars": "成"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 6,
+     "chars": "冰"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 6,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 6,
+     "chars": "也"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 6,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 6,
+     "chars": "退"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 6,
+     "chars": "路"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 6,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 6,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 6,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 6,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 6,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 6,
+     "chars": "冻"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 6,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 6,
+     "chars": "心"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 6,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 6,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 6,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 6,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 6,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 6,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 6,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 6,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 6,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 6,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 6,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 6,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 6,
+     "chars": "画"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 6,
+     "chars": "美"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 6,
+     "chars": "观"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 6,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 6,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 6,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 6,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 3,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 5,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 7,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 10,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 12,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 14,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 16,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 18,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 19,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 22,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 24,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 26,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 29,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 31,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 33,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 38,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 40,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 42,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 43,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 45,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 47,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 48,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 50,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 54,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 56,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 58,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 59,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 61,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 1,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 8,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 11,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 15,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 17,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 19,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 21,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 24,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 27,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 31,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 34,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 38,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 43,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 49,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 50,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 52,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 56,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 58,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 60,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 62,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 65,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 67,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 69,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 71,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 73,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 75,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 76,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 78,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 3,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 5,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 7,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 9,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 12,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 13,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 15,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 17,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 20,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 21,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 23,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 25,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 28,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 31,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 35,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 37,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 39,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 42,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 46,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 49,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 52,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 54,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 57,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 59,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 62,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 66,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 68,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 2,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 3,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 16,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 21,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 22,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 25,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 26,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 27,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 29,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 32,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 34,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 35,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 41,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 42,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 43,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 44,
+     "occ": 4,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 7,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 7,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 7,
+     "chars": "成"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 7,
+     "chars": "冰"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 7,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 7,
+     "chars": "也"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 7,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 7,
+     "chars": "退"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 7,
+     "chars": "路"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 7,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 7,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 7,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 7,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 7,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 7,
+     "chars": "冻"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 7,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 7,
+     "chars": "心"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 7,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 7,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 7,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 7,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 7,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 7,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 7,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 7,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 7,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 7,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 7,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 7,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 7,
+     "chars": "画"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 7,
+     "chars": "美"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 7,
+     "chars": "观"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 7,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 7,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 7,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 7,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 8,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 8,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 8,
+     "chars": "成"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 8,
+     "chars": "冰"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 8,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 8,
+     "chars": "也"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 8,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 8,
+     "chars": "退"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 8,
+     "chars": "路"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 8,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 8,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 8,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 8,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 8,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 8,
+     "chars": "冻"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 8,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 8,
+     "chars": "心"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 8,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 8,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 8,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 8,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 8,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 8,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 8,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 8,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 8,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 8,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 8,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 8,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 8,
+     "chars": "画"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 8,
+     "chars": "美"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 8,
+     "chars": "观"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 8,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 8,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 8,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 8,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 3,
+     "occ": 2,
+     "chars": "醉"
+    },
+    {
+     "line": 28,
+     "col": 5,
+     "occ": 2,
+     "chars": "提"
+    },
+    {
+     "line": 28,
+     "col": 7,
+     "occ": 2,
+     "chars": "酒"
+    },
+    {
+     "line": 28,
+     "col": 10,
+     "occ": 2,
+     "chars": "游"
+    },
+    {
+     "line": 28,
+     "col": 12,
+     "occ": 2,
+     "chars": "寒"
+    },
+    {
+     "line": 28,
+     "col": 14,
+     "occ": 2,
+     "chars": "山"
+    },
+    {
+     "line": 28,
+     "col": 16,
+     "occ": 2,
+     "chars": "难"
+    },
+    {
+     "line": 28,
+     "col": 18,
+     "occ": 2,
+     "chars": "舍"
+    },
+    {
+     "line": 28,
+     "col": 19,
+     "occ": 2,
+     "chars": "美"
+    },
+    {
+     "line": 28,
+     "col": 22,
+     "occ": 2,
+     "chars": "观"
+    },
+    {
+     "line": 28,
+     "col": 24,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 26,
+     "occ": 2,
+     "chars": "仙"
+    },
+    {
+     "line": 28,
+     "col": 28,
+     "occ": 2,
+     "chars": "着"
+    },
+    {
+     "line": 28,
+     "col": 30,
+     "occ": 2,
+     "chars": "衣"
+    },
+    {
+     "line": 28,
+     "col": 32,
+     "occ": 2,
+     "chars": "裳"
+    },
+    {
+     "line": 28,
+     "col": 35,
+     "occ": 2,
+     "chars": "抚"
+    },
+    {
+     "line": 28,
+     "col": 37,
+     "occ": 2,
+     "chars": "琴"
+    },
+    {
+     "line": 28,
+     "col": 39,
+     "occ": 2,
+     "chars": "欢"
+    },
+    {
+     "line": 28,
+     "col": 41,
+     "occ": 2,
+     "chars": "美"
+    },
+    {
+     "line": 28,
+     "col": 42,
+     "occ": 2,
+     "chars": "人"
+    },
+    {
+     "line": 28,
+     "col": 44,
+     "occ": 2,
+     "chars": "奏"
+    },
+    {
+     "line": 28,
+     "col": 46,
+     "occ": 2,
+     "chars": "弦"
+    },
+    {
+     "line": 28,
+     "col": 47,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 49,
+     "occ": 2,
+     "chars": "看"
+    },
+    {
+     "line": 28,
+     "col": 52,
+     "occ": 2,
+     "chars": "白"
+    },
+    {
+     "line": 28,
+     "col": 53,
+     "occ": 2,
+     "chars": "雪"
+    },
+    {
+     "line": 28,
+     "col": 55,
+     "occ": 2,
+     "chars": "人"
+    },
+    {
+     "line": 28,
+     "col": 57,
+     "occ": 2,
+     "chars": "间"
+    },
+    {
+     "line": 28,
+     "col": 58,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 60,
+     "occ": 2,
+     "chars": "看"
+    },
+    {
+     "line": 29,
+     "col": 0,
+     "occ": 2,
+     "chars": "冰"
+    },
+    {
+     "line": 29,
+     "col": 1,
+     "occ": 2,
+     "chars": "川"
+    },
+    {
+     "line": 29,
+     "col": 3,
+     "occ": 2,
+     "chars": "璀"
+    },
+    {
+     "line": 29,
+     "col": 6,
+     "occ": 2,
+     "chars": "璨"
+    },
+    {
+     "line": 29,
+     "col": 7,
+     "occ": 2,
+     "chars": "来"
+    },
+    {
+     "line": 29,
+     "col": 10,
+     "occ": 2,
+     "chars": "者"
+    },
+    {
+     "line": 29,
+     "col": 14,
+     "occ": 2,
+     "chars": "恋"
+    },
+    {
+     "line": 29,
+     "col": 16,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 18,
+     "occ": 2,
+     "chars": "如"
+    },
+    {
+     "line": 29,
+     "col": 20,
+     "occ": 2,
+     "chars": "大"
+    },
+    {
+     "line": 29,
+     "col": 24,
+     "occ": 2,
+     "chars": "梦"
+    },
+    {
+     "line": 29,
+     "col": 27,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 30,
+     "occ": 2,
+     "chars": "眼"
+    },
+    {
+     "line": 29,
+     "col": 34,
+     "occ": 2,
+     "chars": "前"
+    },
+    {
+     "line": 29,
+     "col": 36,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 37,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 38,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 9,
+     "chars": "我"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 9,
+     "chars": "欲"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 9,
+     "chars": "成"
+    },
+    {
+     "line": 24,
+     "col": 6,
+     "occ": 9,
+     "chars": "冰"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 9,
+     "chars": "再"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 9,
+     "chars": "也"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 9,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 15,
+     "occ": 9,
+     "chars": "退"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 9,
+     "chars": "路"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 9,
+     "chars": "怎"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 9,
+     "chars": "舍"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 9,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 9,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 9,
+     "chars": "冰"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 9,
+     "chars": "冻"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 9,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 25,
+     "occ": 9,
+     "chars": "心"
+    },
+    {
+     "line": 25,
+     "col": 29,
+     "occ": 9,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 32,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 35,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 9,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 9,
+     "chars": "说"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 9,
+     "chars": "寒"
+    },
+    {
+     "line": 25,
+     "col": 42,
+     "occ": 9,
+     "chars": "山"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 9,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 46,
+     "occ": 9,
+     "chars": "哭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 49,
+     "occ": 9,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 9,
+     "chars": "带"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 9,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 9,
+     "chars": "出"
+    },
+    {
+     "line": 25,
+     "col": 57,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 9,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 9,
+     "chars": "画"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 9,
+     "chars": "美"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 9,
+     "chars": "观"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 14,
+     "occ": 9,
+     "chars": "带"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 19,
+     "occ": 9,
+     "chars": "你"
+    },
+    {
+     "line": 26,
+     "col": 23,
+     "occ": 9,
+     "chars": "出"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 9,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 9,
+     "chars": ""
+    }
+   ],
+   "stats": {
+    "n_notes": 988,
+    "n_syllable": 493,
+    "n_events": 988
+   },
+   "conservation": {
+    "n_slot_han": 493,
+    "n_raw_han": 206,
+    "missing": []
+   }
+  }
+ }
+}

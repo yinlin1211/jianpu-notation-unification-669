@@ -1,0 +1,2216 @@
+{
+ "songdata": {
+  "song_name": "小跳蛙",
+  "alias_name": "快乐的小青蛙",
+  "music_composer": "",
+  "lyric_composer": "",
+  "music_composer666": "",
+  "music_order": "歌手作曲作词",
+  "lyric_composer666": "",
+  "rhythm": "4/4",
+  "keynote": "1=C",
+  "comment": "",
+  "music_url": "",
+  "notation": "{bpm:110}\n{play:A B1 A B2}\nA:\n000x3x3x4x|55x3x55x3x|1gx1gx1gx7x6xv2x2x3x|\n44x2x40x2x|6x6x6x(5xx3xx)3xv3x3x4x|55x3x5x03x|\n3gx3gx3gx(2gxx1gxx)1g1gx7x|66x5x(4x.4xx)3x(2xx1xx)|1-2x3x2x3x|\n1-2x3x2x3x|6-d2x3x2x3x|6d6dx1x2(2x5x)|3-2x3x2x3x|\n1-2x3x2x3x|6-d2x3x2x3x|6d6dx1x2(2x5x)|\nB1:\n3-00|\n5x5xx5xx5x3x2x2x3|6dx6dxx1xx2x1x(2x5x)3|5x5xx5xx5x3x2x2x3|\n6dx6dxx1xx2x1x(2x3x)1|间奏|\n002x3x2x3x|\n1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|3-2x3x2x3x|\n1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|3-\nB2:\n3-2x3x2x3x|1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|\n3-2x3x2x3x|1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|\n5x5xx5xx5x3x2x2x3|6dx6dxx1xx2x1x(2x3x)1|||\n",
+  "tags": "",
+  "lyric": "[\"快乐池塘栽种了 梦想就变成海洋 鼓的眼睛大嘴巴 同样唱的响/亮 借我一双小翅膀 就能飞向太/阳 我相信 奇迹就/在身/上  啦啦啦啦啦啦啦啦啦啦啦啦啦啦  有你相伴 leap/ frog 啦啦啦啦啦啦啦啦啦啦 自信成长 有你相伴 leap； frog 快乐的一只小青蛙 哩哩哩哩哩  leap； frog 快乐的一只小青蛙哩哩哩哩哩 leap； frog 啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦啦啦啦leap； frog 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦leap； frog frog 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦leap； frog 啦啦啦啦啦啦啦啦啦啦自信成长 有你相伴 leap/ frog 快乐的一只小青蛙哩哩哩哩leap/ frog\",\"它是一只小跳蛙 越过蓝色大西洋 跳到遥远的东方 跳到我们身；旁 春夏秋冬 我们是；最好的伙；伴 亲吻它就会变得不一；样 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦变变变 leap/ frog 啦啦啦啦啦啦啦啦啦啦 自信成长 有你相伴 leap； \"]",
+  "price": "",
+  "hot": 0,
+  "instruments": "o12,o3,p8,a6",
+  "fingerings": "o12-C,o3-C,o3-F,o3-G,p8-F,p8-bB,p8-C,p8-bE,p8-bA,a6-C",
+  "tonalities": "o12-AC,o3-AC,o3-AG,o3-AF,o3-BC,a6-C",
+  "scores": "[{\"tag\":\"o12@fC5@g\",\"name\":\"十二孔陶笛C调指法图谱\",\"best\":1},{\"tag\":\"o3@fC5@g\",\"name\":\"三管陶笛C调指法图谱\",\"best\":1},{\"tag\":\"o3@fF5@g\",\"name\":\"三管陶笛F调指法图谱\"},{\"tag\":\"o3@fG5@g\",\"name\":\"三管陶笛G调指法图谱\"},{\"tag\":\"o3@fC6@g\",\"name\":\"三管陶笛C调指法图谱\"},{\"tag\":\"p8@fF4@g\",\"name\":\"八孔洞箫F调指法图谱\",\"best\":1},{\"tag\":\"p8@fbB4@g\",\"name\":\"八孔洞箫bB调指法图谱\"},{\"tag\":\"p8@fC5@g\",\"name\":\"八孔洞箫C调指法图谱\"},{\"tag\":\"p8@fbE4@g\",\"name\":\"八孔洞箫bE调指法图谱\"},{\"tag\":\"p8@fbA4@g\",\"name\":\"八孔洞箫bA调指法图谱\"},{\"tag\":\"a6@fC5@g\",\"name\":\"六筒陶笛(APP)C调指法图谱\",\"best\":1}]",
+  "source": "{song_name:小跳蛙}\n{alias_name:快乐的小青蛙}\n{time_signature:4/4}\n{key_signature:C}\n{music_order:歌手作曲作词}\n{bpm:110}\n{play:A B1 A B2}\nA:\n000x3x3x4x|55x3x55x3x|1gx1gx1gx7x6xv2x2x3x|\n44x2x40x2x|6x6x6x(5xx3xx)3xv3x3x4x|55x3x5x03x|\n3gx3gx3gx(2gxx1gxx)1g1gx7x|66x5x(4x.4xx)3x(2xx1xx)|1-2x3x2x3x|\n1-2x3x2x3x|6-d2x3x2x3x|6d6dx1x2(2x5x)|3-2x3x2x3x|\n1-2x3x2x3x|6-d2x3x2x3x|6d6dx1x2(2x5x)|\nB1:\n3-00|\n5x5xx5xx5x3x2x2x3|6dx6dxx1xx2x1x(2x5x)3|5x5xx5xx5x3x2x2x3|\n6dx6dxx1xx2x1x(2x3x)1|间奏|\n002x3x2x3x|\n1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|3-2x3x2x3x|\n1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|3-\nB2:\n3-2x3x2x3x|1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|\n3-2x3x2x3x|1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|\n5x5xx5xx5x3x2x2x3|6dx6dxx1xx2x1x(2x3x)1|||\n\n\n{lyric}\n快乐池塘栽种了 梦想就变成海洋 鼓的眼睛大嘴巴 同样唱的响/亮 借我一双小翅膀 就能飞向太/阳 我相信 奇迹就/在身/上  啦啦啦啦啦啦啦啦啦啦啦啦啦啦  有你相伴 leap/ frog 啦啦啦啦啦啦啦啦啦啦 自信成长 有你相伴 leap； frog 快乐的一只小青蛙 哩哩哩哩哩  leap； frog 快乐的一只小青蛙哩哩哩哩哩 leap； frog 啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦啦啦啦leap； frog 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦leap； frog frog 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦leap； frog 啦啦啦啦啦啦啦啦啦啦自信成长 有你相伴 leap/ frog 快乐的一只小青蛙哩哩哩哩leap/ frog\n{/lyric}\n\n{lyric}\n它是一只小跳蛙 越过蓝色大西洋 跳到遥远的东方 跳到我们身；旁 春夏秋冬 我们是；最好的伙；伴 亲吻它就会变得不一；样 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦变变变 leap/ frog 啦啦啦啦啦啦啦啦啦啦 自信成长 有你相伴 leap； \n{/lyric}",
+  "_id": 6994,
+  "_collected_at": "2026-01-26T14:34:22.803Z",
+  "notation_raw": "{bpm:110}\n{play:A B1 A B2}\nA:\n000x3x3x4x|55x3x55x3x|1gx1gx1gx7x6xv2x2x3x|\n44x2x40x2x|6x6x6x(5xx3xx)3xv3x3x4x|55x3x5x03x|\n3gx3gx3gx(2gxx1gxx)1g1gx7x|66x5x(4x.4xx)3x(2xx1xx)|1-2x3x2x3x|\n1-2x3x2x3x|6-d2x3x2x3x|6d6dx1x2(2x5x)|3-2x3x2x3x|\n1-2x3x2x3x|6-d2x3x2x3x|6d6dx1x2(2x5x)|\nB1:\n3-00|\n5x5xx5xx5x3x2x2x3|6dx6dxx1xx2x1x(2x5x)3|5x5xx5xx5x3x2x2x3|\n6dx6dxx1xx2x1x(2x3x)1|间奏|\n002x3x2x3x|\n1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|3-2x3x2x3x|\n1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|3-\nB2:\n3-2x3x2x3x|1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|\n3-2x3x2x3x|1-2x3x2x3x|6d-2x3x2x3x|6d6dx1x2(2x5x)|\n5x5xx5xx5x3x2x2x3|6dx6dxx1xx2x1x(2x3x)1|||\n",
+  "notation_dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "lyric_layer": {
+   "raw_lyric": "[\"快乐池塘栽种了 梦想就变成海洋 鼓的眼睛大嘴巴 同样唱的响/亮 借我一双小翅膀 就能飞向太/阳 我相信 奇迹就/在身/上  啦啦啦啦啦啦啦啦啦啦啦啦啦啦  有你相伴 leap/ frog 啦啦啦啦啦啦啦啦啦啦 自信成长 有你相伴 leap； frog 快乐的一只小青蛙 哩哩哩哩哩  leap； frog 快乐的一只小青蛙哩哩哩哩哩 leap； frog 啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦啦啦啦leap； frog 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦leap； frog frog 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦leap； frog 啦啦啦啦啦啦啦啦啦啦自信成长 有你相伴 leap/ frog 快乐的一只小青蛙哩哩哩哩leap/ frog\",\"它是一只小跳蛙 越过蓝色大西洋 跳到遥远的东方 跳到我们身；旁 春夏秋冬 我们是；最好的伙；伴 亲吻它就会变得不一；样 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦变变变 leap/ frog 啦啦啦啦啦啦啦啦啦啦 自信成长 有你相伴 leap； \"]",
+   "raw_lyric_parsed": [
+    "快乐池塘栽种了 梦想就变成海洋 鼓的眼睛大嘴巴 同样唱的响/亮 借我一双小翅膀 就能飞向太/阳 我相信 奇迹就/在身/上  啦啦啦啦啦啦啦啦啦啦啦啦啦啦  有你相伴 leap/ frog 啦啦啦啦啦啦啦啦啦啦 自信成长 有你相伴 leap； frog 快乐的一只小青蛙 哩哩哩哩哩  leap； frog 快乐的一只小青蛙哩哩哩哩哩 leap； frog 啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦啦啦啦leap； frog 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦leap； frog frog 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦啦啦啦leap； frog 啦啦啦啦啦啦啦啦啦啦自信成长 有你相伴 leap/ frog 快乐的一只小青蛙哩哩哩哩leap/ frog",
+    "它是一只小跳蛙 越过蓝色大西洋 跳到遥远的东方 跳到我们身；旁 春夏秋冬 我们是；最好的伙；伴 亲吻它就会变得不一；样 啦啦啦啦啦啦啦啦啦啦啦啦啦啦 啦变变变 leap/ frog 啦啦啦啦啦啦啦啦啦啦 自信成长 有你相伴 leap； "
+   ],
+   "pinyin_slots": [],
+   "slots": [
+    {
+     "line": 17,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 4,
+     "occ": 1,
+     "chars": "快"
+    },
+    {
+     "line": 17,
+     "col": 6,
+     "occ": 1,
+     "chars": "乐"
+    },
+    {
+     "line": 17,
+     "col": 8,
+     "occ": 1,
+     "chars": "池"
+    },
+    {
+     "line": 17,
+     "col": 11,
+     "occ": 1,
+     "chars": "塘"
+    },
+    {
+     "line": 17,
+     "col": 12,
+     "occ": 1,
+     "chars": "栽"
+    },
+    {
+     "line": 17,
+     "col": 14,
+     "occ": 1,
+     "chars": "种"
+    },
+    {
+     "line": 17,
+     "col": 16,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 17,
+     "col": 17,
+     "occ": 1,
+     "chars": "梦"
+    },
+    {
+     "line": 17,
+     "col": 19,
+     "occ": 1,
+     "chars": "想"
+    },
+    {
+     "line": 17,
+     "col": 22,
+     "occ": 1,
+     "chars": "就"
+    },
+    {
+     "line": 17,
+     "col": 25,
+     "occ": 1,
+     "chars": "变"
+    },
+    {
+     "line": 17,
+     "col": 28,
+     "occ": 1,
+     "chars": "成"
+    },
+    {
+     "line": 17,
+     "col": 31,
+     "occ": 1,
+     "chars": "海"
+    },
+    {
+     "line": 17,
+     "col": 33,
+     "occ": 1,
+     "chars": "洋"
+    },
+    {
+     "line": 17,
+     "col": 36,
+     "occ": 1,
+     "chars": "鼓"
+    },
+    {
+     "line": 17,
+     "col": 38,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 17,
+     "col": 40,
+     "occ": 1,
+     "chars": "眼"
+    },
+    {
+     "line": 18,
+     "col": 0,
+     "occ": 1,
+     "chars": "睛"
+    },
+    {
+     "line": 18,
+     "col": 1,
+     "occ": 1,
+     "chars": "大"
+    },
+    {
+     "line": 18,
+     "col": 3,
+     "occ": 1,
+     "chars": "嘴"
+    },
+    {
+     "line": 18,
+     "col": 5,
+     "occ": 1,
+     "chars": "巴"
+    },
+    {
+     "line": 18,
+     "col": 6,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 8,
+     "occ": 1,
+     "chars": "同"
+    },
+    {
+     "line": 18,
+     "col": 11,
+     "occ": 1,
+     "chars": "样"
+    },
+    {
+     "line": 18,
+     "col": 13,
+     "occ": 1,
+     "chars": "唱"
+    },
+    {
+     "line": 18,
+     "col": 15,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 18,
+     "col": 18,
+     "occ": 1,
+     "chars": "响"
+    },
+    {
+     "line": 18,
+     "col": 21,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 25,
+     "occ": 1,
+     "chars": "亮"
+    },
+    {
+     "line": 18,
+     "col": 28,
+     "occ": 1,
+     "chars": "借"
+    },
+    {
+     "line": 18,
+     "col": 30,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 18,
+     "col": 32,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 18,
+     "col": 35,
+     "occ": 1,
+     "chars": "双"
+    },
+    {
+     "line": 18,
+     "col": 36,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 18,
+     "col": 38,
+     "occ": 1,
+     "chars": "翅"
+    },
+    {
+     "line": 18,
+     "col": 40,
+     "occ": 1,
+     "chars": "膀"
+    },
+    {
+     "line": 18,
+     "col": 42,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 43,
+     "occ": 1,
+     "chars": "就"
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 1,
+     "chars": "能"
+    },
+    {
+     "line": 19,
+     "col": 3,
+     "occ": 1,
+     "chars": "飞"
+    },
+    {
+     "line": 19,
+     "col": 6,
+     "occ": 1,
+     "chars": "向"
+    },
+    {
+     "line": 19,
+     "col": 10,
+     "occ": 1,
+     "chars": "太"
+    },
+    {
+     "line": 19,
+     "col": 14,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 19,
+     "occ": 1,
+     "chars": "阳"
+    },
+    {
+     "line": 19,
+     "col": 21,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 19,
+     "col": 24,
+     "occ": 1,
+     "chars": "相"
+    },
+    {
+     "line": 19,
+     "col": 27,
+     "occ": 1,
+     "chars": "信"
+    },
+    {
+     "line": 19,
+     "col": 28,
+     "occ": 1,
+     "chars": "奇"
+    },
+    {
+     "line": 19,
+     "col": 30,
+     "occ": 1,
+     "chars": "迹"
+    },
+    {
+     "line": 19,
+     "col": 33,
+     "occ": 1,
+     "chars": "就"
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 40,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 19,
+     "col": 43,
+     "occ": 1,
+     "chars": "身"
+    },
+    {
+     "line": 19,
+     "col": 46,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 51,
+     "occ": 1,
+     "chars": "上"
+    },
+    {
+     "line": 19,
+     "col": 52,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 19,
+     "col": 55,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 19,
+     "col": 57,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 19,
+     "col": 59,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 2,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 8,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 11,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 14,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 16,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 18,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 20,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 23,
+     "occ": 1,
+     "chars": "有"
+    },
+    {
+     "line": 20,
+     "col": 25,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 20,
+     "col": 28,
+     "occ": 1,
+     "chars": "相"
+    },
+    {
+     "line": 20,
+     "col": 30,
+     "occ": 1,
+     "chars": "伴"
+    },
+    {
+     "line": 20,
+     "col": 32,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 20,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 38,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 20,
+     "col": 39,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 40,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 42,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 44,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 4,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 6,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 8,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 11,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 12,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 1,
+     "chars": "自"
+    },
+    {
+     "line": 21,
+     "col": 16,
+     "occ": 1,
+     "chars": "信"
+    },
+    {
+     "line": 21,
+     "col": 18,
+     "occ": 1,
+     "chars": "成"
+    },
+    {
+     "line": 21,
+     "col": 20,
+     "occ": 1,
+     "chars": "长"
+    },
+    {
+     "line": 21,
+     "col": 23,
+     "occ": 1,
+     "chars": "有"
+    },
+    {
+     "line": 21,
+     "col": 25,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 21,
+     "col": 28,
+     "occ": 1,
+     "chars": "相"
+    },
+    {
+     "line": 21,
+     "col": 30,
+     "occ": 1,
+     "chars": "伴"
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 21,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 23,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 3,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 1,
+     "chars": "快"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 1,
+     "chars": "乐"
+    },
+    {
+     "line": 24,
+     "col": 5,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 1,
+     "chars": "只"
+    },
+    {
+     "line": 24,
+     "col": 12,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 24,
+     "col": 14,
+     "occ": 1,
+     "chars": "青"
+    },
+    {
+     "line": 24,
+     "col": 16,
+     "occ": 1,
+     "chars": "蛙"
+    },
+    {
+     "line": 24,
+     "col": 18,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 24,
+     "col": 21,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 24,
+     "col": 25,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 24,
+     "col": 28,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 24,
+     "col": 30,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 24,
+     "col": 33,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 24,
+     "col": 35,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 38,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 24,
+     "col": 40,
+     "occ": 1,
+     "chars": "快"
+    },
+    {
+     "line": 24,
+     "col": 42,
+     "occ": 1,
+     "chars": "乐"
+    },
+    {
+     "line": 24,
+     "col": 45,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 24,
+     "col": 48,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 24,
+     "col": 50,
+     "occ": 1,
+     "chars": "只"
+    },
+    {
+     "line": 24,
+     "col": 52,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 24,
+     "col": 54,
+     "occ": 1,
+     "chars": "青"
+    },
+    {
+     "line": 24,
+     "col": 56,
+     "occ": 1,
+     "chars": "蛙"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 25,
+     "col": 3,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 25,
+     "col": 7,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 25,
+     "col": 10,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 25,
+     "col": 12,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 25,
+     "col": 15,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 25,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 20,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 2,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 26,
+     "col": 4,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 26,
+     "col": 6,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 26,
+     "col": 8,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 0,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 2,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 4,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 6,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 8,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 11,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 14,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 16,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 18,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 20,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 23,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 25,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 28,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 30,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 32,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 27,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 38,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 27,
+     "col": 39,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 40,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 42,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 44,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 27,
+     "col": 46,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 2,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 4,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 6,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 8,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 11,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 14,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 16,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 18,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 20,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 23,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 25,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 28,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 30,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 28,
+     "col": 32,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 28,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 38,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 28,
+     "col": 39,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 1,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 2,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 4,
+     "occ": 2,
+     "chars": "它"
+    },
+    {
+     "line": 17,
+     "col": 6,
+     "occ": 2,
+     "chars": "是"
+    },
+    {
+     "line": 17,
+     "col": 8,
+     "occ": 2,
+     "chars": "一"
+    },
+    {
+     "line": 17,
+     "col": 11,
+     "occ": 2,
+     "chars": "只"
+    },
+    {
+     "line": 17,
+     "col": 12,
+     "occ": 2,
+     "chars": "小"
+    },
+    {
+     "line": 17,
+     "col": 14,
+     "occ": 2,
+     "chars": "跳"
+    },
+    {
+     "line": 17,
+     "col": 16,
+     "occ": 2,
+     "chars": "蛙"
+    },
+    {
+     "line": 17,
+     "col": 17,
+     "occ": 2,
+     "chars": "越"
+    },
+    {
+     "line": 17,
+     "col": 19,
+     "occ": 2,
+     "chars": "过"
+    },
+    {
+     "line": 17,
+     "col": 22,
+     "occ": 2,
+     "chars": "蓝"
+    },
+    {
+     "line": 17,
+     "col": 25,
+     "occ": 2,
+     "chars": "色"
+    },
+    {
+     "line": 17,
+     "col": 28,
+     "occ": 2,
+     "chars": "大"
+    },
+    {
+     "line": 17,
+     "col": 31,
+     "occ": 2,
+     "chars": "西"
+    },
+    {
+     "line": 17,
+     "col": 33,
+     "occ": 2,
+     "chars": "洋"
+    },
+    {
+     "line": 17,
+     "col": 36,
+     "occ": 2,
+     "chars": "跳"
+    },
+    {
+     "line": 17,
+     "col": 38,
+     "occ": 2,
+     "chars": "到"
+    },
+    {
+     "line": 17,
+     "col": 40,
+     "occ": 2,
+     "chars": "遥"
+    },
+    {
+     "line": 18,
+     "col": 0,
+     "occ": 2,
+     "chars": "远"
+    },
+    {
+     "line": 18,
+     "col": 1,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 18,
+     "col": 3,
+     "occ": 2,
+     "chars": "东"
+    },
+    {
+     "line": 18,
+     "col": 5,
+     "occ": 2,
+     "chars": "方"
+    },
+    {
+     "line": 18,
+     "col": 6,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 8,
+     "occ": 2,
+     "chars": "跳"
+    },
+    {
+     "line": 18,
+     "col": 11,
+     "occ": 2,
+     "chars": "到"
+    },
+    {
+     "line": 18,
+     "col": 13,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 18,
+     "col": 15,
+     "occ": 2,
+     "chars": "们"
+    },
+    {
+     "line": 18,
+     "col": 18,
+     "occ": 2,
+     "chars": "身"
+    },
+    {
+     "line": 18,
+     "col": 21,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 25,
+     "occ": 2,
+     "chars": "旁"
+    },
+    {
+     "line": 18,
+     "col": 28,
+     "occ": 2,
+     "chars": "春"
+    },
+    {
+     "line": 18,
+     "col": 30,
+     "occ": 2,
+     "chars": "夏"
+    },
+    {
+     "line": 18,
+     "col": 32,
+     "occ": 2,
+     "chars": "秋"
+    },
+    {
+     "line": 18,
+     "col": 35,
+     "occ": 2,
+     "chars": "冬"
+    },
+    {
+     "line": 18,
+     "col": 36,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 18,
+     "col": 38,
+     "occ": 2,
+     "chars": "们"
+    },
+    {
+     "line": 18,
+     "col": 40,
+     "occ": 2,
+     "chars": "是"
+    },
+    {
+     "line": 18,
+     "col": 42,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 43,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 2,
+     "chars": "最"
+    },
+    {
+     "line": 19,
+     "col": 3,
+     "occ": 2,
+     "chars": "好"
+    },
+    {
+     "line": 19,
+     "col": 6,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 19,
+     "col": 10,
+     "occ": 2,
+     "chars": "伙"
+    },
+    {
+     "line": 19,
+     "col": 14,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 19,
+     "occ": 2,
+     "chars": "伴"
+    },
+    {
+     "line": 19,
+     "col": 21,
+     "occ": 2,
+     "chars": "亲"
+    },
+    {
+     "line": 19,
+     "col": 24,
+     "occ": 2,
+     "chars": "吻"
+    },
+    {
+     "line": 19,
+     "col": 27,
+     "occ": 2,
+     "chars": "它"
+    },
+    {
+     "line": 19,
+     "col": 28,
+     "occ": 2,
+     "chars": "就"
+    },
+    {
+     "line": 19,
+     "col": 30,
+     "occ": 2,
+     "chars": "会"
+    },
+    {
+     "line": 19,
+     "col": 33,
+     "occ": 2,
+     "chars": "变"
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 2,
+     "chars": "得"
+    },
+    {
+     "line": 19,
+     "col": 40,
+     "occ": 2,
+     "chars": "不"
+    },
+    {
+     "line": 19,
+     "col": 43,
+     "occ": 2,
+     "chars": "一"
+    },
+    {
+     "line": 19,
+     "col": 46,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 51,
+     "occ": 2,
+     "chars": "样"
+    },
+    {
+     "line": 19,
+     "col": 52,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 19,
+     "col": 55,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 19,
+     "col": 57,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 19,
+     "col": 59,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 1,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 2,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 8,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 11,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 14,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 16,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 18,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 20,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 23,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 25,
+     "occ": 2,
+     "chars": "变"
+    },
+    {
+     "line": 20,
+     "col": 28,
+     "occ": 2,
+     "chars": "变"
+    },
+    {
+     "line": 20,
+     "col": 30,
+     "occ": 2,
+     "chars": "变"
+    },
+    {
+     "line": 20,
+     "col": 32,
+     "occ": 2,
+     "chars": "leap"
+    },
+    {
+     "line": 20,
+     "col": 34,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 38,
+     "occ": 2,
+     "chars": "frog"
+    },
+    {
+     "line": 20,
+     "col": 39,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 40,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 42,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 44,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 1,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 4,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 6,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 8,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 11,
+     "occ": 2,
+     "chars": "啦"
+    },
+    {
+     "line": 21,
+     "col": 12,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 2,
+     "chars": "自"
+    },
+    {
+     "line": 21,
+     "col": 16,
+     "occ": 2,
+     "chars": "信"
+    },
+    {
+     "line": 21,
+     "col": 18,
+     "occ": 2,
+     "chars": "成"
+    },
+    {
+     "line": 21,
+     "col": 20,
+     "occ": 2,
+     "chars": "长"
+    },
+    {
+     "line": 21,
+     "col": 23,
+     "occ": 2,
+     "chars": "有"
+    },
+    {
+     "line": 21,
+     "col": 25,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 21,
+     "col": 28,
+     "occ": 2,
+     "chars": "相"
+    },
+    {
+     "line": 21,
+     "col": 30,
+     "occ": 2,
+     "chars": "伴"
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 2,
+     "chars": "leap"
+    },
+    {
+     "line": 21,
+     "col": 34,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 30,
+     "col": 0,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 30,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 30,
+     "col": 2,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 4,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 6,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 8,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 11,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 12,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 30,
+     "col": 13,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 15,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 17,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 19,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 22,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 30,
+     "col": 25,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 27,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 29,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 31,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 34,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 36,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 39,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 41,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 30,
+     "col": 43,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 30,
+     "col": 45,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 0,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 31,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 2,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 4,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 6,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 8,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 11,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 12,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 13,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 15,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 17,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 19,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 22,
+     "occ": 1,
+     "chars": "啦"
+    },
+    {
+     "line": 31,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 25,
+     "occ": 1,
+     "chars": "自"
+    },
+    {
+     "line": 31,
+     "col": 27,
+     "occ": 1,
+     "chars": "信"
+    },
+    {
+     "line": 31,
+     "col": 29,
+     "occ": 1,
+     "chars": "成"
+    },
+    {
+     "line": 31,
+     "col": 31,
+     "occ": 1,
+     "chars": "长"
+    },
+    {
+     "line": 31,
+     "col": 34,
+     "occ": 1,
+     "chars": "有"
+    },
+    {
+     "line": 31,
+     "col": 36,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 31,
+     "col": 39,
+     "occ": 1,
+     "chars": "相"
+    },
+    {
+     "line": 31,
+     "col": 41,
+     "occ": 1,
+     "chars": "伴"
+    },
+    {
+     "line": 31,
+     "col": 43,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 31,
+     "col": 45,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 0,
+     "occ": 1,
+     "chars": "frog"
+    },
+    {
+     "line": 32,
+     "col": 2,
+     "occ": 1,
+     "chars": "快"
+    },
+    {
+     "line": 32,
+     "col": 5,
+     "occ": 1,
+     "chars": "乐"
+    },
+    {
+     "line": 32,
+     "col": 8,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 32,
+     "col": 10,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 32,
+     "col": 12,
+     "occ": 1,
+     "chars": "只"
+    },
+    {
+     "line": 32,
+     "col": 14,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 32,
+     "col": 16,
+     "occ": 1,
+     "chars": "青"
+    },
+    {
+     "line": 32,
+     "col": 18,
+     "occ": 1,
+     "chars": "蛙"
+    },
+    {
+     "line": 32,
+     "col": 21,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 32,
+     "col": 25,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 32,
+     "col": 28,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 32,
+     "col": 30,
+     "occ": 1,
+     "chars": "哩"
+    },
+    {
+     "line": 32,
+     "col": 33,
+     "occ": 1,
+     "chars": "leap"
+    },
+    {
+     "line": 32,
+     "col": 35,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 38,
+     "occ": 1,
+     "chars": "frog"
+    }
+   ],
+   "stats": {
+    "n_notes": 360,
+    "n_syllable": 302,
+    "n_events": 360
+   },
+   "conservation": {
+    "n_slot_han": 280,
+    "n_raw_han": 280,
+    "missing": []
+   }
+  }
+ }
+}

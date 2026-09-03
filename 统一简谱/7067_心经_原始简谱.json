@@ -1,0 +1,1963 @@
+{
+ "songdata": {
+  "song_name": "心经",
+  "alias_name": "演唱：王菲",
+  "music_composer": "",
+  "lyric_composer": "",
+  "music_composer666": "林敏骢",
+  "music_order": "歌手作曲作词",
+  "lyric_composer666": "玄奘法师(译)",
+  "rhythm": "4/4",
+  "keynote": "1=bG",
+  "comment": "",
+  "music_url": "",
+  "notation": "{bpm:50}\n1x1xx2xx1x(2x2)-|1x2x1xx2xx3xx5xx5x2x3|1x2x1xx2xx1x2-|\n5dx(1x1)16dx(1x|1)-00|\n1x1x21xx1xx1xx2xx2xx2xx2xx((3xx|3x.)5xx3)00|3xx2xx2xx1xx6dxx6dxx6dxx((1xx1x.)2xx1)|\n2x1x6dx1x5dx5dx5d|6d---|\n\n1xx1xx2x0xx1xx1xx2xx(3xx5xx)(3x3)|5xx3xx3xx2xx2xx1xx1xx6dxx6dxx6dxx1xx(1xx1)|\n1x2x5xx5xx5xx(3xx3)1xx2xx2xx3xx|21xx2xx2xx2xx3xx1xx2x1xx6dxx6dxx6dxx|\n5dxx5dxx(1x1)01x1xx(2xx|2)1xx2xx1xx6dxx2x(3x3)|5xx3xx2x0xx3xx2xx1xx\n6dx(1x1)|1x2x1xx2xx2x1xx6dxx1xx2xx3|1x2xx2xx1xx2x.0xx3xx2xx1xx6dx(1x|1)-00|\n间奏|\n0x5xx5xx2xx3xx3x3xx1xx2xx(2xx2)|0xx3xx2xx2xx2xx3xx2xx1xx6dx5dxx5dxx(1|1xx)5xx5xx3xx2\n0xx5xx5xx3xx21xx2xx3xx3xx2xx3x.|1xx6dxx6dxx(1xx1)5xx5xx3xx(2xx2x.)3xx|2xx2xx2xx1xx6dxx2xx3x\n3x5xx3xx3xx3xx2xx1xx|1x6dx1--|\n01x2xx3xx2xx2xx2xx1xx2x0xx3xx|5xx3xx3xx3xx3xx2xx2xx1xx2xx3xx3xx3xx3xx1xx1xx6dxx|5dx1x2xx3xx3x\n2xx1xx6dx6d|间奏|\n1x(2x2)1xx2xx3xx5xx5x2x|3-02x1x|(1)@6d1--|\n间奏|\n5dx((6d)@1x1)1x((2)@3x3)|5x((3)@2x2)(2)@1(1|1)-00|\n5x((6d1)@3x3)5x.3xx3|2x1x(2)@11-|||",
+  "tags": "",
+  "lyric": "[\"观自在菩萨/ 行深般若波罗蜜多时 照见五蕴皆空 度一/切苦厄/ 舍利子，色不异空 空不异色/// 色即是空，空即是色/// 受想行识，亦复如是。  舍利子，是诸法空/相/ 不生不灭，不垢不净，不增不减/ 是故空中无色/ 无受想行识 无眼耳鼻舌身意 无色声香味触法/ 无眼界，/乃至无意识界/ 无无明， 亦无无明尽/ 乃至无老死 亦无老死尽 无苦集灭道 无智亦无德/  以无所得故 菩提萨埵； 依般若波罗蜜多故 心无挂碍 无挂碍故 无有恐怖 远离颠倒梦想 究竟涅盘； 三世诸佛； 依般若波罗蜜多故 得阿耨多罗三藐三菩提 故知般若波罗蜜多 是大神咒 是大明咒 是无上咒 是无等等咒 能除一切苦 真实不虚  故说；般若波罗蜜多咒 即说咒曰  揭谛；揭谛/ 波罗；揭谛；波罗；僧揭谛菩提萨（婆诃)\"]",
+  "price": "",
+  "hot": 0,
+  "instruments": "o6,o12,o3,x8,x10,p8,h7,a6",
+  "fingerings": "o6-G,o6-F,o6-bG,o12-G,o12-F,o12-bG,o3-G,o3-F,o3-C,o3-bD,o3-B,o3-bG,x8-G,x8-F,x10-G,x10-F,x10-C,x10-B,p8-F,p8-bB,p8-C,p8-bA,h7-F,a6-F",
+  "tonalities": "o6-AC,o12-AC,o3-AF,o3-AG,o3-AC,h7-bD,a6-bD",
+  "scores": "[{\"tag\":\"o6@fG5@g\",\"name\":\"六孔陶笛G调指法图谱\",\"best\":1},{\"tag\":\"o6@fF5@g\",\"name\":\"六孔陶笛F调指法图谱\"},{\"tag\":\"o6@fbG5@g\",\"name\":\"六孔陶笛bG调指法图谱\"},{\"tag\":\"o12@fG5@g\",\"name\":\"十二孔陶笛G调指法图谱\",\"best\":1},{\"tag\":\"o12@fF5@g\",\"name\":\"十二孔陶笛F调指法图谱\"},{\"tag\":\"o12@fbG5@g\",\"name\":\"十二孔陶笛bG调指法图谱\"},{\"tag\":\"o3@fG5@g\",\"name\":\"三管陶笛G调指法图谱\",\"best\":1},{\"tag\":\"x8@fG5@g\",\"name\":\"八孔埙G调指法图谱\",\"best\":1},{\"tag\":\"x8@fF5@g\",\"name\":\"八孔埙F调指法图谱\"},{\"tag\":\"x10@fG5@g\",\"name\":\"十孔埙G调指法图谱\",\"best\":1},{\"tag\":\"x10@fF5@g\",\"name\":\"十孔埙F调指法图谱\"},{\"tag\":\"x10@fC6@g\",\"name\":\"十孔埙C调指法图谱\"},{\"tag\":\"x10@fB5@g\",\"name\":\"十孔埙B调指法图谱\"},{\"tag\":\"p8@fF4@g\",\"name\":\"八孔洞箫F调指法图谱\",\"best\":1},{\"tag\":\"p8@fbB4@g\",\"name\":\"八孔洞箫bB调指法图谱\"},{\"tag\":\"p8@fC5@g\",\"name\":\"八孔洞箫C调指法图谱\"},{\"tag\":\"p8@fbA4@g\",\"name\":\"八孔洞箫bA调指法图谱\"},{\"tag\":\"h7@fF5@g\",\"name\":\"葫芦丝F调指法图谱\",\"best\":1},{\"tag\":\"a6@fF5@g\",\"name\":\"六筒陶笛(APP)F调指法图谱\",\"best\":1}]",
+  "source": "{song_name:心经}\n{alias_name:演唱：王菲}\n{music_composer666:林敏骢}\n{lyric_composer666:玄奘法师(译)}\n{time_signature:4/4}\n{key_signature:bG}\n{music_order:歌手作曲作词}\n{bpm:50}\n1x1xx2xx1x(2x2)-|1x2x1xx2xx3xx5xx5x2x3|1x2x1xx2xx1x2-|\n5dx(1x1)16dx(1x|1)-00|\n1x1x21xx1xx1xx2xx2xx2xx2xx((3xx|3x.)5xx3)00|3xx2xx2xx1xx6dxx6dxx6dxx((1xx1x.)2xx1)|\n2x1x6dx1x5dx5dx5d|6d---|\n\n1xx1xx2x0xx1xx1xx2xx(3xx5xx)(3x3)|5xx3xx3xx2xx2xx1xx1xx6dxx6dxx6dxx1xx(1xx1)|\n1x2x5xx5xx5xx(3xx3)1xx2xx2xx3xx|21xx2xx2=2=3=1=2x1=6d=6d=6d=|\n5d=5d=(1x1)01x1xx(2xx|2)1xx2=1=6d=2x(3x3)|5=3=2x0=3=2=1=\n6dx(1x1)|1x2x1xx2xx2x1=6d=1=2=3|1x2=2=1=2x.0xx3xx2xx1xx6dx(1x|1)-00|\n间奏|\n0x5=5=2=3=3x3xx1xx2xx(2xx2)|0=3=2=2=2=3=2=1=6dx5d=5d=(1|1xx)5=5=3=2\n0=5=5=3=21=2=3=3=2=3x.|1=6d=6d=(1=1)5=5=3=(2=2x.)3xx|2=2=2=1=6d=2=3x\n3x5=3=3=3=2=1=|1x6dx1--|\n01x2xx3xx2=2=2=1=2x0=3=|5=3=3=3=3=2=2=1=2=3=3=3=3=1=1=6d=|5dx1x2=3=3x\n2=1=6dx6d|间奏|\n1x(2x2)1=2=3=5=5x2x|3-02x1x|(1)@6d1--|\n间奏|\n5dx((6d)@1x1)1x((2)@3x3)|5x((3)@2x2)(2)@1(1|1)-00|\n5x((6d1)@3x3)5x.3xx3|2x1x(2)@11-|||\n\n{lyric}\n观自在菩萨/ 行深般若波罗蜜多时 照见五蕴皆空 度一/切苦厄/ 舍利子，色不异空 空不异色/// 色即是空，空即是色/// 受想行识，亦复如是。  舍利子，是诸法空/相/ 不生不灭，不垢不净，不增不减/ 是故空中无色/ 无受想行识 无眼耳鼻舌身意 无色声香味触法/ 无眼界，/乃至无意识界/ 无无明， 亦无无明尽/ 乃至无老死 亦无老死尽 无苦集灭道 无智亦无德/  以无所得故 菩提萨埵； 依般若波罗蜜多故 心无挂碍 无挂碍故 无有恐怖 远离颠倒梦想 究竟涅盘； 三世诸佛； 依般若波罗蜜多故 得阿耨多罗三藐三菩提 故知般若波罗蜜多 是大神咒 是大明咒 是无上咒 是无等等咒 能除一切苦 真实不虚  故说；般若波罗蜜多咒 即说咒曰  揭谛；揭谛/ 波罗；揭谛；波罗；僧揭谛菩提萨（婆诃)\n{/lyric}",
+  "_id": 7067,
+  "_collected_at": "2026-01-27T16:59:09.868Z",
+  "notation_raw": "{bpm:50}\n1x1xx2xx1x(2x2)-|1x2x1xx2xx3xx5xx5x2x3|1x2x1xx2xx1x2-|\n5dx(1x1)16dx(1x|1)-00|\n1x1x21xx1xx1xx2xx2xx2xx2xx((3xx|3x.)5xx3)00|3xx2xx2xx1xx6dxx6dxx6dxx((1xx1x.)2xx1)|\n2x1x6dx1x5dx5dx5d|6d---|\n\n1xx1xx2x0xx1xx1xx2xx(3xx5xx)(3x3)|5xx3xx3xx2xx2xx1xx1xx6dxx6dxx6dxx1xx(1xx1)|\n1x2x5xx5xx5xx(3xx3)1xx2xx2xx3xx|21xx2xx2=2=3=1=2x1=6d=6d=6d=|\n5d=5d=(1x1)01x1xx(2xx|2)1xx2=1=6d=2x(3x3)|5=3=2x0=3=2=1=\n6dx(1x1)|1x2x1xx2xx2x1=6d=1=2=3|1x2=2=1=2x.0xx3xx2xx1xx6dx(1x|1)-00|\n间奏|\n0x5=5=2=3=3x3xx1xx2xx(2xx2)|0=3=2=2=2=3=2=1=6dx5d=5d=(1|1xx)5=5=3=2\n0=5=5=3=21=2=3=3=2=3x.|1=6d=6d=(1=1)5=5=3=(2=2x.)3xx|2=2=2=1=6d=2=3x\n3x5=3=3=3=2=1=|1x6dx1--|\n01x2xx3xx2=2=2=1=2x0=3=|5=3=3=3=3=2=2=1=2=3=3=3=3=1=1=6d=|5dx1x2=3=3x\n2=1=6dx6d|间奏|\n1x(2x2)1=2=3=5=5x2x|3-02x1x|(1)@6d1--|\n间奏|\n5dx((6d)@1x1)1x((2)@3x3)|5x((3)@2x2)(2)@1(1|1)-00|\n5x((6d1)@3x3)5x.3xx3|2x1x(2)@11-|||",
+  "notation_dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "lyric_layer": {
+   "raw_lyric": "[\"观自在菩萨/ 行深般若波罗蜜多时 照见五蕴皆空 度一/切苦厄/ 舍利子，色不异空 空不异色/// 色即是空，空即是色/// 受想行识，亦复如是。  舍利子，是诸法空/相/ 不生不灭，不垢不净，不增不减/ 是故空中无色/ 无受想行识 无眼耳鼻舌身意 无色声香味触法/ 无眼界，/乃至无意识界/ 无无明， 亦无无明尽/ 乃至无老死 亦无老死尽 无苦集灭道 无智亦无德/  以无所得故 菩提萨埵； 依般若波罗蜜多故 心无挂碍 无挂碍故 无有恐怖 远离颠倒梦想 究竟涅盘； 三世诸佛； 依般若波罗蜜多故 得阿耨多罗三藐三菩提 故知般若波罗蜜多 是大神咒 是大明咒 是无上咒 是无等等咒 能除一切苦 真实不虚  故说；般若波罗蜜多咒 即说咒曰  揭谛；揭谛/ 波罗；揭谛；波罗；僧揭谛菩提萨（婆诃)\"]",
+   "raw_lyric_parsed": [
+    "观自在菩萨/ 行深般若波罗蜜多时 照见五蕴皆空 度一/切苦厄/ 舍利子，色不异空 空不异色/// 色即是空，空即是色/// 受想行识，亦复如是。  舍利子，是诸法空/相/ 不生不灭，不垢不净，不增不减/ 是故空中无色/ 无受想行识 无眼耳鼻舌身意 无色声香味触法/ 无眼界，/乃至无意识界/ 无无明， 亦无无明尽/ 乃至无老死 亦无老死尽 无苦集灭道 无智亦无德/  以无所得故 菩提萨埵； 依般若波罗蜜多故 心无挂碍 无挂碍故 无有恐怖 远离颠倒梦想 究竟涅盘； 三世诸佛； 依般若波罗蜜多故 得阿耨多罗三藐三菩提 故知般若波罗蜜多 是大神咒 是大明咒 是无上咒 是无等等咒 能除一切苦 真实不虚  故说；般若波罗蜜多咒 即说咒曰  揭谛；揭谛/ 波罗；揭谛；波罗；僧揭谛菩提萨（婆诃)"
+   ],
+   "pinyin_slots": [],
+   "slots": [
+    {
+     "line": 17,
+     "col": 0,
+     "occ": 1,
+     "chars": "观"
+    },
+    {
+     "line": 17,
+     "col": 2,
+     "occ": 1,
+     "chars": "自"
+    },
+    {
+     "line": 17,
+     "col": 5,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 17,
+     "col": 8,
+     "occ": 1,
+     "chars": "菩"
+    },
+    {
+     "line": 17,
+     "col": 11,
+     "occ": 1,
+     "chars": "萨"
+    },
+    {
+     "line": 17,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 15,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 17,
+     "occ": 1,
+     "chars": "行"
+    },
+    {
+     "line": 17,
+     "col": 19,
+     "occ": 1,
+     "chars": "深"
+    },
+    {
+     "line": 17,
+     "col": 21,
+     "occ": 1,
+     "chars": "般"
+    },
+    {
+     "line": 17,
+     "col": 24,
+     "occ": 1,
+     "chars": "若"
+    },
+    {
+     "line": 17,
+     "col": 27,
+     "occ": 1,
+     "chars": "波"
+    },
+    {
+     "line": 17,
+     "col": 30,
+     "occ": 1,
+     "chars": "罗"
+    },
+    {
+     "line": 17,
+     "col": 33,
+     "occ": 1,
+     "chars": "蜜"
+    },
+    {
+     "line": 17,
+     "col": 35,
+     "occ": 1,
+     "chars": "多"
+    },
+    {
+     "line": 17,
+     "col": 37,
+     "occ": 1,
+     "chars": "时"
+    },
+    {
+     "line": 17,
+     "col": 39,
+     "occ": 1,
+     "chars": "照"
+    },
+    {
+     "line": 17,
+     "col": 41,
+     "occ": 1,
+     "chars": "见"
+    },
+    {
+     "line": 17,
+     "col": 43,
+     "occ": 1,
+     "chars": "五"
+    },
+    {
+     "line": 17,
+     "col": 46,
+     "occ": 1,
+     "chars": "蕴"
+    },
+    {
+     "line": 17,
+     "col": 49,
+     "occ": 1,
+     "chars": "皆"
+    },
+    {
+     "line": 17,
+     "col": 51,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 17,
+     "col": 52,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 0,
+     "occ": 1,
+     "chars": "度"
+    },
+    {
+     "line": 18,
+     "col": 4,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 18,
+     "col": 6,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 8,
+     "occ": 1,
+     "chars": "切"
+    },
+    {
+     "line": 18,
+     "col": 9,
+     "occ": 1,
+     "chars": "苦"
+    },
+    {
+     "line": 18,
+     "col": 13,
+     "occ": 1,
+     "chars": "厄"
+    },
+    {
+     "line": 18,
+     "col": 16,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 18,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 19,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 1,
+     "chars": "舍"
+    },
+    {
+     "line": 19,
+     "col": 2,
+     "occ": 1,
+     "chars": "利"
+    },
+    {
+     "line": 19,
+     "col": 4,
+     "occ": 1,
+     "chars": "子，"
+    },
+    {
+     "line": 19,
+     "col": 5,
+     "occ": 1,
+     "chars": "色"
+    },
+    {
+     "line": 19,
+     "col": 8,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 19,
+     "col": 11,
+     "occ": 1,
+     "chars": "异"
+    },
+    {
+     "line": 19,
+     "col": 14,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 19,
+     "col": 17,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 19,
+     "col": 20,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 19,
+     "col": 23,
+     "occ": 1,
+     "chars": "异"
+    },
+    {
+     "line": 19,
+     "col": 28,
+     "occ": 1,
+     "chars": "色"
+    },
+    {
+     "line": 19,
+     "col": 32,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 39,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 41,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 42,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 44,
+     "occ": 1,
+     "chars": "色"
+    },
+    {
+     "line": 19,
+     "col": 47,
+     "occ": 1,
+     "chars": "即"
+    },
+    {
+     "line": 19,
+     "col": 50,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 1,
+     "chars": "空，"
+    },
+    {
+     "line": 19,
+     "col": 56,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 19,
+     "col": 60,
+     "occ": 1,
+     "chars": "即"
+    },
+    {
+     "line": 19,
+     "col": 64,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 19,
+     "col": 70,
+     "occ": 1,
+     "chars": "色"
+    },
+    {
+     "line": 19,
+     "col": 73,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 77,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 80,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 1,
+     "chars": "受"
+    },
+    {
+     "line": 20,
+     "col": 2,
+     "occ": 1,
+     "chars": "想"
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 1,
+     "chars": "行"
+    },
+    {
+     "line": 20,
+     "col": 7,
+     "occ": 1,
+     "chars": "识，"
+    },
+    {
+     "line": 20,
+     "col": 9,
+     "occ": 1,
+     "chars": "亦"
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 1,
+     "chars": "复"
+    },
+    {
+     "line": 20,
+     "col": 15,
+     "occ": 1,
+     "chars": "如"
+    },
+    {
+     "line": 20,
+     "col": 18,
+     "occ": 1,
+     "chars": "是。"
+    },
+    {
+     "line": 20,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 21,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 22,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 1,
+     "chars": "舍"
+    },
+    {
+     "line": 22,
+     "col": 3,
+     "occ": 1,
+     "chars": "利"
+    },
+    {
+     "line": 22,
+     "col": 6,
+     "occ": 1,
+     "chars": "子，"
+    },
+    {
+     "line": 22,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 11,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 22,
+     "col": 14,
+     "occ": 1,
+     "chars": "诸"
+    },
+    {
+     "line": 22,
+     "col": 17,
+     "occ": 1,
+     "chars": "法"
+    },
+    {
+     "line": 22,
+     "col": 21,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 29,
+     "occ": 1,
+     "chars": "相"
+    },
+    {
+     "line": 22,
+     "col": 31,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 34,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 22,
+     "col": 37,
+     "occ": 1,
+     "chars": "生"
+    },
+    {
+     "line": 22,
+     "col": 40,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 22,
+     "col": 43,
+     "occ": 1,
+     "chars": "灭，"
+    },
+    {
+     "line": 22,
+     "col": 46,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 22,
+     "col": 49,
+     "occ": 1,
+     "chars": "垢"
+    },
+    {
+     "line": 22,
+     "col": 52,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 22,
+     "col": 55,
+     "occ": 1,
+     "chars": "净，"
+    },
+    {
+     "line": 22,
+     "col": 59,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 22,
+     "col": 63,
+     "occ": 1,
+     "chars": "增"
+    },
+    {
+     "line": 22,
+     "col": 67,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 22,
+     "col": 71,
+     "occ": 1,
+     "chars": "减"
+    },
+    {
+     "line": 22,
+     "col": 74,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 23,
+     "col": 2,
+     "occ": 1,
+     "chars": "故"
+    },
+    {
+     "line": 23,
+     "col": 4,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 23,
+     "col": 7,
+     "occ": 1,
+     "chars": "中"
+    },
+    {
+     "line": 23,
+     "col": 10,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 23,
+     "col": 14,
+     "occ": 1,
+     "chars": "色"
+    },
+    {
+     "line": 23,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 19,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 23,
+     "col": 22,
+     "occ": 1,
+     "chars": "受"
+    },
+    {
+     "line": 23,
+     "col": 25,
+     "occ": 1,
+     "chars": "想"
+    },
+    {
+     "line": 23,
+     "col": 28,
+     "occ": 1,
+     "chars": "行"
+    },
+    {
+     "line": 23,
+     "col": 32,
+     "occ": 1,
+     "chars": "识"
+    },
+    {
+     "line": 23,
+     "col": 33,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 23,
+     "col": 36,
+     "occ": 1,
+     "chars": "眼"
+    },
+    {
+     "line": 23,
+     "col": 39,
+     "occ": 1,
+     "chars": "耳"
+    },
+    {
+     "line": 23,
+     "col": 42,
+     "occ": 1,
+     "chars": "鼻"
+    },
+    {
+     "line": 23,
+     "col": 45,
+     "occ": 1,
+     "chars": "舌"
+    },
+    {
+     "line": 23,
+     "col": 48,
+     "occ": 1,
+     "chars": "身"
+    },
+    {
+     "line": 23,
+     "col": 51,
+     "occ": 1,
+     "chars": "意"
+    },
+    {
+     "line": 23,
+     "col": 53,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 23,
+     "col": 56,
+     "occ": 1,
+     "chars": "色"
+    },
+    {
+     "line": 23,
+     "col": 60,
+     "occ": 1,
+     "chars": "声"
+    },
+    {
+     "line": 23,
+     "col": 64,
+     "occ": 1,
+     "chars": "香"
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 1,
+     "chars": "味"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 1,
+     "chars": "触"
+    },
+    {
+     "line": 24,
+     "col": 9,
+     "occ": 1,
+     "chars": "法"
+    },
+    {
+     "line": 24,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 14,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 16,
+     "occ": 1,
+     "chars": "眼"
+    },
+    {
+     "line": 24,
+     "col": 20,
+     "occ": 1,
+     "chars": "界，"
+    },
+    {
+     "line": 24,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 26,
+     "occ": 1,
+     "chars": "乃"
+    },
+    {
+     "line": 24,
+     "col": 29,
+     "occ": 1,
+     "chars": "至"
+    },
+    {
+     "line": 24,
+     "col": 32,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 35,
+     "occ": 1,
+     "chars": "意"
+    },
+    {
+     "line": 24,
+     "col": 39,
+     "occ": 1,
+     "chars": "识"
+    },
+    {
+     "line": 24,
+     "col": 42,
+     "occ": 1,
+     "chars": "界"
+    },
+    {
+     "line": 24,
+     "col": 44,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 47,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 50,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 53,
+     "occ": 1,
+     "chars": "明，"
+    },
+    {
+     "line": 24,
+     "col": 55,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 58,
+     "occ": 1,
+     "chars": "亦"
+    },
+    {
+     "line": 24,
+     "col": 61,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 24,
+     "col": 64,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 1,
+     "chars": "明"
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 1,
+     "chars": "尽"
+    },
+    {
+     "line": 25,
+     "col": 6,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 1,
+     "chars": "乃"
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 1,
+     "chars": "至"
+    },
+    {
+     "line": 25,
+     "col": 13,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 25,
+     "col": 16,
+     "occ": 1,
+     "chars": "老"
+    },
+    {
+     "line": 25,
+     "col": 19,
+     "occ": 1,
+     "chars": "死"
+    },
+    {
+     "line": 25,
+     "col": 21,
+     "occ": 1,
+     "chars": "亦"
+    },
+    {
+     "line": 25,
+     "col": 24,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 25,
+     "col": 28,
+     "occ": 1,
+     "chars": "老"
+    },
+    {
+     "line": 25,
+     "col": 31,
+     "occ": 1,
+     "chars": "死"
+    },
+    {
+     "line": 25,
+     "col": 34,
+     "occ": 1,
+     "chars": "尽"
+    },
+    {
+     "line": 25,
+     "col": 36,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 1,
+     "chars": "苦"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 1,
+     "chars": "集"
+    },
+    {
+     "line": 25,
+     "col": 44,
+     "occ": 1,
+     "chars": "灭"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 1,
+     "chars": "道"
+    },
+    {
+     "line": 25,
+     "col": 50,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 53,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 25,
+     "col": 56,
+     "occ": 1,
+     "chars": "智"
+    },
+    {
+     "line": 25,
+     "col": 59,
+     "occ": 1,
+     "chars": "亦"
+    },
+    {
+     "line": 25,
+     "col": 62,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 25,
+     "col": 66,
+     "occ": 1,
+     "chars": "德"
+    },
+    {
+     "line": 25,
+     "col": 69,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 71,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 72,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 73,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 2,
+     "occ": 1,
+     "chars": "以"
+    },
+    {
+     "line": 27,
+     "col": 5,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 27,
+     "col": 8,
+     "occ": 1,
+     "chars": "所"
+    },
+    {
+     "line": 27,
+     "col": 11,
+     "occ": 1,
+     "chars": "得"
+    },
+    {
+     "line": 27,
+     "col": 14,
+     "occ": 1,
+     "chars": "故"
+    },
+    {
+     "line": 27,
+     "col": 16,
+     "occ": 1,
+     "chars": "菩"
+    },
+    {
+     "line": 27,
+     "col": 19,
+     "occ": 1,
+     "chars": "提"
+    },
+    {
+     "line": 27,
+     "col": 22,
+     "occ": 1,
+     "chars": "萨"
+    },
+    {
+     "line": 27,
+     "col": 26,
+     "occ": 1,
+     "chars": "埵"
+    },
+    {
+     "line": 27,
+     "col": 29,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 32,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 35,
+     "occ": 1,
+     "chars": "依"
+    },
+    {
+     "line": 27,
+     "col": 38,
+     "occ": 1,
+     "chars": "般"
+    },
+    {
+     "line": 27,
+     "col": 41,
+     "occ": 1,
+     "chars": "若"
+    },
+    {
+     "line": 27,
+     "col": 44,
+     "occ": 1,
+     "chars": "波"
+    },
+    {
+     "line": 27,
+     "col": 47,
+     "occ": 1,
+     "chars": "罗"
+    },
+    {
+     "line": 27,
+     "col": 50,
+     "occ": 1,
+     "chars": "蜜"
+    },
+    {
+     "line": 27,
+     "col": 53,
+     "occ": 1,
+     "chars": "多"
+    },
+    {
+     "line": 27,
+     "col": 56,
+     "occ": 1,
+     "chars": "故"
+    },
+    {
+     "line": 27,
+     "col": 59,
+     "occ": 1,
+     "chars": "心"
+    },
+    {
+     "line": 27,
+     "col": 63,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 27,
+     "col": 68,
+     "occ": 1,
+     "chars": "挂"
+    },
+    {
+     "line": 27,
+     "col": 70,
+     "occ": 1,
+     "chars": "碍"
+    },
+    {
+     "line": 27,
+     "col": 74,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 27,
+     "col": 77,
+     "occ": 1,
+     "chars": "挂"
+    },
+    {
+     "line": 27,
+     "col": 80,
+     "occ": 1,
+     "chars": "碍"
+    },
+    {
+     "line": 27,
+     "col": 83,
+     "occ": 1,
+     "chars": "故"
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 3,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 28,
+     "col": 6,
+     "occ": 1,
+     "chars": "有"
+    },
+    {
+     "line": 28,
+     "col": 9,
+     "occ": 1,
+     "chars": "恐"
+    },
+    {
+     "line": 28,
+     "col": 12,
+     "occ": 1,
+     "chars": "怖"
+    },
+    {
+     "line": 28,
+     "col": 13,
+     "occ": 1,
+     "chars": "远"
+    },
+    {
+     "line": 28,
+     "col": 16,
+     "occ": 1,
+     "chars": "离"
+    },
+    {
+     "line": 28,
+     "col": 19,
+     "occ": 1,
+     "chars": "颠"
+    },
+    {
+     "line": 28,
+     "col": 22,
+     "occ": 1,
+     "chars": "倒"
+    },
+    {
+     "line": 28,
+     "col": 25,
+     "occ": 1,
+     "chars": "梦"
+    },
+    {
+     "line": 28,
+     "col": 28,
+     "occ": 1,
+     "chars": "想"
+    },
+    {
+     "line": 28,
+     "col": 32,
+     "occ": 1,
+     "chars": "究"
+    },
+    {
+     "line": 28,
+     "col": 35,
+     "occ": 1,
+     "chars": "竟"
+    },
+    {
+     "line": 28,
+     "col": 39,
+     "occ": 1,
+     "chars": "涅"
+    },
+    {
+     "line": 28,
+     "col": 44,
+     "occ": 1,
+     "chars": "盘"
+    },
+    {
+     "line": 28,
+     "col": 47,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 49,
+     "occ": 1,
+     "chars": "三"
+    },
+    {
+     "line": 28,
+     "col": 52,
+     "occ": 1,
+     "chars": "世"
+    },
+    {
+     "line": 28,
+     "col": 55,
+     "occ": 1,
+     "chars": "诸"
+    },
+    {
+     "line": 28,
+     "col": 59,
+     "occ": 1,
+     "chars": "佛"
+    },
+    {
+     "line": 28,
+     "col": 62,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 66,
+     "occ": 1,
+     "chars": "依"
+    },
+    {
+     "line": 28,
+     "col": 70,
+     "occ": 1,
+     "chars": "般"
+    },
+    {
+     "line": 28,
+     "col": 73,
+     "occ": 1,
+     "chars": "若"
+    },
+    {
+     "line": 28,
+     "col": 76,
+     "occ": 1,
+     "chars": "波"
+    },
+    {
+     "line": 28,
+     "col": 79,
+     "occ": 1,
+     "chars": "罗"
+    },
+    {
+     "line": 28,
+     "col": 82,
+     "occ": 1,
+     "chars": "蜜"
+    },
+    {
+     "line": 28,
+     "col": 86,
+     "occ": 1,
+     "chars": "多"
+    },
+    {
+     "line": 28,
+     "col": 89,
+     "occ": 1,
+     "chars": "故"
+    },
+    {
+     "line": 29,
+     "col": 0,
+     "occ": 1,
+     "chars": "得"
+    },
+    {
+     "line": 29,
+     "col": 2,
+     "occ": 1,
+     "chars": "阿"
+    },
+    {
+     "line": 29,
+     "col": 5,
+     "occ": 1,
+     "chars": "耨"
+    },
+    {
+     "line": 29,
+     "col": 8,
+     "occ": 1,
+     "chars": "多"
+    },
+    {
+     "line": 29,
+     "col": 11,
+     "occ": 1,
+     "chars": "罗"
+    },
+    {
+     "line": 29,
+     "col": 14,
+     "occ": 1,
+     "chars": "三"
+    },
+    {
+     "line": 29,
+     "col": 17,
+     "occ": 1,
+     "chars": "藐"
+    },
+    {
+     "line": 29,
+     "col": 21,
+     "occ": 1,
+     "chars": "三"
+    },
+    {
+     "line": 29,
+     "col": 23,
+     "occ": 1,
+     "chars": "菩"
+    },
+    {
+     "line": 29,
+     "col": 26,
+     "occ": 1,
+     "chars": "提"
+    },
+    {
+     "line": 29,
+     "col": 27,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 29,
+     "col": 28,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 30,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 30,
+     "col": 1,
+     "occ": 1,
+     "chars": "故"
+    },
+    {
+     "line": 30,
+     "col": 3,
+     "occ": 1,
+     "chars": "知"
+    },
+    {
+     "line": 30,
+     "col": 6,
+     "occ": 1,
+     "chars": "般"
+    },
+    {
+     "line": 30,
+     "col": 9,
+     "occ": 1,
+     "chars": "若"
+    },
+    {
+     "line": 30,
+     "col": 12,
+     "occ": 1,
+     "chars": "波"
+    },
+    {
+     "line": 30,
+     "col": 15,
+     "occ": 1,
+     "chars": "罗"
+    },
+    {
+     "line": 30,
+     "col": 18,
+     "occ": 1,
+     "chars": "蜜"
+    },
+    {
+     "line": 30,
+     "col": 21,
+     "occ": 1,
+     "chars": "多"
+    },
+    {
+     "line": 30,
+     "col": 23,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 30,
+     "col": 26,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 30,
+     "col": 30,
+     "occ": 1,
+     "chars": "大"
+    },
+    {
+     "line": 30,
+     "col": 33,
+     "occ": 1,
+     "chars": "神"
+    },
+    {
+     "line": 30,
+     "col": 36,
+     "occ": 1,
+     "chars": "咒"
+    },
+    {
+     "line": 30,
+     "col": 39,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 30,
+     "col": 42,
+     "occ": 1,
+     "chars": "大"
+    },
+    {
+     "line": 30,
+     "col": 45,
+     "occ": 1,
+     "chars": "明"
+    },
+    {
+     "line": 30,
+     "col": 48,
+     "occ": 1,
+     "chars": "咒"
+    },
+    {
+     "line": 30,
+     "col": 51,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 30,
+     "col": 54,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 30,
+     "col": 57,
+     "occ": 1,
+     "chars": "上"
+    },
+    {
+     "line": 30,
+     "col": 60,
+     "occ": 1,
+     "chars": "咒"
+    },
+    {
+     "line": 30,
+     "col": 63,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 30,
+     "col": 66,
+     "occ": 1,
+     "chars": "无"
+    },
+    {
+     "line": 30,
+     "col": 69,
+     "occ": 1,
+     "chars": "等"
+    },
+    {
+     "line": 30,
+     "col": 72,
+     "occ": 1,
+     "chars": "等"
+    },
+    {
+     "line": 30,
+     "col": 75,
+     "occ": 1,
+     "chars": "咒"
+    },
+    {
+     "line": 30,
+     "col": 80,
+     "occ": 1,
+     "chars": "能"
+    },
+    {
+     "line": 30,
+     "col": 83,
+     "occ": 1,
+     "chars": "除"
+    },
+    {
+     "line": 30,
+     "col": 85,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 30,
+     "col": 88,
+     "occ": 1,
+     "chars": "切"
+    },
+    {
+     "line": 30,
+     "col": 91,
+     "occ": 1,
+     "chars": "苦"
+    },
+    {
+     "line": 31,
+     "col": 0,
+     "occ": 1,
+     "chars": "真"
+    },
+    {
+     "line": 31,
+     "col": 3,
+     "occ": 1,
+     "chars": "实"
+    },
+    {
+     "line": 31,
+     "col": 6,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 31,
+     "col": 9,
+     "occ": 1,
+     "chars": "虚"
+    },
+    {
+     "line": 32,
+     "col": 0,
+     "occ": 1,
+     "chars": "故"
+    },
+    {
+     "line": 32,
+     "col": 3,
+     "occ": 1,
+     "chars": "说"
+    },
+    {
+     "line": 32,
+     "col": 5,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 7,
+     "occ": 1,
+     "chars": "般"
+    },
+    {
+     "line": 32,
+     "col": 10,
+     "occ": 1,
+     "chars": "若"
+    },
+    {
+     "line": 32,
+     "col": 13,
+     "occ": 1,
+     "chars": "波"
+    },
+    {
+     "line": 32,
+     "col": 16,
+     "occ": 1,
+     "chars": "罗"
+    },
+    {
+     "line": 32,
+     "col": 19,
+     "occ": 1,
+     "chars": "蜜"
+    },
+    {
+     "line": 32,
+     "col": 21,
+     "occ": 1,
+     "chars": "多"
+    },
+    {
+     "line": 32,
+     "col": 24,
+     "occ": 1,
+     "chars": "咒"
+    },
+    {
+     "line": 32,
+     "col": 25,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 26,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 27,
+     "occ": 1,
+     "chars": "即"
+    },
+    {
+     "line": 32,
+     "col": 29,
+     "occ": 1,
+     "chars": "说"
+    },
+    {
+     "line": 32,
+     "col": 36,
+     "occ": 1,
+     "chars": "咒"
+    },
+    {
+     "line": 32,
+     "col": 38,
+     "occ": 1,
+     "chars": "曰"
+    },
+    {
+     "line": 32,
+     "col": 39,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 40,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 0,
+     "occ": 1,
+     "chars": "揭"
+    },
+    {
+     "line": 34,
+     "col": 9,
+     "occ": 1,
+     "chars": "谛"
+    },
+    {
+     "line": 34,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 13,
+     "occ": 1,
+     "chars": "揭"
+    },
+    {
+     "line": 34,
+     "col": 20,
+     "occ": 1,
+     "chars": "谛"
+    },
+    {
+     "line": 34,
+     "col": 22,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 25,
+     "occ": 1,
+     "chars": "波"
+    },
+    {
+     "line": 34,
+     "col": 32,
+     "occ": 1,
+     "chars": "罗"
+    },
+    {
+     "line": 34,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 40,
+     "occ": 1,
+     "chars": "揭"
+    },
+    {
+     "line": 34,
+     "col": 42,
+     "occ": 1,
+     "chars": "谛"
+    },
+    {
+     "line": 34,
+     "col": 44,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 46,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 47,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 34,
+     "col": 48,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 0,
+     "occ": 1,
+     "chars": "波"
+    },
+    {
+     "line": 35,
+     "col": 9,
+     "occ": 1,
+     "chars": "罗"
+    },
+    {
+     "line": 35,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 13,
+     "occ": 1,
+     "chars": "僧"
+    },
+    {
+     "line": 35,
+     "col": 16,
+     "occ": 1,
+     "chars": "揭"
+    },
+    {
+     "line": 35,
+     "col": 19,
+     "occ": 1,
+     "chars": "谛"
+    },
+    {
+     "line": 35,
+     "col": 21,
+     "occ": 1,
+     "chars": "菩"
+    },
+    {
+     "line": 35,
+     "col": 23,
+     "occ": 1,
+     "chars": "提"
+    },
+    {
+     "line": 35,
+     "col": 29,
+     "occ": 1,
+     "chars": "萨"
+    },
+    {
+     "line": 35,
+     "col": 30,
+     "occ": 1,
+     "chars": "婆诃"
+    },
+    {
+     "line": 35,
+     "col": 31,
+     "occ": 1,
+     "chars": ""
+    }
+   ],
+   "stats": {
+    "n_notes": 318,
+    "n_syllable": 259,
+    "n_events": 318
+   },
+   "conservation": {
+    "n_slot_han": 260,
+    "n_raw_han": 260,
+    "missing": []
+   }
+  }
+ }
+}

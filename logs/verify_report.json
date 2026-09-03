@@ -1,0 +1,10965 @@
+[
+ {
+  "sid": "100513_好久不见",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "x": 114,
+   "xx": 25
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "102342_祝福你祖国",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "102686_春三月",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 27,
+   "xx": 28,
+   "x": 221
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "101673_年少的你啊",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 188,
+   "x": 193,
+   "d": 48
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "102974_化风行万里",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 11,
+   "x": 326
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "100041_童话",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 76,
+   "x": 303,
+   "d": 56
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "101763_和你一样",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 65,
+   "x": 299,
+   "d": 32
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "108165_群青",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 28,
+   "x": 842,
+   "xx": 24
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "109456_一句先苦后甜",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 150,
+   "x": 70,
+   "d": 6
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "112851_来迟",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "111594_坏女孩",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "117054_红豆曲",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "110676_爱人错过",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 33,
+   "x": 305
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "117553_相思河畔",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4,
+   "x": 93
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "113326_说好的幸福呢",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 400,
+   "x": 92,
+   "d": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "108965_叫哥哥你不必如此介意",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "118379_乌兰巴托的夜(歌谱)",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "123245_傻女",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 214,
+   "x": 103,
+   "d": 12
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "12425_不该用情",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "123408_大雪无情人有情",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 218,
+   "xx": 50,
+   "d": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "12485_落差",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "12436_如愿",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "12486_善变",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "12487_解药",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "12496_孤城",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "125275_偷心",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 159,
+   "d": 39,
+   "x": 247
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "126022_心中的太阳",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "125473_春风何时来",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 167,
+   "x": 116,
+   "d": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "125618_无名的人",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 328,
+   "x": 160,
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "126728_不眠之夜",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 55,
+   "d": 32,
+   "x": 179
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "128959_巡光",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 72,
+   "x": 194
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "131622_无人诗",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 45,
+   "d": 3,
+   "x": 297
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "134171_命运不是辘轳",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "131137_纵痴也狂",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 27,
+   "x": 398
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "132524_仙侠世界",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 44,
+   "x": 230,
+   "d": 221
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "137164_再唱我们的歌",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 38,
+   "d": 8,
+   "x": 142
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "136837_我的女孩",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 88,
+   "x": 224,
+   "xx": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "138094_思念",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 6
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "138196_安和桥",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 25,
+   "x": 194,
+   "xx": 163
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "14583_孤勇者",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "14592_归寻",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "141526_我们的爱",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 139,
+   "d": 3,
+   "x": 152,
+   "xxx": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "147150_落花情",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "14017_永不失联的爱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "14593_亲爱的旅人啊",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "147424_遇萤",
+  "dialect": {
+   "line_x": false,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 34,
+   "xx": 192
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "149693_我曾遇到一束光",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 24,
+   "d": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "150003_这条街最靓的仔",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 1,
+   "x": 129
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "149853_想起了你",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 8,
+   "d": 54,
+   "x": 73
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "151573_留恋",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 2,
+   "x": 88,
+   "d": 27
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "151453_王招君",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 113,
+   "d": 7,
+   "x": 87
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "152034_红梅白雪知",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "156030_天长地久",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "153334_不老梦",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 97,
+   "x": 151,
+   "d": 141
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "153003_海底",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "154751_一生中最爱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 16
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "155074_不浪漫罪名",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 11,
+   "xx": 153,
+   "x": 92
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "155275_赤伶",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "155699_如愿",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "153652_花儿与少年",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "15722_风吹过八千里",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "157764_倒带",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 244,
+   "d": 16,
+   "xx": 45
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "15724_世伪知贤",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "159516_后来",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 110,
+   "x": 178,
+   "d": 134
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "161859_燕子",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "167053_月半小夜曲",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "158565_处处吻",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 273,
+   "x": 91,
+   "d": 161
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "160813_只你",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 75,
+   "x": 136
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "160034_人来人往",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 68,
+   "xx": 96,
+   "x": 254
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "160376_暮色回响",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 362,
+   "x": 82
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "164644_遗失的美好",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 302
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "166882_吴哥窟",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 141,
+   "xx": 19,
+   "d": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "167795_用心良苦",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 95,
+   "x": 80,
+   "d": 17
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "170068_壁上观",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "165591_不枉世上做撇捺",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "168745_稳稳的幸福",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "171527_突然的自我",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 40,
+   "x": 214,
+   "xx": 26
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "167275_一半",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "172825_《候鸟的独白》",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "174372_太傻",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "179205_船歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "x": 21
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "182500_泪的小雨",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "174088_时光机",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 381,
+   "xx": 24
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "174499_爱的就是你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "179156_意外",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "177247_《自幼儿生长在昭阳正院》",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xxx": 13,
+   "xx": 95,
+   "x": 545,
+   "d": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "179678_明月天涯",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 128,
+   "xx": 223,
+   "x": 82
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "179777_追梦人",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 196,
+   "x": 153,
+   "d": 31
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "183873_潇洒走一回",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "182403_保留",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 91,
+   "d": 34,
+   "x": 133
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "186239(1)_186239(1)",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "186239_亲爱的你啊",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "187606_阿拉木汗",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "184203_万有引力",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "19034_人间一两风",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "19036_菩提偈",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "192723_你曾是少年",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "188941_烟火",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "189905_天若有情",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "189639_爱与痛的边缘",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "19050_下一站天后",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "19059_是非",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "192976_舍不得分离",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "191528_明天你是否依然爱我",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "192680_漂洋过海来看你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "193600_可能",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 15
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "192856_等你回来",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "193919_不谓侠",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 264,
+   "x": 86
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "19420_寂寞的季节",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "193993_空心人札记",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 102,
+   "d": 13,
+   "x": 336
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "194704_战歌为胜利唱响",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 27
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "199503_最爱",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "195596_秋分辞",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 1,
+   "d": 15,
+   "x": 71
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "200652(1)_200652(1)",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "200652_喜欢你",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "195913_梦一场",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "194695_骄傲的少年",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 21,
+   "x": 158,
+   "xx": 172
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "203287_寂寞沙洲冷",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "195927_亲密爱人",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 49
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "195961_为你我受冷风吹",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 180
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "195986_雨蝶",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "196104_最后一页",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 107,
+   "xx": 128,
+   "x": 254
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "200633_爱一回伤一回",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 213
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "201967_让爱回到陌生",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "204863_相思风雨中",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "203545_火柴天堂",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "21312_红唇",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "202832_2002年的第一场雪",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "205611_彩虹",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "22145_落霜",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "22104_阿拉斯加海湾",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "22140_未来式情歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "22150_亲爱的旅人啊",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 76
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "22164_云深不知处",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "22169_身骑白马",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "22201_绿洲",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 3,
+   "x": 115
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "23894_我是真的爱你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "23910_我们的爱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "28017_拯救",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 55,
+   "x": 75
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "30206_撒野",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "30216_玫瑰先生",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "24550_浪人情歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "28035_一起向未来",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "30219_梦望断",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "30215_该死的温柔",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "30229_灯火里的中国",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "30221_山止川行",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "30231_因为你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "34646_给电影人的情书",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 155,
+   "x": 62
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "34353_马步谣",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3511_动物世界",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "30243_嘉宾",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3544_完美降落",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "34457_中国话",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 730,
+   "xx": 24
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3579_三人游",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3590_下山",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3593_白月光与朱砂痣",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 20,
+   "x": 161,
+   "xx": 24
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3608_一次就好",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 17,
+   "xx": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3595_大悲咒",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 12,
+   "xx": 22
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3600_时间煮雨",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 7
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3610_告白气球",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 32
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3609_带你去旅行",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3613_​辞·九门回忆",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3617_游山恋",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3622_杨花落尽子规啼",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3625_谪仙",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3628_七月上",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 37
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3620_爱情转移（富士山下）",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 15,
+   "x": 213
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3615_我的一个道姑朋友",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3627_山鬼",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 209,
+   "d": 42,
+   "xx": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3630_忘川彼岸",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3634_离人愁",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3663_逆流成河",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 76
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3650_棠梨煎雪",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 11,
+   "xx": 2,
+   "x": 166
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3667_微微一笑很倾城",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 225,
+   "x": 74
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3654_豆花之歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3685_锦鲤抄",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3691_刚刚好",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 1,
+   "xx": 148,
+   "x": 50
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3677_说散就散",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3709_大鱼（大鱼海棠）",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 27,
+   "x": 131
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3714_青花瓷",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xxx": 2,
+   "xx": 239,
+   "x": 85,
+   "d": 33
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3731_贝加尔湖畔（歌词版）",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 40,
+   "x": 67,
+   "xx": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3713_小幸运",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 40
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3722_童话",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3723_不谓侠",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 34,
+   "x": 239
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3742_丑八怪",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 199
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3724_起风了",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3744_年轮",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 48,
+   "xx": 19
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3749_繁花",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3757_红颜旧",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 65
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3754_凉凉",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 6
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3765_红昭愿",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 74,
+   "xx": 19,
+   "x": 135
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3766_我要你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 20
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3761_故梦",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 8,
+   "d": 50,
+   "x": 245
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3767_三寸天堂",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3791_海底",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3794_知否知否",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 13
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3797_赤伶",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 141,
+   "xx": 5,
+   "d": 20
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "38122_往事如烟",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3792_不染",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "38108_忽然之间",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 113,
+   "d": 22,
+   "x": 152
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3815_依兰爱情故事",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 73,
+   "x": 102
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3820_悦神",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3822_月半小夜曲",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 40,
+   "x": 106
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3851_恋人心",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 74
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3839_牵丝戏",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 29
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3826_后来",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 75
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3866_天下",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "38562_少年郎",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 245,
+   "d": 9,
+   "x": 159
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3886_大雨还在下",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 40,
+   "xx": 66,
+   "x": 125
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3894_探窗",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3878_记念",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3922_爱河",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3934_爱是你我",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3925_爱如潮水",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3993_爱若琉璃",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3946_阿楚姑娘",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3947_爱就一个字",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3995_爱的代价",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "3991_爱人错过",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "40409_漫步人生路",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4048_背对背拥抱",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 162,
+   "x": 112
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4063_北京东路的日子",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4078_白夜",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4087_宝贝宝贝",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4075_不将就",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 6,
+   "xx": 52
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4070_包容",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 74,
+   "xx": 101,
+   "x": 126
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4101_不再联系",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 7
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4096_不想长大",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 6,
+   "xx": 44,
+   "x": 132
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4109_不老梦",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 30,
+   "x": 26
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4123_悲情面具",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4118_不要忘记我爱你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4153_奔赴星空",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4148_拜无忧",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 34,
+   "x": 156
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4158_不死之身",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4173_不值得",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "41753_告白气球",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 206,
+   "d": 66,
+   "xx": 17
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4177_步戏",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 135,
+   "x": 231,
+   "xxx": 14
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4202_长安忆",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4204_传奇",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 76,
+   "x": 77,
+   "d": 32
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "41833_你把我灌醉",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4205_此生不换",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4206_匆匆那年",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 39
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4212_成全",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 56,
+   "x": 131
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4225_出山",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4241_春庭雪",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4269_错过的情人",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4227_残酷月光",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 59,
+   "xx": 80
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4297_曾经最美",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4276_侧脸",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4298_长生诀",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 24,
+   "xx": 255,
+   "x": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4301_尘埃",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4350_吹不散这点点愁",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4313_春三月",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4357_出塞歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4354_刹那芳华曲",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 60,
+   "d": 91,
+   "x": 183
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4359_寸心笑傲",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4308_魑魅魍魉",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4407_盗将行",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4401_冬眠",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "43931_围城",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 13,
+   "xx": 240,
+   "x": 88
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4409_大天蓬",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4437_当你老了",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 41,
+   "x": 71,
+   "d": 7
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4464_第一次爱的人",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 18,
+   "xx": 14,
+   "x": 90
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4427_丹青客",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 28,
+   "x": 128,
+   "xx": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4440_大田后生仔",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4476_多情种",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "45124_归来吧",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "4495_东西",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4468_单向箭头",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4475_到不了",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4498_断点",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4467_大城小爱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "44683_群青",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 28,
+   "x": 842,
+   "xx": 24
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4504_大碗宽面",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 121,
+   "x": 450
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4546_电灯胆",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4519_第三人称",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 31,
+   "d": 3,
+   "x": 24
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4534_大氿歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4533_带我走",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "45393_问情",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4566_当时的月亮",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4614_凤凰于飞",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 63
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4620_腐草为萤",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 15,
+   "xx": 41,
+   "x": 91
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4624_风的季节",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "46443_不得不爱",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 144,
+   "d": 17,
+   "x": 109
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4693_放下",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4637_父亲写的散文诗",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4674_繁华唱遍",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4671_芳华慢",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4699_风缘",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 15
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4701_繁华梦",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4702_芳华旧",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4708_分分钟需要你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4737_关山酒",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4748_国王与乞丐",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "47380_传奇",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "47387_匆匆那年",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4749_广寒宫",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4753_给你们",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 27
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4756_给你宇宙",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4758_恭喜发财",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 25,
+   "xx": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4760_归去来兮（花粥）",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4766_勾指起誓",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4780_孤梦",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4762_鬼迷心窍",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 22,
+   "xx": 156,
+   "x": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4773_给我一个理由忘记",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4786_告白",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4792_感知成长的神奇",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4798_故人叹",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 161,
+   "x": 165
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4801_宫墙柳",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "48004_有点甜",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 26,
+   "x": 243
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4800_隔岸",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4797_冠世一战",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 345,
+   "d": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4834_给未来的自己",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4803_国境四方",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 446,
+   "d": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4846_古龙群侠传",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4817_够爱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4869_好久不见",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "x": 114,
+   "xx": 25
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4870_好想你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 60
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4873_虹之间",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4854_故事外的人",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 27,
+   "x": 373
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4880_后会无期",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4876_化身孤岛的鲸",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4885_胡广生",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4881_红色高跟鞋",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4905_灰姑娘",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 8,
+   "xx": 89
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4883_好运来",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 4,
+   "x": 63
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4923_红豆",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4928_忽而今夏",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4986_何日君再来",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4936_海浪",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4959_幻听",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4990_和你在一起",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4945_画中仙",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "49688_风雨无阻",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4976_湖光水色调",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4992_红豆词",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "4999_花木兰",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5038_虎口脱险",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 11
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5094_戒烟",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5120_九万字",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 140,
+   "x": 92
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "50646_牡丹江",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 156,
+   "x": 136
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5137_锦鲤抄",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5136_借口",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5145_寂寞在唱歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5176_金玉良缘",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5196_纠缠",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5185_金陵谣",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "52068_难却",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5223_旧情绵绵",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5206_尽头",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5243_可能否",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5244_空空如也",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5256_可惜没如果",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 131,
+   "x": 113
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5280_口是心非",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5323_鲁冰花",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 3,
+   "xx": 105,
+   "x": 73
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5266_卡路里",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5359_庐州月",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5332_理想三旬",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 64,
+   "xx": 12
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5375_老地方的雨",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 35,
+   "xx": 113,
+   "x": 64
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5368_浪人琵琶",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 33,
+   "xx": 132,
+   "x": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5493_流浪记",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 41,
+   "d": 27,
+   "x": 103
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5487_流着泪说分手",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 29,
+   "x": 99
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5497_梨涡浅笑",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5504_涟漪",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5443_流光记",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5510_临水照花",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5509_落霞云归",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "53998_烟火小城",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 223,
+   "d": 78,
+   "x": 490
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5522_留白",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5573_没那么简单",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4,
+   "x": 155
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5575_慢慢喜欢你",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 178,
+   "xx": 14
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5591_明月天涯",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 34,
+   "x": 101,
+   "d": 15
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "55899_星河叹",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 250
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5592_孟婆的碗",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5603_梅坞寻茶",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 5,
+   "xx": 152
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "56085_霞光",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 21,
+   "x": 154,
+   "d": 30
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "56250_遗憾的过客",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 19,
+   "x": 135,
+   "d": 38
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5714_你笑起来真好看",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5711_暖暖",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 15,
+   "xx": 6
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "56937_难忘的初恋情人",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5622_梦回还",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "56552_你笑起来真好看",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 90,
+   "x": 305,
+   "xx": 89,
+   "xxx": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5716_宁夏",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 14,
+   "d": 54
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "56312_记得咱的家",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 223,
+   "x": 303,
+   "d": 14
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5718_你的眼神",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 10
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5746_你的眼神（精简版）",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 3,
+   "xx": 3,
+   "x": 53
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5726_那女孩对我说",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5733_你不是真正的快乐",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 34,
+   "xx": 54,
+   "x": 120
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5753_哪吒",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5739_你不知道的事",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5744_年少有为",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "57477_说谎",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5760_你在终点等我",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 42
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5784_你一定要幸福",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5809_难得有情人",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5910_千年缘",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 106,
+   "xx": 10
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5866_破茧",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5800_你啊你啊",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 110,
+   "d": 4,
+   "x": 195
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5911_情非得已",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5912_奇迹再现",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5917_清明上河图",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5927_情人",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5931_求佛",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 63
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5947_千纸鹤",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 29,
+   "xx": 69
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5948_青丝",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "59411_伶人",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 96,
+   "x": 176,
+   "d": 25
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5949_千灯之约",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "59576_情关",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5951_权御天下（完整版）",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5968_其实都没有",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 27,
+   "xx": 161
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5978_青春",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5980_恰似你的温柔",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "59771_海角天涯",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5982_情字难",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5991_芊芊",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5992_前尘如梦",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5996_千秋令",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6001_情霜",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5998_倾国倾城",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "5995_倾尽天下",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6017_千千万万",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "60315_爱上一个不回家的人",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6074_让我留在你身边",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6075_如果当时",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6076_如果没有你",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 19,
+   "xx": 117,
+   "x": 125
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6082_如果我爱你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6080_认错",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6093_日不落（抒情版）",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6077_让酒",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6084_人间不值得",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6098_如果你爱我",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6114_如一",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6111_若当来世",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6133_三生三世",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 18,
+   "x": 270
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6141_十年人间",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "61485_化身孤岛的鲸",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6149_山外小楼夜听雨",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 53,
+   "x": 177
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6227_苏幕遮",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "6144_撒野",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6154_山有木兮",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 131,
+   "xx": 19
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6179_是我在做多情种",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6172_上邪",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 13,
+   "xx": 65,
+   "x": 133
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6184_世间美好与你环环相扣",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6191_水星记",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6233_松烟入墨",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6231_石楠小札",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6248_送你一朵小红花",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6253_思凡",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 11,
+   "x": 109,
+   "xx": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6220_沙漠骆驼",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6259_溯鲲",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 105,
+   "xx": 192,
+   "x": 124
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6291_岁月成碑",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 20
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6319_说爱你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6274_世末歌者",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6331_尚好的青春",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6285_是风动",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6338_谁可改变",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 27,
+   "xx": 12,
+   "x": 98
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6369_十世镜",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 11
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6348_少女的祈祷",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6410_狮子山下",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6404_涉川",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6370_上弦之月",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6475_谁令你心痴",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6432_十二月的奇迹",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6380_神的随波逐流",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6482_童话镇",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 130,
+   "x": 254
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6514_踏山河",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6519_天若有情",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6499_天亮了",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 178
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6494_天空之外",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6485_探清水河",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6526_天使的翅膀",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 47
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6522(1)_6522(1)",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6534_天命风流",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 12,
+   "xx": 61,
+   "x": 101
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6573_他不懂",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6527_叹云兮",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6533_听见下雨的声音",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "67202_勇气",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "6574_太阳",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6596_唐人",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 2,
+   "xx": 265,
+   "x": 62
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6658_天下无狗",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6692_我只在乎你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 63
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6629_天下潮",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 64,
+   "xx": 191,
+   "x": 195
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6711_我愿意",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 21,
+   "xx": 12
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6708_晚夜微雨问海棠",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "67564_太想念",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "6728_无人之岛",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6722_我的歌声里",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4,
+   "xx": 198
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6729_我的楼兰",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6732_万物生",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 22,
+   "x": 97
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6748_我们",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 7,
+   "xx": 22,
+   "x": 76
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6737_我的唇吻不到我爱的人",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6756_我们好像在哪见过",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4,
+   "xx": 7
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "67772_星闪闪月弯弯",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 14,
+   "x": 80
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6750_万古生香",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6774_忘记时间",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "68034_栖凰",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 41,
+   "xx": 127,
+   "x": 178
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6788_无问",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 274,
+   "d": 40,
+   "xx": 10
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6787_我的未来式",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6798_无名之辈（陈雪燃）",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6826_唯一纪念",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6810_无归(复管演奏）",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6815_我是一只小小鸟",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6834_外婆桥",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6827_我曾",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6840_我要找到你",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "x": 162
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6842_为你我受冷风吹",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 123,
+   "xx": 166,
+   "d": 6
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6858_我最亲爱的",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6936_忘记他",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6875_我愿意平凡的陪在你身边",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6880_我等你到三十五岁",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "68608_未完待续",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6892_我是真的爱上你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6942_温柔的慈悲",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6946_万事如意",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6977_消愁",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 5,
+   "x": 166
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6979(1)_6979(1)",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 32,
+   "x": 76,
+   "d": 22
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6979_喜欢你(Beyond)",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 32,
+   "x": 76,
+   "d": 22
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6986_相思（《西游记后传》片尾曲）",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6993_萱草花",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6994_小跳蛙",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6995_新不了情",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4,
+   "xx": 32
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6996_修炼爱情",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6997(1)_6997(1)",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7007_需要人陪",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "6997_夏天的风",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7019_学不会",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 109,
+   "x": 94
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7035_小冤家",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 8,
+   "x": 63
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "70197_东风第一枝",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 222,
+   "d": 2,
+   "x": 109
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7031_仙才叹",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7038_霞光",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 22
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7044_潇洒走一回",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7042_陷阱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7056_像鱼",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 23,
+   "xx": 54,
+   "x": 137
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7043_小城谣",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4,
+   "xx": 173,
+   "x": 64
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7057_献天缘",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7037_醒不来的梦",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7067_心经",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 102
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7080_心墙",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7107_夕山谣",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7106_下完这场雨",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 36,
+   "xx": 55,
+   "x": 223
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7137_现代爱情故事",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7131_心痛2009",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 184,
+   "d": 8,
+   "x": 59
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7136_下一个天亮",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 214,
+   "x": 107
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7144_小尾巴之歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7140_相思赋予谁",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xxx": 31,
+   "xx": 112,
+   "d": 6,
+   "x": 70
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7153_逍遥游",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 6,
+   "x": 67
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7210_喜帖街",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7307_燕归巢",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 39,
+   "xx": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7315_烟雨行舟",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7320_燕无歇",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7291_一笑倾城",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 10
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7313_勇气",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 216,
+   "x": 65,
+   "d": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7302_一拜天地",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 117,
+   "xx": 3,
+   "x": 208
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7323_野子",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 24,
+   "xx": 125
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7362_雨蝶",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 27,
+   "x": 128
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7336_虞兮叹",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7358_原来你也在这里",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7354_遇见",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 20,
+   "xx": 4
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7332_鱼玄机",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7338_云烟成雨",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 41,
+   "xx": 73,
+   "x": 213
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7398_忆红莲",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7372_遇萤",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7408_月半弯（cover玉置浩二《夜色》）",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7415_一眼万年",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 19,
+   "xx": 88,
+   "x": 59
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7424_月出",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7414_永不失联的爱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7439_云水谣",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7428_越难越爱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4,
+   "xx": 254
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7453_永远的奥特曼",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7446_易燃易爆炸",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7471_友情岁月",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7477_胭脂妆",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7480_野孩子",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "75160_星光下的梦想完整版",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "7464_一百万个可能",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7490_怨苍天变了心",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7487_一吻天荒",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7503_夜航星",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7506_一花一剑",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7513_余香",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7515_遗憾",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7548_余年",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 159,
+   "x": 15,
+   "xxx": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7543_阴天快乐",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7553_夜来香（邓丽君原唱）",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 12,
+   "x": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7554_御龙吟",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7559_一点点",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7563_夜夜夜夜",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7564_一生中最爱",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 16
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7565_一生爱你千百回",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7585_云河",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7573_用情",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 116,
+   "d": 3,
+   "x": 65
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7574_野百合也有春天",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7599_一爱难求",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7609_咏春",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 40,
+   "x": 123
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7666_渊海无畏",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 15,
+   "xx": 2,
+   "x": 99
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7619_一介书生",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 15
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "76274_寄明月",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 38,
+   "x": 336,
+   "d": 76
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7714_最美的期待",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7689_要一起",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7679_鱼仔",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 2,
+   "x": 401
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7722_追梦赤子心",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 14,
+   "xx": 3
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7724_最浪漫的事",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 20,
+   "xx": 9
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7729_至少还有你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7755_最长的电影",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "77399_绿色军衣",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7767_这一生关于你的风景",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7788_左手右手",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 30,
+   "x": 56
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7778_祖国的花朵",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 68
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7789_猪之歌",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 184
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7796_钟无艳",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 57,
+   "xx": 278
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7801_醉梦仙霖",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7803_再见只是陌生人",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 8,
+   "x": 176
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7825_只是太爱你",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7828_这世界那么多人",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7816_最初的梦想",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7840_执迷不悟",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7849_真相是真",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7857_招摇",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7850_执迷不悔",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7848_昨日青空",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7862_葬仙",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7863_珍珠",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7882_最爱的人伤我最深",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "85266_大鱼",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "7912_最重要的决定",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7937_最爱是谁",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7923_祖龙吟",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": false
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7938_总有一天你会出现在我身边",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "7936_祝君好",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "8198_萱草花",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "81134_想你的夜",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 142,
+   "x": 105,
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "86923_可能",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 185,
+   "xx": 14,
+   "d": 17
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "86807_爱如火",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 42,
+   "x": 212
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "87542_伪善者",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 245,
+   "x": 42
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "87022_我会等",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 239,
+   "x": 43,
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "86955_可不可以",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 215,
+   "x": 192,
+   "d": 1
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "87676_免我蹉跎苦",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "xx": 179,
+   "x": 156,
+   "xxx": 5,
+   "d": 60
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "87519_童话镇",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 132,
+   "x": 351,
+   "xx": 227
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "87995_恶作剧",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 20,
+   "xx": 365,
+   "x": 131
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "89565_姑娘在远方",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "x": 180
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "9200_小孩不小",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 5,
+   "x": 9
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "89326_山茶花读不懂白玫瑰",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 191,
+   "x": 67,
+   "d": 2
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "93131_雨天",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "91463_青玉恋",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xxx": 16,
+   "xx": 220,
+   "d": 3,
+   "x": 95
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "91299_楼顶上的小斑鸠",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 379,
+   "d": 4,
+   "x": 194
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "93375_再见深海",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 5,
+   "x": 162,
+   "xx": 362
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "94683_犯错",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 4,
+   "xxx": 2,
+   "xx": 117,
+   "x": 68
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "94649_落雪三千",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "94907_天使的翅膀",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "93935_乘风破浪",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "95273_星闪闪月弯弯",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 24,
+   "x": 124
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "95928_咏心",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "95554_破茧",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 103,
+   "d": 33,
+   "x": 123
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "95934_如初见",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "96992_星尘",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 35,
+   "x": 124,
+   "xx": 13
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "96447_少年如故",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "95960_凄美地",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "96351_听悲伤的情歌",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": false
+  },
+  "rules_hit": {
+   "d": 5,
+   "xx": 234,
+   "x": 175
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "96997_少年时",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "99644_花田错",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "SKIP_UNPROVEN",
+  "err": "未证实记号: ['=\\\\}']"
+ },
+ {
+  "sid": "97510_逃之夭夭",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "96998_候鸟",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 49,
+   "x": 148,
+   "d": 11
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "98240_无言的结局",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 17,
+   "x": 188,
+   "d": 8
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "97465_想你时风起",
+  "dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {},
+  "changed": false,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "99137_红玫瑰",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 50,
+   "x": 171,
+   "xx": 47
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "99586_那些你很冒险的梦",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 125,
+   "x": 94
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "99865_毒药",
+  "dialect": {
+   "line_x": true,
+   "line_us": true,
+   "line_eq": true,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "d": 1,
+   "xx": 156,
+   "x": 60
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ },
+ {
+  "sid": "99261_千金散尽",
+  "dialect": {
+   "line_x": false,
+   "line_us": true,
+   "line_eq": false,
+   "oct_d": false,
+   "oct_comma": true,
+   "oct_g": true
+  },
+  "rules_hit": {
+   "xx": 470,
+   "d": 39,
+   "x": 114
+  },
+  "changed": true,
+  "verify": "PASS",
+  "err": null
+ }
+]

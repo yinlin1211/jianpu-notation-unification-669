@@ -1,0 +1,2499 @@
+{
+ "songdata": {
+  "song_name": "锦鲤抄",
+  "alias_name": "",
+  "music_composer": "",
+  "lyric_composer": "",
+  "music_composer666": "银临",
+  "music_order": "歌手作曲作词",
+  "lyric_composer666": "慕清明",
+  "rhythm": "6/8",
+  "keynote": "1=bD",
+  "comment": "",
+  "music_url": "",
+  "notation": "{play:A B A B C B D}\n{bpm:90}\n{f:D}\nA:\n0.06dx|3x3x3x3x2x.1xx|2.36dx|2x2x2x2x1x7dx|\n7dx.1xx7dx5d6dx|3x3x3x3x2x.1xx|2.35x|2.6x5x3x|2.06dx|3x3x3x3x2x.1xx|2.36dx|\n2x2x2x2x1x7dx|7dx.1xx7dx5d6dx|3x3x3x3x2x.1xx|2.35x|2.7x1gx7x|(6.(6).|6.)2x3x5x|\n3.2x3x5x|3.2x3x5x|7d.7dx1x7dx|6d.2x3x5x|3.2x3x5x|3.2x3x5x|7.7x1gx7x|\n6.0\nB:\n6xx7xx|1gx.7xx6x5x3x6x|52x36xx7xx|1gx.7xx6x5x3x6x|(57x)66xx7xx|1gx.7xx6x5x3x6x|\n52x33x|2x3x5x3.|2x3x5x3.|2x3x5x1gx7x5x|(6.6.)|\nC:\n3.25x|(2x3)0x6x1gx|7.52x|(3.3.)|3.25x|(2x3)0x6x1gx|2g.75x|6.0\nD:\n6dx|3x3x3x3x2x.1xx|2.36dx|2.22x|(1.1.)|||",
+  "tags": "",
+  "lyric": "[\"蝉声陪伴着行云流浪 回忆开始后安静遥望远方 荒草覆没的古井枯塘 匀散一缕过往 晨曦惊扰了陌上新桑 风卷起庭前落花穿过回廊 浓墨追逐着情绪流淌 染我素衣白裳// 阳光微凉 琴弦微凉 风声疏狂 人间仓皇 呼吸微凉 心事微凉 流年匆忙 对错何妨 你在尘世中辗转了千百年 却只让我看你最后一/眼 火光描摹容颜燃尽了时间 别留我一人 孑然一身 凋零在梦境里面/  多年之后/ 我又梦到那天/ 画面遥远/ 恍惚细雨绵绵   蝉声陪伴着行云流浪 回忆的远方\",\"萤火虫愿将夏夜遗忘 如果终究要挥别这段时光 裙袂不经意沾了荷香 从此坠入尘网 屐齿轻踩着烛焰摇晃 所有喧嚣沉默都描在画上 从惊蛰一路走到霜降 泪水凝成诗行// 灯花微凉 笔锋微凉 难绘虚妄 难解惆怅 梦境微凉 情节微凉 迷离幻象 重叠忧伤 原来诀别是因为深藏眷恋 你用轮回换我枕边月/圆 我愿记忆停止在枯瘦指尖 随繁花褪色 尘埃散落 渐渐地渐渐搁浅/\",\"//////////////////////////////////////////////////////////////////////////////////////////////////////// 如果来生太远寄不到诺言 不如学着放下许多执/念 以这断句残篇向岁月吊唁 老去的当年 水色天边 有谁将悲欢收殓\"]",
+  "price": "",
+  "hot": 0,
+  "instruments": "o12,o3,p8",
+  "fingerings": "o12-D,o3-F,o3-G,o3-C,o3-bA,o3-bG,p8-F,p8-bB,p8-C,p8-bA",
+  "tonalities": "o3-AF,o3-AG",
+  "scores": "[{\"tag\":\"o12@fD@g\",\"name\":\"十二孔陶笛D调指法图谱\",\"best\":1},{\"tag\":\"o3@fF5@g\",\"name\":\"三管陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o3@fG5@g\",\"name\":\"三管陶笛G调指法图谱\"},{\"tag\":\"o3@fC6@g\",\"name\":\"三管陶笛C调指法图谱\"},{\"tag\":\"o3@fbA5@g\",\"name\":\"三管陶笛bA调指法图谱\"},{\"tag\":\"o3@fbG5@g\",\"name\":\"三管陶笛bG调指法图谱\"},{\"tag\":\"p8@fF4@g\",\"name\":\"八孔洞箫F调指法图谱\",\"best\":1},{\"tag\":\"p8@fbB4@g\",\"name\":\"八孔洞箫bB调指法图谱\"},{\"tag\":\"p8@fC5@g\",\"name\":\"八孔洞箫C调指法图谱\"},{\"tag\":\"p8@fbA4@g\",\"name\":\"八孔洞箫bA调指法图谱\"}]",
+  "source": "{song_name:锦鲤抄}\n{music_composer666:银临}\n{lyric_composer666:慕清明}\n{time_signature:6/8}\n{key_signature:bD}\n{music_order:歌手作曲作词}\n{play:A B A B C B D}\n{playyes:A B A B C B D}\n{bpm:90}\n{f:D}\nA:\n0.06dx|3x3x3x3x2x.1xx|2.36dx|2x2x2x2x1x7dx|\n7dx.1xx7dx5d6dx|3x3x3x3x2x.1xx|2.35x|2.6x5x3x|2.06dx|3x3x3x3x2x.1xx|2.36dx|\n2x2x2x2x1x7dx|7dx.1xx7dx5d6dx|3x3x3x3x2x.1xx|2.35x|2.7x1gx7x|(6.(6).|6.)2x3x5x|\n3.2x3x5x|3.2x3x5x|7d.7dx1x7dx|6d.2x3x5x|3.2x3x5x|3.2x3x5x|7.7x1gx7x|\n6.0\nB:\n6xx7xx|1gx.7xx6x5x3x6x|52x36xx7xx|1gx.7xx6x5x3x6x|(57x)66xx7xx|1gx.7xx6x5x3x6x|\n52x33x|2x3x5x3.|2x3x5x3.|2x3x5x1gx7x5x|(6.6.)|\nC:\n3.25x|(2x3)0x6x1gx|7.52x|(3.3.)|3.25x|(2x3)0x6x1gx|2g.75x|6.0\nD:\n6dx|3x3x3x3x2x.1xx|2.36dx|2.22x|(1.1.)|||\n\n{lyric}\n蝉声陪伴着行云流浪 回忆开始后安静遥望远方 荒草覆没的古井枯塘 匀散一缕过往 晨曦惊扰了陌上新桑 风卷起庭前落花穿过回廊 浓墨追逐着情绪流淌 染我素衣白裳// 阳光微凉 琴弦微凉 风声疏狂 人间仓皇 呼吸微凉 心事微凉 流年匆忙 对错何妨 你在尘世中辗转了千百年 却只让我看你最后一/眼 火光描摹容颜燃尽了时间 别留我一人 孑然一身 凋零在梦境里面/  多年之后/ 我又梦到那天/ 画面遥远/ 恍惚细雨绵绵   蝉声陪伴着行云流浪 回忆的远方\n{/lyric}\n\n{lyric}\n萤火虫愿将夏夜遗忘 如果终究要挥别这段时光 裙袂不经意沾了荷香 从此坠入尘网 屐齿轻踩着烛焰摇晃 所有喧嚣沉默都描在画上 从惊蛰一路走到霜降 泪水凝成诗行// 灯花微凉 笔锋微凉 难绘虚妄 难解惆怅 梦境微凉 情节微凉 迷离幻象 重叠忧伤 原来诀别是因为深藏眷恋 你用轮回换我枕边月/圆 我愿记忆停止在枯瘦指尖 随繁花褪色 尘埃散落 渐渐地渐渐搁浅/\n{/lyric}\n\n{lyric}\n//////////////////////////////////////////////////////////////////////////////////////////////////////// 如果来生太远寄不到诺言 不如学着放下许多执/念 以这断句残篇向岁月吊唁 老去的当年 水色天边 有谁将悲欢收殓\n{/lyric}",
+  "_id": 5137,
+  "_collected_at": "2026-01-27T16:37:18.657Z",
+  "notation_raw": "{play:A B A B C B D}\n{bpm:90}\n{f:D}\nA:\n0.06dx|3x3x3x3x2x.1xx|2.36dx|2x2x2x2x1x7dx|\n7dx.1xx7dx5d6dx|3x3x3x3x2x.1xx|2.35x|2.6x5x3x|2.06dx|3x3x3x3x2x.1xx|2.36dx|\n2x2x2x2x1x7dx|7dx.1xx7dx5d6dx|3x3x3x3x2x.1xx|2.35x|2.7x1gx7x|(6.(6).|6.)2x3x5x|\n3.2x3x5x|3.2x3x5x|7d.7dx1x7dx|6d.2x3x5x|3.2x3x5x|3.2x3x5x|7.7x1gx7x|\n6.0\nB:\n6xx7xx|1gx.7xx6x5x3x6x|52x36xx7xx|1gx.7xx6x5x3x6x|(57x)66xx7xx|1gx.7xx6x5x3x6x|\n52x33x|2x3x5x3.|2x3x5x3.|2x3x5x1gx7x5x|(6.6.)|\nC:\n3.25x|(2x3)0x6x1gx|7.52x|(3.3.)|3.25x|(2x3)0x6x1gx|2g.75x|6.0\nD:\n6dx|3x3x3x3x2x.1xx|2.36dx|2.22x|(1.1.)|||",
+  "notation_dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "lyric_layer": {
+   "raw_lyric": "[\"蝉声陪伴着行云流浪 回忆开始后安静遥望远方 荒草覆没的古井枯塘 匀散一缕过往 晨曦惊扰了陌上新桑 风卷起庭前落花穿过回廊 浓墨追逐着情绪流淌 染我素衣白裳// 阳光微凉 琴弦微凉 风声疏狂 人间仓皇 呼吸微凉 心事微凉 流年匆忙 对错何妨 你在尘世中辗转了千百年 却只让我看你最后一/眼 火光描摹容颜燃尽了时间 别留我一人 孑然一身 凋零在梦境里面/  多年之后/ 我又梦到那天/ 画面遥远/ 恍惚细雨绵绵   蝉声陪伴着行云流浪 回忆的远方\",\"萤火虫愿将夏夜遗忘 如果终究要挥别这段时光 裙袂不经意沾了荷香 从此坠入尘网 屐齿轻踩着烛焰摇晃 所有喧嚣沉默都描在画上 从惊蛰一路走到霜降 泪水凝成诗行// 灯花微凉 笔锋微凉 难绘虚妄 难解惆怅 梦境微凉 情节微凉 迷离幻象 重叠忧伤 原来诀别是因为深藏眷恋 你用轮回换我枕边月/圆 我愿记忆停止在枯瘦指尖 随繁花褪色 尘埃散落 渐渐地渐渐搁浅/\",\"//////////////////////////////////////////////////////////////////////////////////////////////////////// 如果来生太远寄不到诺言 不如学着放下许多执/念 以这断句残篇向岁月吊唁 老去的当年 水色天边 有谁将悲欢收殓\"]",
+   "raw_lyric_parsed": [
+    "蝉声陪伴着行云流浪 回忆开始后安静遥望远方 荒草覆没的古井枯塘 匀散一缕过往 晨曦惊扰了陌上新桑 风卷起庭前落花穿过回廊 浓墨追逐着情绪流淌 染我素衣白裳// 阳光微凉 琴弦微凉 风声疏狂 人间仓皇 呼吸微凉 心事微凉 流年匆忙 对错何妨 你在尘世中辗转了千百年 却只让我看你最后一/眼 火光描摹容颜燃尽了时间 别留我一人 孑然一身 凋零在梦境里面/  多年之后/ 我又梦到那天/ 画面遥远/ 恍惚细雨绵绵   蝉声陪伴着行云流浪 回忆的远方",
+    "萤火虫愿将夏夜遗忘 如果终究要挥别这段时光 裙袂不经意沾了荷香 从此坠入尘网 屐齿轻踩着烛焰摇晃 所有喧嚣沉默都描在画上 从惊蛰一路走到霜降 泪水凝成诗行// 灯花微凉 笔锋微凉 难绘虚妄 难解惆怅 梦境微凉 情节微凉 迷离幻象 重叠忧伤 原来诀别是因为深藏眷恋 你用轮回换我枕边月/圆 我愿记忆停止在枯瘦指尖 随繁花褪色 尘埃散落 渐渐地渐渐搁浅/",
+    "//////////////////////////////////////////////////////////////////////////////////////////////////////// 如果来生太远寄不到诺言 不如学着放下许多执/念 以这断句残篇向岁月吊唁 老去的当年 水色天边 有谁将悲欢收殓"
+   ],
+   "pinyin_slots": [],
+   "slots": [
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 3,
+     "occ": 1,
+     "chars": "蝉"
+    },
+    {
+     "line": 19,
+     "col": 7,
+     "occ": 1,
+     "chars": "声"
+    },
+    {
+     "line": 19,
+     "col": 9,
+     "occ": 1,
+     "chars": "陪"
+    },
+    {
+     "line": 19,
+     "col": 11,
+     "occ": 1,
+     "chars": "伴"
+    },
+    {
+     "line": 19,
+     "col": 13,
+     "occ": 1,
+     "chars": "着"
+    },
+    {
+     "line": 19,
+     "col": 15,
+     "occ": 1,
+     "chars": "行"
+    },
+    {
+     "line": 19,
+     "col": 18,
+     "occ": 1,
+     "chars": "云"
+    },
+    {
+     "line": 19,
+     "col": 22,
+     "occ": 1,
+     "chars": "流"
+    },
+    {
+     "line": 19,
+     "col": 24,
+     "occ": 1,
+     "chars": "浪"
+    },
+    {
+     "line": 19,
+     "col": 25,
+     "occ": 1,
+     "chars": "回"
+    },
+    {
+     "line": 19,
+     "col": 29,
+     "occ": 1,
+     "chars": "忆"
+    },
+    {
+     "line": 19,
+     "col": 31,
+     "occ": 1,
+     "chars": "开"
+    },
+    {
+     "line": 19,
+     "col": 33,
+     "occ": 1,
+     "chars": "始"
+    },
+    {
+     "line": 19,
+     "col": 35,
+     "occ": 1,
+     "chars": "后"
+    },
+    {
+     "line": 19,
+     "col": 37,
+     "occ": 1,
+     "chars": "安"
+    },
+    {
+     "line": 19,
+     "col": 39,
+     "occ": 1,
+     "chars": "静"
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 1,
+     "chars": "遥"
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 1,
+     "chars": "望"
+    },
+    {
+     "line": 20,
+     "col": 7,
+     "occ": 1,
+     "chars": "远"
+    },
+    {
+     "line": 20,
+     "col": 10,
+     "occ": 1,
+     "chars": "方"
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 1,
+     "chars": "荒"
+    },
+    {
+     "line": 20,
+     "col": 16,
+     "occ": 1,
+     "chars": "草"
+    },
+    {
+     "line": 20,
+     "col": 18,
+     "occ": 1,
+     "chars": "覆"
+    },
+    {
+     "line": 20,
+     "col": 20,
+     "occ": 1,
+     "chars": "没"
+    },
+    {
+     "line": 20,
+     "col": 22,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 20,
+     "col": 24,
+     "occ": 1,
+     "chars": "古"
+    },
+    {
+     "line": 20,
+     "col": 27,
+     "occ": 1,
+     "chars": "井"
+    },
+    {
+     "line": 20,
+     "col": 31,
+     "occ": 1,
+     "chars": "枯"
+    },
+    {
+     "line": 20,
+     "col": 33,
+     "occ": 1,
+     "chars": "塘"
+    },
+    {
+     "line": 20,
+     "col": 34,
+     "occ": 1,
+     "chars": "匀"
+    },
+    {
+     "line": 20,
+     "col": 37,
+     "occ": 1,
+     "chars": "散"
+    },
+    {
+     "line": 20,
+     "col": 39,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 20,
+     "col": 41,
+     "occ": 1,
+     "chars": "缕"
+    },
+    {
+     "line": 20,
+     "col": 43,
+     "occ": 1,
+     "chars": "过"
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 1,
+     "chars": "往"
+    },
+    {
+     "line": 20,
+     "col": 48,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 49,
+     "occ": 1,
+     "chars": "晨"
+    },
+    {
+     "line": 20,
+     "col": 53,
+     "occ": 1,
+     "chars": "曦"
+    },
+    {
+     "line": 20,
+     "col": 55,
+     "occ": 1,
+     "chars": "惊"
+    },
+    {
+     "line": 20,
+     "col": 57,
+     "occ": 1,
+     "chars": "扰"
+    },
+    {
+     "line": 20,
+     "col": 59,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 20,
+     "col": 61,
+     "occ": 1,
+     "chars": "陌"
+    },
+    {
+     "line": 20,
+     "col": 64,
+     "occ": 1,
+     "chars": "上"
+    },
+    {
+     "line": 20,
+     "col": 68,
+     "occ": 1,
+     "chars": "新"
+    },
+    {
+     "line": 20,
+     "col": 70,
+     "occ": 1,
+     "chars": "桑"
+    },
+    {
+     "line": 20,
+     "col": 71,
+     "occ": 1,
+     "chars": "风"
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 1,
+     "chars": "卷"
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 1,
+     "chars": "起"
+    },
+    {
+     "line": 21,
+     "col": 4,
+     "occ": 1,
+     "chars": "庭"
+    },
+    {
+     "line": 21,
+     "col": 6,
+     "occ": 1,
+     "chars": "前"
+    },
+    {
+     "line": 21,
+     "col": 8,
+     "occ": 1,
+     "chars": "落"
+    },
+    {
+     "line": 21,
+     "col": 10,
+     "occ": 1,
+     "chars": "花"
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 1,
+     "chars": "穿"
+    },
+    {
+     "line": 21,
+     "col": 18,
+     "occ": 1,
+     "chars": "过"
+    },
+    {
+     "line": 21,
+     "col": 21,
+     "occ": 1,
+     "chars": "回"
+    },
+    {
+     "line": 21,
+     "col": 24,
+     "occ": 1,
+     "chars": "廊"
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 1,
+     "chars": "浓"
+    },
+    {
+     "line": 21,
+     "col": 30,
+     "occ": 1,
+     "chars": "墨"
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 1,
+     "chars": "追"
+    },
+    {
+     "line": 21,
+     "col": 34,
+     "occ": 1,
+     "chars": "逐"
+    },
+    {
+     "line": 21,
+     "col": 36,
+     "occ": 1,
+     "chars": "着"
+    },
+    {
+     "line": 21,
+     "col": 38,
+     "occ": 1,
+     "chars": "情"
+    },
+    {
+     "line": 21,
+     "col": 41,
+     "occ": 1,
+     "chars": "绪"
+    },
+    {
+     "line": 21,
+     "col": 45,
+     "occ": 1,
+     "chars": "流"
+    },
+    {
+     "line": 21,
+     "col": 47,
+     "occ": 1,
+     "chars": "淌"
+    },
+    {
+     "line": 21,
+     "col": 48,
+     "occ": 1,
+     "chars": "染"
+    },
+    {
+     "line": 21,
+     "col": 51,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 21,
+     "col": 53,
+     "occ": 1,
+     "chars": "素"
+    },
+    {
+     "line": 21,
+     "col": 55,
+     "occ": 1,
+     "chars": "衣"
+    },
+    {
+     "line": 21,
+     "col": 58,
+     "occ": 1,
+     "chars": "白"
+    },
+    {
+     "line": 21,
+     "col": 62,
+     "occ": 1,
+     "chars": "裳"
+    },
+    {
+     "line": 21,
+     "col": 65,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 69,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 72,
+     "occ": 1,
+     "chars": "阳"
+    },
+    {
+     "line": 21,
+     "col": 74,
+     "occ": 1,
+     "chars": "光"
+    },
+    {
+     "line": 21,
+     "col": 76,
+     "occ": 1,
+     "chars": "微"
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 1,
+     "chars": "凉"
+    },
+    {
+     "line": 22,
+     "col": 2,
+     "occ": 1,
+     "chars": "琴"
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 1,
+     "chars": "弦"
+    },
+    {
+     "line": 22,
+     "col": 6,
+     "occ": 1,
+     "chars": "微"
+    },
+    {
+     "line": 22,
+     "col": 9,
+     "occ": 1,
+     "chars": "凉"
+    },
+    {
+     "line": 22,
+     "col": 11,
+     "occ": 1,
+     "chars": "风"
+    },
+    {
+     "line": 22,
+     "col": 13,
+     "occ": 1,
+     "chars": "声"
+    },
+    {
+     "line": 22,
+     "col": 15,
+     "occ": 1,
+     "chars": "疏"
+    },
+    {
+     "line": 22,
+     "col": 18,
+     "occ": 1,
+     "chars": "狂"
+    },
+    {
+     "line": 22,
+     "col": 21,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 1,
+     "chars": "间"
+    },
+    {
+     "line": 22,
+     "col": 26,
+     "occ": 1,
+     "chars": "仓"
+    },
+    {
+     "line": 22,
+     "col": 30,
+     "occ": 1,
+     "chars": "皇"
+    },
+    {
+     "line": 22,
+     "col": 33,
+     "occ": 1,
+     "chars": "呼"
+    },
+    {
+     "line": 22,
+     "col": 35,
+     "occ": 1,
+     "chars": "吸"
+    },
+    {
+     "line": 22,
+     "col": 37,
+     "occ": 1,
+     "chars": "微"
+    },
+    {
+     "line": 22,
+     "col": 40,
+     "occ": 1,
+     "chars": "凉"
+    },
+    {
+     "line": 22,
+     "col": 42,
+     "occ": 1,
+     "chars": "心"
+    },
+    {
+     "line": 22,
+     "col": 44,
+     "occ": 1,
+     "chars": "事"
+    },
+    {
+     "line": 22,
+     "col": 46,
+     "occ": 1,
+     "chars": "微"
+    },
+    {
+     "line": 22,
+     "col": 49,
+     "occ": 1,
+     "chars": "凉"
+    },
+    {
+     "line": 22,
+     "col": 51,
+     "occ": 1,
+     "chars": "流"
+    },
+    {
+     "line": 22,
+     "col": 53,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 22,
+     "col": 55,
+     "occ": 1,
+     "chars": "匆"
+    },
+    {
+     "line": 22,
+     "col": 58,
+     "occ": 1,
+     "chars": "忙"
+    },
+    {
+     "line": 22,
+     "col": 60,
+     "occ": 1,
+     "chars": "对"
+    },
+    {
+     "line": 22,
+     "col": 62,
+     "occ": 1,
+     "chars": "错"
+    },
+    {
+     "line": 22,
+     "col": 65,
+     "occ": 1,
+     "chars": "何"
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 1,
+     "chars": "妨"
+    },
+    {
+     "line": 23,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 3,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 25,
+     "col": 7,
+     "occ": 1,
+     "chars": "尘"
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 1,
+     "chars": "世"
+    },
+    {
+     "line": 25,
+     "col": 14,
+     "occ": 1,
+     "chars": "中"
+    },
+    {
+     "line": 25,
+     "col": 16,
+     "occ": 1,
+     "chars": "辗"
+    },
+    {
+     "line": 25,
+     "col": 18,
+     "occ": 1,
+     "chars": "转"
+    },
+    {
+     "line": 25,
+     "col": 20,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 1,
+     "chars": "千"
+    },
+    {
+     "line": 25,
+     "col": 24,
+     "occ": 1,
+     "chars": "百"
+    },
+    {
+     "line": 25,
+     "col": 26,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 25,
+     "col": 27,
+     "occ": 1,
+     "chars": "却"
+    },
+    {
+     "line": 25,
+     "col": 30,
+     "occ": 1,
+     "chars": "只"
+    },
+    {
+     "line": 25,
+     "col": 34,
+     "occ": 1,
+     "chars": "让"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 1,
+     "chars": "看"
+    },
+    {
+     "line": 25,
+     "col": 43,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 45,
+     "occ": 1,
+     "chars": "最"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 1,
+     "chars": "后"
+    },
+    {
+     "line": 25,
+     "col": 51,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 1,
+     "chars": "眼"
+    },
+    {
+     "line": 25,
+     "col": 56,
+     "occ": 1,
+     "chars": "火"
+    },
+    {
+     "line": 25,
+     "col": 59,
+     "occ": 1,
+     "chars": "光"
+    },
+    {
+     "line": 25,
+     "col": 63,
+     "occ": 1,
+     "chars": "描"
+    },
+    {
+     "line": 25,
+     "col": 67,
+     "occ": 1,
+     "chars": "摹"
+    },
+    {
+     "line": 25,
+     "col": 70,
+     "occ": 1,
+     "chars": "容"
+    },
+    {
+     "line": 25,
+     "col": 72,
+     "occ": 1,
+     "chars": "颜"
+    },
+    {
+     "line": 25,
+     "col": 74,
+     "occ": 1,
+     "chars": "燃"
+    },
+    {
+     "line": 25,
+     "col": 76,
+     "occ": 1,
+     "chars": "尽"
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 26,
+     "col": 1,
+     "occ": 1,
+     "chars": "时"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 1,
+     "chars": "间"
+    },
+    {
+     "line": 26,
+     "col": 4,
+     "occ": 1,
+     "chars": "别"
+    },
+    {
+     "line": 26,
+     "col": 7,
+     "occ": 1,
+     "chars": "留"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 26,
+     "col": 13,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 1,
+     "chars": "孑"
+    },
+    {
+     "line": 26,
+     "col": 18,
+     "occ": 1,
+     "chars": "然"
+    },
+    {
+     "line": 26,
+     "col": 20,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 26,
+     "col": 22,
+     "occ": 1,
+     "chars": "身"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 1,
+     "chars": "凋"
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 1,
+     "chars": "零"
+    },
+    {
+     "line": 26,
+     "col": 29,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 26,
+     "col": 31,
+     "occ": 1,
+     "chars": "梦"
+    },
+    {
+     "line": 26,
+     "col": 34,
+     "occ": 1,
+     "chars": "境"
+    },
+    {
+     "line": 26,
+     "col": 36,
+     "occ": 1,
+     "chars": "里"
+    },
+    {
+     "line": 26,
+     "col": 40,
+     "occ": 1,
+     "chars": "面"
+    },
+    {
+     "line": 26,
+     "col": 42,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 2,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 3,
+     "occ": 2,
+     "chars": "萤"
+    },
+    {
+     "line": 19,
+     "col": 7,
+     "occ": 2,
+     "chars": "火"
+    },
+    {
+     "line": 19,
+     "col": 9,
+     "occ": 2,
+     "chars": "虫"
+    },
+    {
+     "line": 19,
+     "col": 11,
+     "occ": 2,
+     "chars": "愿"
+    },
+    {
+     "line": 19,
+     "col": 13,
+     "occ": 2,
+     "chars": "将"
+    },
+    {
+     "line": 19,
+     "col": 15,
+     "occ": 2,
+     "chars": "夏"
+    },
+    {
+     "line": 19,
+     "col": 18,
+     "occ": 2,
+     "chars": "夜"
+    },
+    {
+     "line": 19,
+     "col": 22,
+     "occ": 2,
+     "chars": "遗"
+    },
+    {
+     "line": 19,
+     "col": 24,
+     "occ": 2,
+     "chars": "忘"
+    },
+    {
+     "line": 19,
+     "col": 25,
+     "occ": 2,
+     "chars": "如"
+    },
+    {
+     "line": 19,
+     "col": 29,
+     "occ": 2,
+     "chars": "果"
+    },
+    {
+     "line": 19,
+     "col": 31,
+     "occ": 2,
+     "chars": "终"
+    },
+    {
+     "line": 19,
+     "col": 33,
+     "occ": 2,
+     "chars": "究"
+    },
+    {
+     "line": 19,
+     "col": 35,
+     "occ": 2,
+     "chars": "要"
+    },
+    {
+     "line": 19,
+     "col": 37,
+     "occ": 2,
+     "chars": "挥"
+    },
+    {
+     "line": 19,
+     "col": 39,
+     "occ": 2,
+     "chars": "别"
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 2,
+     "chars": "这"
+    },
+    {
+     "line": 20,
+     "col": 4,
+     "occ": 2,
+     "chars": "段"
+    },
+    {
+     "line": 20,
+     "col": 7,
+     "occ": 2,
+     "chars": "时"
+    },
+    {
+     "line": 20,
+     "col": 10,
+     "occ": 2,
+     "chars": "光"
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 2,
+     "chars": "裙"
+    },
+    {
+     "line": 20,
+     "col": 16,
+     "occ": 2,
+     "chars": "袂"
+    },
+    {
+     "line": 20,
+     "col": 18,
+     "occ": 2,
+     "chars": "不"
+    },
+    {
+     "line": 20,
+     "col": 20,
+     "occ": 2,
+     "chars": "经"
+    },
+    {
+     "line": 20,
+     "col": 22,
+     "occ": 2,
+     "chars": "意"
+    },
+    {
+     "line": 20,
+     "col": 24,
+     "occ": 2,
+     "chars": "沾"
+    },
+    {
+     "line": 20,
+     "col": 27,
+     "occ": 2,
+     "chars": "了"
+    },
+    {
+     "line": 20,
+     "col": 31,
+     "occ": 2,
+     "chars": "荷"
+    },
+    {
+     "line": 20,
+     "col": 33,
+     "occ": 2,
+     "chars": "香"
+    },
+    {
+     "line": 20,
+     "col": 34,
+     "occ": 2,
+     "chars": "从"
+    },
+    {
+     "line": 20,
+     "col": 37,
+     "occ": 2,
+     "chars": "此"
+    },
+    {
+     "line": 20,
+     "col": 39,
+     "occ": 2,
+     "chars": "坠"
+    },
+    {
+     "line": 20,
+     "col": 41,
+     "occ": 2,
+     "chars": "入"
+    },
+    {
+     "line": 20,
+     "col": 43,
+     "occ": 2,
+     "chars": "尘"
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 2,
+     "chars": "网"
+    },
+    {
+     "line": 20,
+     "col": 48,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 49,
+     "occ": 2,
+     "chars": "屐"
+    },
+    {
+     "line": 20,
+     "col": 53,
+     "occ": 2,
+     "chars": "齿"
+    },
+    {
+     "line": 20,
+     "col": 55,
+     "occ": 2,
+     "chars": "轻"
+    },
+    {
+     "line": 20,
+     "col": 57,
+     "occ": 2,
+     "chars": "踩"
+    },
+    {
+     "line": 20,
+     "col": 59,
+     "occ": 2,
+     "chars": "着"
+    },
+    {
+     "line": 20,
+     "col": 61,
+     "occ": 2,
+     "chars": "烛"
+    },
+    {
+     "line": 20,
+     "col": 64,
+     "occ": 2,
+     "chars": "焰"
+    },
+    {
+     "line": 20,
+     "col": 68,
+     "occ": 2,
+     "chars": "摇"
+    },
+    {
+     "line": 20,
+     "col": 70,
+     "occ": 2,
+     "chars": "晃"
+    },
+    {
+     "line": 20,
+     "col": 71,
+     "occ": 2,
+     "chars": "所"
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 2,
+     "chars": "有"
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 2,
+     "chars": "喧"
+    },
+    {
+     "line": 21,
+     "col": 4,
+     "occ": 2,
+     "chars": "嚣"
+    },
+    {
+     "line": 21,
+     "col": 6,
+     "occ": 2,
+     "chars": "沉"
+    },
+    {
+     "line": 21,
+     "col": 8,
+     "occ": 2,
+     "chars": "默"
+    },
+    {
+     "line": 21,
+     "col": 10,
+     "occ": 2,
+     "chars": "都"
+    },
+    {
+     "line": 21,
+     "col": 14,
+     "occ": 2,
+     "chars": "描"
+    },
+    {
+     "line": 21,
+     "col": 18,
+     "occ": 2,
+     "chars": "在"
+    },
+    {
+     "line": 21,
+     "col": 21,
+     "occ": 2,
+     "chars": "画"
+    },
+    {
+     "line": 21,
+     "col": 24,
+     "occ": 2,
+     "chars": "上"
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 2,
+     "chars": "从"
+    },
+    {
+     "line": 21,
+     "col": 30,
+     "occ": 2,
+     "chars": "惊"
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 2,
+     "chars": "蛰"
+    },
+    {
+     "line": 21,
+     "col": 34,
+     "occ": 2,
+     "chars": "一"
+    },
+    {
+     "line": 21,
+     "col": 36,
+     "occ": 2,
+     "chars": "路"
+    },
+    {
+     "line": 21,
+     "col": 38,
+     "occ": 2,
+     "chars": "走"
+    },
+    {
+     "line": 21,
+     "col": 41,
+     "occ": 2,
+     "chars": "到"
+    },
+    {
+     "line": 21,
+     "col": 45,
+     "occ": 2,
+     "chars": "霜"
+    },
+    {
+     "line": 21,
+     "col": 47,
+     "occ": 2,
+     "chars": "降"
+    },
+    {
+     "line": 21,
+     "col": 48,
+     "occ": 2,
+     "chars": "泪"
+    },
+    {
+     "line": 21,
+     "col": 51,
+     "occ": 2,
+     "chars": "水"
+    },
+    {
+     "line": 21,
+     "col": 53,
+     "occ": 2,
+     "chars": "凝"
+    },
+    {
+     "line": 21,
+     "col": 55,
+     "occ": 2,
+     "chars": "成"
+    },
+    {
+     "line": 21,
+     "col": 58,
+     "occ": 2,
+     "chars": "诗"
+    },
+    {
+     "line": 21,
+     "col": 62,
+     "occ": 2,
+     "chars": "行"
+    },
+    {
+     "line": 21,
+     "col": 65,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 69,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 72,
+     "occ": 2,
+     "chars": "灯"
+    },
+    {
+     "line": 21,
+     "col": 74,
+     "occ": 2,
+     "chars": "花"
+    },
+    {
+     "line": 21,
+     "col": 76,
+     "occ": 2,
+     "chars": "微"
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 2,
+     "chars": "凉"
+    },
+    {
+     "line": 22,
+     "col": 2,
+     "occ": 2,
+     "chars": "笔"
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 2,
+     "chars": "锋"
+    },
+    {
+     "line": 22,
+     "col": 6,
+     "occ": 2,
+     "chars": "微"
+    },
+    {
+     "line": 22,
+     "col": 9,
+     "occ": 2,
+     "chars": "凉"
+    },
+    {
+     "line": 22,
+     "col": 11,
+     "occ": 2,
+     "chars": "难"
+    },
+    {
+     "line": 22,
+     "col": 13,
+     "occ": 2,
+     "chars": "绘"
+    },
+    {
+     "line": 22,
+     "col": 15,
+     "occ": 2,
+     "chars": "虚"
+    },
+    {
+     "line": 22,
+     "col": 18,
+     "occ": 2,
+     "chars": "妄"
+    },
+    {
+     "line": 22,
+     "col": 21,
+     "occ": 2,
+     "chars": "难"
+    },
+    {
+     "line": 22,
+     "col": 24,
+     "occ": 2,
+     "chars": "解"
+    },
+    {
+     "line": 22,
+     "col": 26,
+     "occ": 2,
+     "chars": "惆"
+    },
+    {
+     "line": 22,
+     "col": 30,
+     "occ": 2,
+     "chars": "怅"
+    },
+    {
+     "line": 22,
+     "col": 33,
+     "occ": 2,
+     "chars": "梦"
+    },
+    {
+     "line": 22,
+     "col": 35,
+     "occ": 2,
+     "chars": "境"
+    },
+    {
+     "line": 22,
+     "col": 37,
+     "occ": 2,
+     "chars": "微"
+    },
+    {
+     "line": 22,
+     "col": 40,
+     "occ": 2,
+     "chars": "凉"
+    },
+    {
+     "line": 22,
+     "col": 42,
+     "occ": 2,
+     "chars": "情"
+    },
+    {
+     "line": 22,
+     "col": 44,
+     "occ": 2,
+     "chars": "节"
+    },
+    {
+     "line": 22,
+     "col": 46,
+     "occ": 2,
+     "chars": "微"
+    },
+    {
+     "line": 22,
+     "col": 49,
+     "occ": 2,
+     "chars": "凉"
+    },
+    {
+     "line": 22,
+     "col": 51,
+     "occ": 2,
+     "chars": "迷"
+    },
+    {
+     "line": 22,
+     "col": 53,
+     "occ": 2,
+     "chars": "离"
+    },
+    {
+     "line": 22,
+     "col": 55,
+     "occ": 2,
+     "chars": "幻"
+    },
+    {
+     "line": 22,
+     "col": 58,
+     "occ": 2,
+     "chars": "象"
+    },
+    {
+     "line": 22,
+     "col": 60,
+     "occ": 2,
+     "chars": "重"
+    },
+    {
+     "line": 22,
+     "col": 62,
+     "occ": 2,
+     "chars": "叠"
+    },
+    {
+     "line": 22,
+     "col": 65,
+     "occ": 2,
+     "chars": "忧"
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 2,
+     "chars": "伤"
+    },
+    {
+     "line": 23,
+     "col": 2,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 2,
+     "chars": "原"
+    },
+    {
+     "line": 25,
+     "col": 3,
+     "occ": 2,
+     "chars": "来"
+    },
+    {
+     "line": 25,
+     "col": 7,
+     "occ": 2,
+     "chars": "诀"
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 2,
+     "chars": "别"
+    },
+    {
+     "line": 25,
+     "col": 14,
+     "occ": 2,
+     "chars": "是"
+    },
+    {
+     "line": 25,
+     "col": 16,
+     "occ": 2,
+     "chars": "因"
+    },
+    {
+     "line": 25,
+     "col": 18,
+     "occ": 2,
+     "chars": "为"
+    },
+    {
+     "line": 25,
+     "col": 20,
+     "occ": 2,
+     "chars": "深"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 2,
+     "chars": "藏"
+    },
+    {
+     "line": 25,
+     "col": 24,
+     "occ": 2,
+     "chars": "眷"
+    },
+    {
+     "line": 25,
+     "col": 26,
+     "occ": 2,
+     "chars": "恋"
+    },
+    {
+     "line": 25,
+     "col": 27,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 25,
+     "col": 30,
+     "occ": 2,
+     "chars": "用"
+    },
+    {
+     "line": 25,
+     "col": 34,
+     "occ": 2,
+     "chars": "轮"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 2,
+     "chars": "回"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 2,
+     "chars": "换"
+    },
+    {
+     "line": 25,
+     "col": 43,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 45,
+     "occ": 2,
+     "chars": "枕"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 2,
+     "chars": "边"
+    },
+    {
+     "line": 25,
+     "col": 51,
+     "occ": 2,
+     "chars": "月"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 2,
+     "chars": "圆"
+    },
+    {
+     "line": 25,
+     "col": 56,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 25,
+     "col": 59,
+     "occ": 2,
+     "chars": "愿"
+    },
+    {
+     "line": 25,
+     "col": 63,
+     "occ": 2,
+     "chars": "记"
+    },
+    {
+     "line": 25,
+     "col": 67,
+     "occ": 2,
+     "chars": "忆"
+    },
+    {
+     "line": 25,
+     "col": 70,
+     "occ": 2,
+     "chars": "停"
+    },
+    {
+     "line": 25,
+     "col": 72,
+     "occ": 2,
+     "chars": "止"
+    },
+    {
+     "line": 25,
+     "col": 74,
+     "occ": 2,
+     "chars": "在"
+    },
+    {
+     "line": 25,
+     "col": 76,
+     "occ": 2,
+     "chars": "枯"
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 2,
+     "chars": "瘦"
+    },
+    {
+     "line": 26,
+     "col": 1,
+     "occ": 2,
+     "chars": "指"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 2,
+     "chars": "尖"
+    },
+    {
+     "line": 26,
+     "col": 4,
+     "occ": 2,
+     "chars": "随"
+    },
+    {
+     "line": 26,
+     "col": 7,
+     "occ": 2,
+     "chars": "繁"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 2,
+     "chars": "花"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 2,
+     "chars": "褪"
+    },
+    {
+     "line": 26,
+     "col": 13,
+     "occ": 2,
+     "chars": "色"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 2,
+     "chars": "尘"
+    },
+    {
+     "line": 26,
+     "col": 18,
+     "occ": 2,
+     "chars": "埃"
+    },
+    {
+     "line": 26,
+     "col": 20,
+     "occ": 2,
+     "chars": "散"
+    },
+    {
+     "line": 26,
+     "col": 22,
+     "occ": 2,
+     "chars": "落"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 2,
+     "chars": "渐"
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 2,
+     "chars": "渐"
+    },
+    {
+     "line": 26,
+     "col": 29,
+     "occ": 2,
+     "chars": "地"
+    },
+    {
+     "line": 26,
+     "col": 31,
+     "occ": 2,
+     "chars": "渐"
+    },
+    {
+     "line": 26,
+     "col": 34,
+     "occ": 2,
+     "chars": "渐"
+    },
+    {
+     "line": 26,
+     "col": 36,
+     "occ": 2,
+     "chars": "搁"
+    },
+    {
+     "line": 26,
+     "col": 40,
+     "occ": 2,
+     "chars": "浅"
+    },
+    {
+     "line": 26,
+     "col": 42,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 1,
+     "chars": "多"
+    },
+    {
+     "line": 28,
+     "col": 2,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 28,
+     "col": 3,
+     "occ": 1,
+     "chars": "之"
+    },
+    {
+     "line": 28,
+     "col": 7,
+     "occ": 1,
+     "chars": "后"
+    },
+    {
+     "line": 28,
+     "col": 9,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 13,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 15,
+     "occ": 1,
+     "chars": "又"
+    },
+    {
+     "line": 28,
+     "col": 19,
+     "occ": 1,
+     "chars": "梦"
+    },
+    {
+     "line": 28,
+     "col": 21,
+     "occ": 1,
+     "chars": "到"
+    },
+    {
+     "line": 28,
+     "col": 22,
+     "occ": 1,
+     "chars": "那"
+    },
+    {
+     "line": 28,
+     "col": 26,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 28,
+     "col": 28,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 32,
+     "occ": 1,
+     "chars": "画"
+    },
+    {
+     "line": 28,
+     "col": 34,
+     "occ": 1,
+     "chars": "面"
+    },
+    {
+     "line": 28,
+     "col": 35,
+     "occ": 1,
+     "chars": "遥"
+    },
+    {
+     "line": 28,
+     "col": 39,
+     "occ": 1,
+     "chars": "远"
+    },
+    {
+     "line": 28,
+     "col": 41,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 43,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 45,
+     "occ": 1,
+     "chars": "恍"
+    },
+    {
+     "line": 28,
+     "col": 47,
+     "occ": 1,
+     "chars": "惚"
+    },
+    {
+     "line": 28,
+     "col": 51,
+     "occ": 1,
+     "chars": "细"
+    },
+    {
+     "line": 28,
+     "col": 54,
+     "occ": 1,
+     "chars": "雨"
+    },
+    {
+     "line": 28,
+     "col": 55,
+     "occ": 1,
+     "chars": "绵"
+    },
+    {
+     "line": 28,
+     "col": 58,
+     "occ": 1,
+     "chars": "绵"
+    },
+    {
+     "line": 28,
+     "col": 60,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 0,
+     "occ": 3,
+     "chars": "如"
+    },
+    {
+     "line": 25,
+     "col": 3,
+     "occ": 3,
+     "chars": "果"
+    },
+    {
+     "line": 25,
+     "col": 7,
+     "occ": 3,
+     "chars": "来"
+    },
+    {
+     "line": 25,
+     "col": 11,
+     "occ": 3,
+     "chars": "生"
+    },
+    {
+     "line": 25,
+     "col": 14,
+     "occ": 3,
+     "chars": "太"
+    },
+    {
+     "line": 25,
+     "col": 16,
+     "occ": 3,
+     "chars": "远"
+    },
+    {
+     "line": 25,
+     "col": 18,
+     "occ": 3,
+     "chars": "寄"
+    },
+    {
+     "line": 25,
+     "col": 20,
+     "occ": 3,
+     "chars": "不"
+    },
+    {
+     "line": 25,
+     "col": 23,
+     "occ": 3,
+     "chars": "到"
+    },
+    {
+     "line": 25,
+     "col": 24,
+     "occ": 3,
+     "chars": "诺"
+    },
+    {
+     "line": 25,
+     "col": 26,
+     "occ": 3,
+     "chars": "言"
+    },
+    {
+     "line": 25,
+     "col": 27,
+     "occ": 3,
+     "chars": "不"
+    },
+    {
+     "line": 25,
+     "col": 30,
+     "occ": 3,
+     "chars": "如"
+    },
+    {
+     "line": 25,
+     "col": 34,
+     "occ": 3,
+     "chars": "学"
+    },
+    {
+     "line": 25,
+     "col": 38,
+     "occ": 3,
+     "chars": "着"
+    },
+    {
+     "line": 25,
+     "col": 41,
+     "occ": 3,
+     "chars": "放"
+    },
+    {
+     "line": 25,
+     "col": 43,
+     "occ": 3,
+     "chars": "下"
+    },
+    {
+     "line": 25,
+     "col": 45,
+     "occ": 3,
+     "chars": "许"
+    },
+    {
+     "line": 25,
+     "col": 47,
+     "occ": 3,
+     "chars": "多"
+    },
+    {
+     "line": 25,
+     "col": 51,
+     "occ": 3,
+     "chars": "执"
+    },
+    {
+     "line": 25,
+     "col": 52,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 55,
+     "occ": 3,
+     "chars": "念"
+    },
+    {
+     "line": 25,
+     "col": 56,
+     "occ": 3,
+     "chars": "以"
+    },
+    {
+     "line": 25,
+     "col": 59,
+     "occ": 3,
+     "chars": "这"
+    },
+    {
+     "line": 25,
+     "col": 63,
+     "occ": 3,
+     "chars": "断"
+    },
+    {
+     "line": 25,
+     "col": 67,
+     "occ": 3,
+     "chars": "句"
+    },
+    {
+     "line": 25,
+     "col": 70,
+     "occ": 3,
+     "chars": "残"
+    },
+    {
+     "line": 25,
+     "col": 72,
+     "occ": 3,
+     "chars": "篇"
+    },
+    {
+     "line": 25,
+     "col": 74,
+     "occ": 3,
+     "chars": "向"
+    },
+    {
+     "line": 25,
+     "col": 76,
+     "occ": 3,
+     "chars": "岁"
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 3,
+     "chars": "月"
+    },
+    {
+     "line": 26,
+     "col": 1,
+     "occ": 3,
+     "chars": "吊"
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 3,
+     "chars": "唁"
+    },
+    {
+     "line": 26,
+     "col": 4,
+     "occ": 3,
+     "chars": "老"
+    },
+    {
+     "line": 26,
+     "col": 7,
+     "occ": 3,
+     "chars": "去"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 3,
+     "chars": "的"
+    },
+    {
+     "line": 26,
+     "col": 11,
+     "occ": 3,
+     "chars": "当"
+    },
+    {
+     "line": 26,
+     "col": 13,
+     "occ": 3,
+     "chars": "年"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 3,
+     "chars": "水"
+    },
+    {
+     "line": 26,
+     "col": 18,
+     "occ": 3,
+     "chars": "色"
+    },
+    {
+     "line": 26,
+     "col": 20,
+     "occ": 3,
+     "chars": "天"
+    },
+    {
+     "line": 26,
+     "col": 22,
+     "occ": 3,
+     "chars": "边"
+    },
+    {
+     "line": 26,
+     "col": 25,
+     "occ": 3,
+     "chars": "有"
+    },
+    {
+     "line": 26,
+     "col": 27,
+     "occ": 3,
+     "chars": "谁"
+    },
+    {
+     "line": 26,
+     "col": 29,
+     "occ": 3,
+     "chars": "将"
+    },
+    {
+     "line": 26,
+     "col": 31,
+     "occ": 3,
+     "chars": "悲"
+    },
+    {
+     "line": 26,
+     "col": 34,
+     "occ": 3,
+     "chars": "欢"
+    },
+    {
+     "line": 26,
+     "col": 36,
+     "occ": 3,
+     "chars": "收"
+    },
+    {
+     "line": 26,
+     "col": 40,
+     "occ": 3,
+     "chars": "殓"
+    },
+    {
+     "line": 26,
+     "col": 42,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 30,
+     "col": 0,
+     "occ": 1,
+     "chars": "蝉"
+    },
+    {
+     "line": 30,
+     "col": 4,
+     "occ": 1,
+     "chars": "声"
+    },
+    {
+     "line": 30,
+     "col": 6,
+     "occ": 1,
+     "chars": "陪"
+    },
+    {
+     "line": 30,
+     "col": 8,
+     "occ": 1,
+     "chars": "伴"
+    },
+    {
+     "line": 30,
+     "col": 10,
+     "occ": 1,
+     "chars": "着"
+    },
+    {
+     "line": 30,
+     "col": 12,
+     "occ": 1,
+     "chars": "行"
+    },
+    {
+     "line": 30,
+     "col": 15,
+     "occ": 1,
+     "chars": "云"
+    },
+    {
+     "line": 30,
+     "col": 19,
+     "occ": 1,
+     "chars": "流"
+    },
+    {
+     "line": 30,
+     "col": 21,
+     "occ": 1,
+     "chars": "浪"
+    },
+    {
+     "line": 30,
+     "col": 22,
+     "occ": 1,
+     "chars": "回"
+    },
+    {
+     "line": 30,
+     "col": 26,
+     "occ": 1,
+     "chars": "忆"
+    },
+    {
+     "line": 30,
+     "col": 28,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 30,
+     "col": 29,
+     "occ": 1,
+     "chars": "远"
+    },
+    {
+     "line": 30,
+     "col": 33,
+     "occ": 1,
+     "chars": "方"
+    },
+    {
+     "line": 30,
+     "col": 35,
+     "occ": 1,
+     "chars": ""
+    }
+   ],
+   "stats": {
+    "n_notes": 407,
+    "n_syllable": 382,
+    "n_events": 407
+   },
+   "conservation": {
+    "n_slot_han": 382,
+    "n_raw_han": 382,
+    "missing": []
+   }
+  }
+ }
+}

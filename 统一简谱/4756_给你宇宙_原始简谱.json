@@ -1,0 +1,3038 @@
+{
+ "songdata": {
+  "song_name": "给你宇宙",
+  "alias_name": "",
+  "music_composer": "",
+  "lyric_composer": "",
+  "music_composer666": "",
+  "music_order": "歌手作曲作词",
+  "lyric_composer666": "",
+  "rhythm": "4/4",
+  "keynote": "1=bB",
+  "comment": "",
+  "music_url": "",
+  "notation": "{play:A 间奏 A B}\n{bpm:85}\nA:\n0x3x5x3xx(5xx5x)6x0x6xx6xx|2x1x2x1xx(2xx2x)1x7dx1x|7d7dx1xx(7dxx7dx)5dx5dx5dx|\n5x4x3x4xx(3xx3)1x2x|3x5x0x.3xx6x5x3xx5x((5xx|5x)3x2)0x1x7dx7x|\n(7x5x)53x3x2gx(2gx|1g)--0|\n\n1xx2xx3x|55x3xx(5xx5x)6x5x4xx4xx|3x3x3x4xx(3xx3xx)1xx1x0x1xx1xx|\n5x3x5x3xx(5xx5x)6x5x5x|5xx1gx.7x6xx.7xxx6x5x5|\n\n1g1gx6xx(1gxx1gx)7x0x7xx6xx|7x7x7x1gxx(7xx7x)6x0x5xx5xx|1g1gx6xx(1gxx1gx)7x0x7xx6xx|\n7x7xx6xx7x1gxx1gxx7x(6x6x(5x|5))-00|\n\n0x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|3x5xx(5xx5)1gxx7x.6x5x|3xx5x.5x1x\n3xx5x.5x3x|2x3x2x1x10x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|\n3x5xx(5xx5)1gxx7x.6x5x|3x.5xx5x1x3xx5x.5x3x|2x3x2x1x10|\nB:\n\n0x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|3x5xx(5xx5)1gxx7x.6x5x|3xx5x.5x1x\n3xx5x.5x3x|2x3x4x3x30x.5xx|5x1gxx(1gxx1g)5xx1gx.1gx0x5xx|\n5x1gxx(1gxx1g)2gxx1gx.3g|1gxx6x.1g1gxx6x.1gx1gx|7x1gx2gx1gx1g-|\n\n0135|1g51g-|0135|1g51g0|||\n",
+  "tags": "",
+  "lyric": "[\"喝太多咖；啡 夜色看起来很美； 少女的心 惦记着；谁 才辗转难以入眠； 漆黑天空 遗失在窗台上；；； 闭上眼就/想起的脸庞/  当步伐把阳光都/踩碎 又能倚着你宽厚/的背 暖风吹来淡淡的/香味 像这样一直都不会累 在你的梦/乡 洒落了闪烁的星/光 打造银河的模/样 牵着手然后到处去飞翔/// Cause I m a pilot any/where Cause I m a pilot any/where/ lighting star shooting star 给你我/Ga/ la /xy  Cause I m a pilot any/where Cause I m a pilot any/where/ 为你摘下小星星 给你我Ga la xy  Cause I m a pilot any/where Cause I m a pilot any/where/ lighting star shooting star 给你我/Ga/ la /xy  Cause I m a pilot any/where Cause I m a pilot any/where lighting/ star/ shooting star 给你我Ga la xy da~\",\"外面的景；色看起来格外美好； 我已经接收到信；号 确定某个运行轨；道 （然后)一直 一直把你围绕/// 天空中哪/颗星星最闪耀 当夜晚到来的那/时候 又可以靠着你的/胸口 这样拥抱你给的/温柔 就(好像)是拥抱整片宇宙 \"]",
+  "price": "",
+  "hot": 0,
+  "instruments": "o3,p8",
+  "fingerings": "o3-F,o3-G,o3-C,o3-bE,p8-F,p8-bB,p8-C,p8-bA",
+  "tonalities": "o3-AF,o3-AG",
+  "scores": "[{\"tag\":\"o3@fF5@g\",\"name\":\"三管陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o3@fG5@g\",\"name\":\"三管陶笛G调指法图谱\"},{\"tag\":\"o3@fC6@g\",\"name\":\"三管陶笛C调指法图谱\"},{\"tag\":\"o3@fbE5@g\",\"name\":\"三管陶笛bE调指法图谱\"},{\"tag\":\"p8@fF4@g\",\"name\":\"八孔洞箫F调指法图谱\",\"best\":1},{\"tag\":\"p8@fbB4@g\",\"name\":\"八孔洞箫bB调指法图谱\"},{\"tag\":\"p8@fC5@g\",\"name\":\"八孔洞箫C调指法图谱\"},{\"tag\":\"p8@fbA4@g\",\"name\":\"八孔洞箫bA调指法图谱\"}]",
+  "source": "{song_name:给你宇宙}\n{time_signature:4/4}\n{key_signature:bB}\n{music_order:歌手作曲作词}\n{play:A 间奏 A B}\n{bpm:85}\nA:\n0x3x5x3xx(5xx5x)6x0x6xx6xx|2x1x2x1xx(2xx2x)1x7dx1x|7d7dx1xx(7dxx7dx)5dx5dx5dx|\n5x4x3x4xx(3xx3)1x2x|3x5x0x.3xx6x5x3xx5x((5xx|5x)3x2)0x1x7dx7x|\n(7x5x)53x3x2gx(2gx|1g)--0|\n\n1xx2xx3x|55x3xx(5xx5x)6x5x4xx4xx|3x3x3x4xx(3xx3xx)1xx1x0x1xx1xx|\n5x3x5x3xx(5xx5x)6x5x5x|5xx1gx.7x6xx.7xxx6x5x5|\n\n1g1gx6xx(1gxx1gx)7x0x7xx6xx|7x7x7x1gxx(7xx7x)6x0x5xx5xx|1g1gx6xx(1gxx1gx)7x0x7xx6xx|\n7x7xx6xx7x1gxx1gxx7x(6x6x(5x|5))-00|\n\n0x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|3x5xx(5xx5)1gxx7x.6x5x|3xx5x.5x1x\n3xx5x.5x3x|2x3x2x1x10x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|\n3x5xx(5xx5)1gxx7x.6x5x|3x.5xx5x1x3xx5x.5x3x|2x3x2x1x10|\nB:\n\n0x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|3x5xx(5xx5)1gxx7x.6x5x|3xx5x.5x1x\n3xx5x.5x3x|2x3x4x3x30x.5xx|5x1gxx(1gxx1g)5xx1gx.1gx0x5xx|\n5x1gxx(1gxx1g)2gxx1gx.3g|1gxx6x.1g1gxx6x.1gx1gx|7x1gx2gx1gx1g-|\n\n0135|1g51g-|0135|1g51g0|||\n\n\n{lyric}\n喝太多咖；啡 夜色看起来很美； 少女的心 惦记着；谁 才辗转难以入眠； 漆黑天空 遗失在窗台上；；； 闭上眼就/想起的脸庞/  当步伐把阳光都/踩碎 又能倚着你宽厚/的背 暖风吹来淡淡的/香味 像这样一直都不会累 在你的梦/乡 洒落了闪烁的星/光 打造银河的模/样 牵着手然后到处去飞翔/// Cause I m a pilot any/where Cause I m a pilot any/where/ lighting star shooting star 给你我/Ga/ la /xy  Cause I m a pilot any/where Cause I m a pilot any/where/ 为你摘下小星星 给你我Ga la xy  Cause I m a pilot any/where Cause I m a pilot any/where/ lighting star shooting star 给你我/Ga/ la /xy  Cause I m a pilot any/where Cause I m a pilot any/where lighting/ star/ shooting star 给你我Ga la xy da~\n{/lyric}\n\n{lyric}\n外面的景；色看起来格外美好； 我已经接收到信；号 确定某个运行轨；道 （然后)一直 一直把你围绕/// 天空中哪/颗星星最闪耀 当夜晚到来的那/时候 又可以靠着你的/胸口 这样拥抱你给的/温柔 就(好像)是拥抱整片宇宙 \n{/lyric}",
+  "_id": 4756,
+  "_collected_at": "2026-01-26T14:47:24.397Z",
+  "notation_raw": "{play:A 间奏 A B}\n{bpm:85}\nA:\n0x3x5x3xx(5xx5x)6x0x6xx6xx|2x1x2x1xx(2xx2x)1x7dx1x|7d7dx1xx(7dxx7dx)5dx5dx5dx|\n5x4x3x4xx(3xx3)1x2x|3x5x0x.3xx6x5x3xx5x((5xx|5x)3x2)0x1x7dx7x|\n(7x5x)53x3x2gx(2gx|1g)--0|\n\n1xx2xx3x|55x3xx(5xx5x)6x5x4xx4xx|3x3x3x4xx(3xx3xx)1xx1x0x1xx1xx|\n5x3x5x3xx(5xx5x)6x5x5x|5xx1gx.7x6xx.7xxx6x5x5|\n\n1g1gx6xx(1gxx1gx)7x0x7xx6xx|7x7x7x1gxx(7xx7x)6x0x5xx5xx|1g1gx6xx(1gxx1gx)7x0x7xx6xx|\n7x7xx6xx7x1gxx1gxx7x(6x6x(5x|5))-00|\n\n0x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|3x5xx(5xx5)1gxx7x.6x5x|3xx5x.5x1x\n3xx5x.5x3x|2x3x2x1x10x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|\n3x5xx(5xx5)1gxx7x.6x5x|3x.5xx5x1x3xx5x.5x3x|2x3x2x1x10|\nB:\n\n0x.1xx|3x5xx(5xx5)3xx5x.5x0xx1xx|3x5xx(5xx5)1gxx7x.6x5x|3xx5x.5x1x\n3xx5x.5x3x|2x3x4x3x30x.5xx|5x1gxx(1gxx1g)5xx1gx.1gx0x5xx|\n5x1gxx(1gxx1g)2gxx1gx.3g|1gxx6x.1g1gxx6x.1gx1gx|7x1gx2gx1gx1g-|\n\n0135|1g51g-|0135|1g51g0|||\n",
+  "notation_dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "lyric_layer": {
+   "raw_lyric": "[\"喝太多咖；啡 夜色看起来很美； 少女的心 惦记着；谁 才辗转难以入眠； 漆黑天空 遗失在窗台上；；； 闭上眼就/想起的脸庞/  当步伐把阳光都/踩碎 又能倚着你宽厚/的背 暖风吹来淡淡的/香味 像这样一直都不会累 在你的梦/乡 洒落了闪烁的星/光 打造银河的模/样 牵着手然后到处去飞翔/// Cause I m a pilot any/where Cause I m a pilot any/where/ lighting star shooting star 给你我/Ga/ la /xy  Cause I m a pilot any/where Cause I m a pilot any/where/ 为你摘下小星星 给你我Ga la xy  Cause I m a pilot any/where Cause I m a pilot any/where/ lighting star shooting star 给你我/Ga/ la /xy  Cause I m a pilot any/where Cause I m a pilot any/where lighting/ star/ shooting star 给你我Ga la xy da~\",\"外面的景；色看起来格外美好； 我已经接收到信；号 确定某个运行轨；道 （然后)一直 一直把你围绕/// 天空中哪/颗星星最闪耀 当夜晚到来的那/时候 又可以靠着你的/胸口 这样拥抱你给的/温柔 就(好像)是拥抱整片宇宙 \"]",
+   "raw_lyric_parsed": [
+    "喝太多咖；啡 夜色看起来很美； 少女的心 惦记着；谁 才辗转难以入眠； 漆黑天空 遗失在窗台上；；； 闭上眼就/想起的脸庞/  当步伐把阳光都/踩碎 又能倚着你宽厚/的背 暖风吹来淡淡的/香味 像这样一直都不会累 在你的梦/乡 洒落了闪烁的星/光 打造银河的模/样 牵着手然后到处去飞翔/// Cause I m a pilot any/where Cause I m a pilot any/where/ lighting star shooting star 给你我/Ga/ la /xy  Cause I m a pilot any/where Cause I m a pilot any/where/ 为你摘下小星星 给你我Ga la xy  Cause I m a pilot any/where Cause I m a pilot any/where/ lighting star shooting star 给你我/Ga/ la /xy  Cause I m a pilot any/where Cause I m a pilot any/where lighting/ star/ shooting star 给你我Ga la xy da~",
+    "外面的景；色看起来格外美好； 我已经接收到信；号 确定某个运行轨；道 （然后)一直 一直把你围绕/// 天空中哪/颗星星最闪耀 当夜晚到来的那/时候 又可以靠着你的/胸口 这样拥抱你给的/温柔 就(好像)是拥抱整片宇宙 "
+   ],
+   "pinyin_slots": [],
+   "slots": [
+    {
+     "line": 16,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 2,
+     "occ": 1,
+     "chars": "喝"
+    },
+    {
+     "line": 16,
+     "col": 4,
+     "occ": 1,
+     "chars": "太"
+    },
+    {
+     "line": 16,
+     "col": 6,
+     "occ": 1,
+     "chars": "多"
+    },
+    {
+     "line": 16,
+     "col": 10,
+     "occ": 1,
+     "chars": "咖"
+    },
+    {
+     "line": 16,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 16,
+     "occ": 1,
+     "chars": "啡"
+    },
+    {
+     "line": 16,
+     "col": 18,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 20,
+     "occ": 1,
+     "chars": "夜"
+    },
+    {
+     "line": 16,
+     "col": 23,
+     "occ": 1,
+     "chars": "色"
+    },
+    {
+     "line": 16,
+     "col": 27,
+     "occ": 1,
+     "chars": "看"
+    },
+    {
+     "line": 16,
+     "col": 29,
+     "occ": 1,
+     "chars": "起"
+    },
+    {
+     "line": 16,
+     "col": 31,
+     "occ": 1,
+     "chars": "来"
+    },
+    {
+     "line": 16,
+     "col": 33,
+     "occ": 1,
+     "chars": "很"
+    },
+    {
+     "line": 16,
+     "col": 37,
+     "occ": 1,
+     "chars": "美"
+    },
+    {
+     "line": 16,
+     "col": 40,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 43,
+     "occ": 1,
+     "chars": "少"
+    },
+    {
+     "line": 16,
+     "col": 45,
+     "occ": 1,
+     "chars": "女"
+    },
+    {
+     "line": 16,
+     "col": 48,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 16,
+     "col": 51,
+     "occ": 1,
+     "chars": "心"
+    },
+    {
+     "line": 16,
+     "col": 53,
+     "occ": 1,
+     "chars": "惦"
+    },
+    {
+     "line": 16,
+     "col": 56,
+     "occ": 1,
+     "chars": "记"
+    },
+    {
+     "line": 16,
+     "col": 60,
+     "occ": 1,
+     "chars": "着"
+    },
+    {
+     "line": 16,
+     "col": 64,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 68,
+     "occ": 1,
+     "chars": "谁"
+    },
+    {
+     "line": 16,
+     "col": 71,
+     "occ": 1,
+     "chars": "才"
+    },
+    {
+     "line": 16,
+     "col": 74,
+     "occ": 1,
+     "chars": "辗"
+    },
+    {
+     "line": 17,
+     "col": 0,
+     "occ": 1,
+     "chars": "转"
+    },
+    {
+     "line": 17,
+     "col": 2,
+     "occ": 1,
+     "chars": "难"
+    },
+    {
+     "line": 17,
+     "col": 4,
+     "occ": 1,
+     "chars": "以"
+    },
+    {
+     "line": 17,
+     "col": 6,
+     "occ": 1,
+     "chars": "入"
+    },
+    {
+     "line": 17,
+     "col": 10,
+     "occ": 1,
+     "chars": "眠"
+    },
+    {
+     "line": 17,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 15,
+     "occ": 1,
+     "chars": "漆"
+    },
+    {
+     "line": 17,
+     "col": 17,
+     "occ": 1,
+     "chars": "黑"
+    },
+    {
+     "line": 17,
+     "col": 20,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 17,
+     "col": 22,
+     "occ": 1,
+     "chars": "空"
+    },
+    {
+     "line": 17,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 27,
+     "occ": 1,
+     "chars": "遗"
+    },
+    {
+     "line": 17,
+     "col": 30,
+     "occ": 1,
+     "chars": "失"
+    },
+    {
+     "line": 17,
+     "col": 32,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 17,
+     "col": 34,
+     "occ": 1,
+     "chars": "窗"
+    },
+    {
+     "line": 17,
+     "col": 37,
+     "occ": 1,
+     "chars": "台"
+    },
+    {
+     "line": 17,
+     "col": 41,
+     "occ": 1,
+     "chars": "上"
+    },
+    {
+     "line": 17,
+     "col": 45,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 48,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 50,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 52,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 54,
+     "occ": 1,
+     "chars": "闭"
+    },
+    {
+     "line": 17,
+     "col": 56,
+     "occ": 1,
+     "chars": "上"
+    },
+    {
+     "line": 17,
+     "col": 59,
+     "occ": 1,
+     "chars": "眼"
+    },
+    {
+     "line": 18,
+     "col": 1,
+     "occ": 1,
+     "chars": "就"
+    },
+    {
+     "line": 18,
+     "col": 3,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 6,
+     "occ": 1,
+     "chars": "想"
+    },
+    {
+     "line": 18,
+     "col": 7,
+     "occ": 1,
+     "chars": "起"
+    },
+    {
+     "line": 18,
+     "col": 9,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 18,
+     "col": 11,
+     "occ": 1,
+     "chars": "脸"
+    },
+    {
+     "line": 18,
+     "col": 15,
+     "occ": 1,
+     "chars": "庞"
+    },
+    {
+     "line": 18,
+     "col": 19,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 22,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 23,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 24,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 1,
+     "chars": "当"
+    },
+    {
+     "line": 20,
+     "col": 3,
+     "occ": 1,
+     "chars": "步"
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 1,
+     "chars": "伐"
+    },
+    {
+     "line": 20,
+     "col": 9,
+     "occ": 1,
+     "chars": "把"
+    },
+    {
+     "line": 20,
+     "col": 10,
+     "occ": 1,
+     "chars": "阳"
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 1,
+     "chars": "光"
+    },
+    {
+     "line": 20,
+     "col": 16,
+     "occ": 1,
+     "chars": "都"
+    },
+    {
+     "line": 20,
+     "col": 19,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 22,
+     "occ": 1,
+     "chars": "踩"
+    },
+    {
+     "line": 20,
+     "col": 24,
+     "occ": 1,
+     "chars": "碎"
+    },
+    {
+     "line": 20,
+     "col": 26,
+     "occ": 1,
+     "chars": "又"
+    },
+    {
+     "line": 20,
+     "col": 29,
+     "occ": 1,
+     "chars": "能"
+    },
+    {
+     "line": 20,
+     "col": 33,
+     "occ": 1,
+     "chars": "倚"
+    },
+    {
+     "line": 20,
+     "col": 35,
+     "occ": 1,
+     "chars": "着"
+    },
+    {
+     "line": 20,
+     "col": 37,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 20,
+     "col": 39,
+     "occ": 1,
+     "chars": "宽"
+    },
+    {
+     "line": 20,
+     "col": 43,
+     "occ": 1,
+     "chars": "厚"
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 50,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 20,
+     "col": 53,
+     "occ": 1,
+     "chars": "背"
+    },
+    {
+     "line": 20,
+     "col": 55,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 57,
+     "occ": 1,
+     "chars": "暖"
+    },
+    {
+     "line": 20,
+     "col": 60,
+     "occ": 1,
+     "chars": "风"
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 1,
+     "chars": "吹"
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 1,
+     "chars": "来"
+    },
+    {
+     "line": 21,
+     "col": 4,
+     "occ": 1,
+     "chars": "淡"
+    },
+    {
+     "line": 21,
+     "col": 6,
+     "occ": 1,
+     "chars": "淡"
+    },
+    {
+     "line": 21,
+     "col": 10,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 21,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 16,
+     "occ": 1,
+     "chars": "香"
+    },
+    {
+     "line": 21,
+     "col": 18,
+     "occ": 1,
+     "chars": "味"
+    },
+    {
+     "line": 21,
+     "col": 20,
+     "occ": 1,
+     "chars": "像"
+    },
+    {
+     "line": 21,
+     "col": 23,
+     "occ": 1,
+     "chars": "这"
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 1,
+     "chars": "样"
+    },
+    {
+     "line": 21,
+     "col": 30,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 1,
+     "chars": "直"
+    },
+    {
+     "line": 21,
+     "col": 36,
+     "occ": 1,
+     "chars": "都"
+    },
+    {
+     "line": 21,
+     "col": 40,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 21,
+     "col": 42,
+     "occ": 1,
+     "chars": "会"
+    },
+    {
+     "line": 21,
+     "col": 44,
+     "occ": 1,
+     "chars": "累"
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 23,
+     "col": 2,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 23,
+     "col": 5,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 23,
+     "col": 9,
+     "occ": 1,
+     "chars": "梦"
+    },
+    {
+     "line": 23,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 17,
+     "occ": 1,
+     "chars": "乡"
+    },
+    {
+     "line": 23,
+     "col": 19,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 21,
+     "occ": 1,
+     "chars": "洒"
+    },
+    {
+     "line": 23,
+     "col": 24,
+     "occ": 1,
+     "chars": "落"
+    },
+    {
+     "line": 23,
+     "col": 28,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 23,
+     "col": 30,
+     "occ": 1,
+     "chars": "闪"
+    },
+    {
+     "line": 23,
+     "col": 32,
+     "occ": 1,
+     "chars": "烁"
+    },
+    {
+     "line": 23,
+     "col": 34,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 23,
+     "col": 39,
+     "occ": 1,
+     "chars": "星"
+    },
+    {
+     "line": 23,
+     "col": 42,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 45,
+     "occ": 1,
+     "chars": "光"
+    },
+    {
+     "line": 23,
+     "col": 47,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 49,
+     "occ": 1,
+     "chars": "打"
+    },
+    {
+     "line": 23,
+     "col": 52,
+     "occ": 1,
+     "chars": "造"
+    },
+    {
+     "line": 23,
+     "col": 56,
+     "occ": 1,
+     "chars": "银"
+    },
+    {
+     "line": 23,
+     "col": 58,
+     "occ": 1,
+     "chars": "河"
+    },
+    {
+     "line": 23,
+     "col": 61,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 23,
+     "col": 65,
+     "occ": 1,
+     "chars": "模"
+    },
+    {
+     "line": 23,
+     "col": 69,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 73,
+     "occ": 1,
+     "chars": "样"
+    },
+    {
+     "line": 23,
+     "col": 75,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 77,
+     "occ": 1,
+     "chars": "牵"
+    },
+    {
+     "line": 23,
+     "col": 80,
+     "occ": 1,
+     "chars": "着"
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 1,
+     "chars": "手"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 1,
+     "chars": "然"
+    },
+    {
+     "line": 24,
+     "col": 5,
+     "occ": 1,
+     "chars": "后"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 1,
+     "chars": "到"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 1,
+     "chars": "处"
+    },
+    {
+     "line": 24,
+     "col": 14,
+     "occ": 1,
+     "chars": "去"
+    },
+    {
+     "line": 24,
+     "col": 18,
+     "occ": 1,
+     "chars": "飞"
+    },
+    {
+     "line": 24,
+     "col": 21,
+     "occ": 1,
+     "chars": "翔"
+    },
+    {
+     "line": 24,
+     "col": 23,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 26,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 29,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 32,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 33,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 1,
+     "chars": "Cause"
+    },
+    {
+     "line": 26,
+     "col": 7,
+     "occ": 1,
+     "chars": "I"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 1,
+     "chars": "m"
+    },
+    {
+     "line": 26,
+     "col": 13,
+     "occ": 1,
+     "chars": "a"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 1,
+     "chars": "pilot"
+    },
+    {
+     "line": 26,
+     "col": 18,
+     "occ": 1,
+     "chars": "any"
+    },
+    {
+     "line": 26,
+     "col": 21,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 24,
+     "occ": 1,
+     "chars": "where"
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 29,
+     "occ": 1,
+     "chars": "Cause"
+    },
+    {
+     "line": 26,
+     "col": 33,
+     "occ": 1,
+     "chars": "I"
+    },
+    {
+     "line": 26,
+     "col": 35,
+     "occ": 1,
+     "chars": "m"
+    },
+    {
+     "line": 26,
+     "col": 39,
+     "occ": 1,
+     "chars": "a"
+    },
+    {
+     "line": 26,
+     "col": 42,
+     "occ": 1,
+     "chars": "pilot"
+    },
+    {
+     "line": 26,
+     "col": 44,
+     "occ": 1,
+     "chars": "any"
+    },
+    {
+     "line": 26,
+     "col": 48,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 51,
+     "occ": 1,
+     "chars": "where"
+    },
+    {
+     "line": 26,
+     "col": 53,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 56,
+     "occ": 1,
+     "chars": "lighting"
+    },
+    {
+     "line": 26,
+     "col": 59,
+     "occ": 1,
+     "chars": "star"
+    },
+    {
+     "line": 26,
+     "col": 62,
+     "occ": 1,
+     "chars": "shooting"
+    },
+    {
+     "line": 26,
+     "col": 64,
+     "occ": 1,
+     "chars": "star"
+    },
+    {
+     "line": 27,
+     "col": 0,
+     "occ": 1,
+     "chars": "给"
+    },
+    {
+     "line": 27,
+     "col": 3,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 27,
+     "col": 6,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 27,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 11,
+     "occ": 1,
+     "chars": "Ga"
+    },
+    {
+     "line": 27,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 15,
+     "occ": 1,
+     "chars": "la"
+    },
+    {
+     "line": 27,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 19,
+     "occ": 1,
+     "chars": "xy"
+    },
+    {
+     "line": 27,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 23,
+     "occ": 1,
+     "chars": "Cause"
+    },
+    {
+     "line": 27,
+     "col": 27,
+     "occ": 1,
+     "chars": "I"
+    },
+    {
+     "line": 27,
+     "col": 29,
+     "occ": 1,
+     "chars": "m"
+    },
+    {
+     "line": 27,
+     "col": 33,
+     "occ": 1,
+     "chars": "a"
+    },
+    {
+     "line": 27,
+     "col": 36,
+     "occ": 1,
+     "chars": "pilot"
+    },
+    {
+     "line": 27,
+     "col": 38,
+     "occ": 1,
+     "chars": "any"
+    },
+    {
+     "line": 27,
+     "col": 41,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 44,
+     "occ": 1,
+     "chars": "where"
+    },
+    {
+     "line": 27,
+     "col": 46,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 49,
+     "occ": 1,
+     "chars": "Cause"
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 1,
+     "chars": "I"
+    },
+    {
+     "line": 28,
+     "col": 2,
+     "occ": 1,
+     "chars": "m"
+    },
+    {
+     "line": 28,
+     "col": 6,
+     "occ": 1,
+     "chars": "a"
+    },
+    {
+     "line": 28,
+     "col": 9,
+     "occ": 1,
+     "chars": "pilot"
+    },
+    {
+     "line": 28,
+     "col": 11,
+     "occ": 1,
+     "chars": "any"
+    },
+    {
+     "line": 28,
+     "col": 15,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 18,
+     "occ": 1,
+     "chars": "where"
+    },
+    {
+     "line": 28,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 23,
+     "occ": 1,
+     "chars": "为"
+    },
+    {
+     "line": 28,
+     "col": 26,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 29,
+     "occ": 1,
+     "chars": "摘"
+    },
+    {
+     "line": 28,
+     "col": 31,
+     "occ": 1,
+     "chars": "下"
+    },
+    {
+     "line": 28,
+     "col": 33,
+     "occ": 1,
+     "chars": "小"
+    },
+    {
+     "line": 28,
+     "col": 36,
+     "occ": 1,
+     "chars": "星"
+    },
+    {
+     "line": 28,
+     "col": 39,
+     "occ": 1,
+     "chars": "星"
+    },
+    {
+     "line": 28,
+     "col": 41,
+     "occ": 1,
+     "chars": "给"
+    },
+    {
+     "line": 28,
+     "col": 44,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 46,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 48,
+     "occ": 1,
+     "chars": "Ga"
+    },
+    {
+     "line": 28,
+     "col": 50,
+     "occ": 1,
+     "chars": "la"
+    },
+    {
+     "line": 28,
+     "col": 52,
+     "occ": 1,
+     "chars": "xy"
+    },
+    {
+     "line": 28,
+     "col": 53,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 2,
+     "occ": 2,
+     "chars": "外"
+    },
+    {
+     "line": 16,
+     "col": 4,
+     "occ": 2,
+     "chars": "面"
+    },
+    {
+     "line": 16,
+     "col": 6,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 16,
+     "col": 10,
+     "occ": 2,
+     "chars": "景"
+    },
+    {
+     "line": 16,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 16,
+     "occ": 2,
+     "chars": "色"
+    },
+    {
+     "line": 16,
+     "col": 18,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 20,
+     "occ": 2,
+     "chars": "看"
+    },
+    {
+     "line": 16,
+     "col": 23,
+     "occ": 2,
+     "chars": "起"
+    },
+    {
+     "line": 16,
+     "col": 27,
+     "occ": 2,
+     "chars": "来"
+    },
+    {
+     "line": 16,
+     "col": 29,
+     "occ": 2,
+     "chars": "格"
+    },
+    {
+     "line": 16,
+     "col": 31,
+     "occ": 2,
+     "chars": "外"
+    },
+    {
+     "line": 16,
+     "col": 33,
+     "occ": 2,
+     "chars": "美"
+    },
+    {
+     "line": 16,
+     "col": 37,
+     "occ": 2,
+     "chars": "好"
+    },
+    {
+     "line": 16,
+     "col": 40,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 43,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 16,
+     "col": 45,
+     "occ": 2,
+     "chars": "已"
+    },
+    {
+     "line": 16,
+     "col": 48,
+     "occ": 2,
+     "chars": "经"
+    },
+    {
+     "line": 16,
+     "col": 51,
+     "occ": 2,
+     "chars": "接"
+    },
+    {
+     "line": 16,
+     "col": 53,
+     "occ": 2,
+     "chars": "收"
+    },
+    {
+     "line": 16,
+     "col": 56,
+     "occ": 2,
+     "chars": "到"
+    },
+    {
+     "line": 16,
+     "col": 60,
+     "occ": 2,
+     "chars": "信"
+    },
+    {
+     "line": 16,
+     "col": 64,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 16,
+     "col": 68,
+     "occ": 2,
+     "chars": "号"
+    },
+    {
+     "line": 16,
+     "col": 71,
+     "occ": 2,
+     "chars": "确"
+    },
+    {
+     "line": 16,
+     "col": 74,
+     "occ": 2,
+     "chars": "定"
+    },
+    {
+     "line": 17,
+     "col": 0,
+     "occ": 2,
+     "chars": "某"
+    },
+    {
+     "line": 17,
+     "col": 2,
+     "occ": 2,
+     "chars": "个"
+    },
+    {
+     "line": 17,
+     "col": 4,
+     "occ": 2,
+     "chars": "运"
+    },
+    {
+     "line": 17,
+     "col": 6,
+     "occ": 2,
+     "chars": "行"
+    },
+    {
+     "line": 17,
+     "col": 10,
+     "occ": 2,
+     "chars": "轨"
+    },
+    {
+     "line": 17,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 15,
+     "occ": 2,
+     "chars": "道"
+    },
+    {
+     "line": 17,
+     "col": 17,
+     "occ": 2,
+     "chars": "然后"
+    },
+    {
+     "line": 17,
+     "col": 20,
+     "occ": 2,
+     "chars": "一"
+    },
+    {
+     "line": 17,
+     "col": 22,
+     "occ": 2,
+     "chars": "直"
+    },
+    {
+     "line": 17,
+     "col": 24,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 27,
+     "occ": 2,
+     "chars": "一"
+    },
+    {
+     "line": 17,
+     "col": 30,
+     "occ": 2,
+     "chars": "直"
+    },
+    {
+     "line": 17,
+     "col": 32,
+     "occ": 2,
+     "chars": "把"
+    },
+    {
+     "line": 17,
+     "col": 34,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 17,
+     "col": 37,
+     "occ": 2,
+     "chars": "围"
+    },
+    {
+     "line": 17,
+     "col": 41,
+     "occ": 2,
+     "chars": "绕"
+    },
+    {
+     "line": 17,
+     "col": 45,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 48,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 50,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 52,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 54,
+     "occ": 2,
+     "chars": "天"
+    },
+    {
+     "line": 17,
+     "col": 56,
+     "occ": 2,
+     "chars": "空"
+    },
+    {
+     "line": 17,
+     "col": 59,
+     "occ": 2,
+     "chars": "中"
+    },
+    {
+     "line": 18,
+     "col": 1,
+     "occ": 2,
+     "chars": "哪"
+    },
+    {
+     "line": 18,
+     "col": 3,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 6,
+     "occ": 2,
+     "chars": "颗"
+    },
+    {
+     "line": 18,
+     "col": 7,
+     "occ": 2,
+     "chars": "星"
+    },
+    {
+     "line": 18,
+     "col": 9,
+     "occ": 2,
+     "chars": "星"
+    },
+    {
+     "line": 18,
+     "col": 11,
+     "occ": 2,
+     "chars": "最"
+    },
+    {
+     "line": 18,
+     "col": 15,
+     "occ": 2,
+     "chars": "闪"
+    },
+    {
+     "line": 18,
+     "col": 19,
+     "occ": 2,
+     "chars": "耀"
+    },
+    {
+     "line": 18,
+     "col": 22,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 23,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 24,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 2,
+     "chars": "当"
+    },
+    {
+     "line": 20,
+     "col": 3,
+     "occ": 2,
+     "chars": "夜"
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 2,
+     "chars": "晚"
+    },
+    {
+     "line": 20,
+     "col": 9,
+     "occ": 2,
+     "chars": "到"
+    },
+    {
+     "line": 20,
+     "col": 10,
+     "occ": 2,
+     "chars": "来"
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 20,
+     "col": 16,
+     "occ": 2,
+     "chars": "那"
+    },
+    {
+     "line": 20,
+     "col": 19,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 22,
+     "occ": 2,
+     "chars": "时"
+    },
+    {
+     "line": 20,
+     "col": 24,
+     "occ": 2,
+     "chars": "候"
+    },
+    {
+     "line": 20,
+     "col": 26,
+     "occ": 2,
+     "chars": "又"
+    },
+    {
+     "line": 20,
+     "col": 29,
+     "occ": 2,
+     "chars": "可"
+    },
+    {
+     "line": 20,
+     "col": 33,
+     "occ": 2,
+     "chars": "以"
+    },
+    {
+     "line": 20,
+     "col": 35,
+     "occ": 2,
+     "chars": "靠"
+    },
+    {
+     "line": 20,
+     "col": 37,
+     "occ": 2,
+     "chars": "着"
+    },
+    {
+     "line": 20,
+     "col": 39,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 20,
+     "col": 43,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 20,
+     "col": 46,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 50,
+     "occ": 2,
+     "chars": "胸"
+    },
+    {
+     "line": 20,
+     "col": 53,
+     "occ": 2,
+     "chars": "口"
+    },
+    {
+     "line": 20,
+     "col": 55,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 57,
+     "occ": 2,
+     "chars": "这"
+    },
+    {
+     "line": 20,
+     "col": 60,
+     "occ": 2,
+     "chars": "样"
+    },
+    {
+     "line": 21,
+     "col": 0,
+     "occ": 2,
+     "chars": "拥"
+    },
+    {
+     "line": 21,
+     "col": 2,
+     "occ": 2,
+     "chars": "抱"
+    },
+    {
+     "line": 21,
+     "col": 4,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 21,
+     "col": 6,
+     "occ": 2,
+     "chars": "给"
+    },
+    {
+     "line": 21,
+     "col": 10,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 21,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 21,
+     "col": 16,
+     "occ": 2,
+     "chars": "温"
+    },
+    {
+     "line": 21,
+     "col": 18,
+     "occ": 2,
+     "chars": "柔"
+    },
+    {
+     "line": 21,
+     "col": 20,
+     "occ": 2,
+     "chars": "就"
+    },
+    {
+     "line": 21,
+     "col": 23,
+     "occ": 2,
+     "chars": "好像"
+    },
+    {
+     "line": 21,
+     "col": 26,
+     "occ": 2,
+     "chars": "是"
+    },
+    {
+     "line": 21,
+     "col": 30,
+     "occ": 2,
+     "chars": "拥"
+    },
+    {
+     "line": 21,
+     "col": 32,
+     "occ": 2,
+     "chars": "抱"
+    },
+    {
+     "line": 21,
+     "col": 36,
+     "occ": 2,
+     "chars": "整"
+    },
+    {
+     "line": 21,
+     "col": 40,
+     "occ": 2,
+     "chars": "片"
+    },
+    {
+     "line": 21,
+     "col": 42,
+     "occ": 2,
+     "chars": "宇"
+    },
+    {
+     "line": 21,
+     "col": 44,
+     "occ": 2,
+     "chars": "宙"
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 2,
+     "chars": "在"
+    },
+    {
+     "line": 23,
+     "col": 2,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 23,
+     "col": 5,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 23,
+     "col": 9,
+     "occ": 2,
+     "chars": "梦"
+    },
+    {
+     "line": 23,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 17,
+     "occ": 2,
+     "chars": "乡"
+    },
+    {
+     "line": 23,
+     "col": 19,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 21,
+     "occ": 2,
+     "chars": "洒"
+    },
+    {
+     "line": 23,
+     "col": 24,
+     "occ": 2,
+     "chars": "落"
+    },
+    {
+     "line": 23,
+     "col": 28,
+     "occ": 2,
+     "chars": "了"
+    },
+    {
+     "line": 23,
+     "col": 30,
+     "occ": 2,
+     "chars": "闪"
+    },
+    {
+     "line": 23,
+     "col": 32,
+     "occ": 2,
+     "chars": "烁"
+    },
+    {
+     "line": 23,
+     "col": 34,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 23,
+     "col": 39,
+     "occ": 2,
+     "chars": "星"
+    },
+    {
+     "line": 23,
+     "col": 42,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 45,
+     "occ": 2,
+     "chars": "光"
+    },
+    {
+     "line": 23,
+     "col": 47,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 49,
+     "occ": 2,
+     "chars": "打"
+    },
+    {
+     "line": 23,
+     "col": 52,
+     "occ": 2,
+     "chars": "造"
+    },
+    {
+     "line": 23,
+     "col": 56,
+     "occ": 2,
+     "chars": "银"
+    },
+    {
+     "line": 23,
+     "col": 58,
+     "occ": 2,
+     "chars": "河"
+    },
+    {
+     "line": 23,
+     "col": 61,
+     "occ": 2,
+     "chars": "的"
+    },
+    {
+     "line": 23,
+     "col": 65,
+     "occ": 2,
+     "chars": "模"
+    },
+    {
+     "line": 23,
+     "col": 69,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 73,
+     "occ": 2,
+     "chars": "样"
+    },
+    {
+     "line": 23,
+     "col": 75,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 77,
+     "occ": 2,
+     "chars": "牵"
+    },
+    {
+     "line": 23,
+     "col": 80,
+     "occ": 2,
+     "chars": "着"
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 2,
+     "chars": "手"
+    },
+    {
+     "line": 24,
+     "col": 2,
+     "occ": 2,
+     "chars": "然"
+    },
+    {
+     "line": 24,
+     "col": 5,
+     "occ": 2,
+     "chars": "后"
+    },
+    {
+     "line": 24,
+     "col": 8,
+     "occ": 2,
+     "chars": "到"
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 2,
+     "chars": "处"
+    },
+    {
+     "line": 24,
+     "col": 14,
+     "occ": 2,
+     "chars": "去"
+    },
+    {
+     "line": 24,
+     "col": 18,
+     "occ": 2,
+     "chars": "飞"
+    },
+    {
+     "line": 24,
+     "col": 21,
+     "occ": 2,
+     "chars": "翔"
+    },
+    {
+     "line": 24,
+     "col": 23,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 26,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 29,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 32,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 33,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 34,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 3,
+     "occ": 2,
+     "chars": "Cause"
+    },
+    {
+     "line": 26,
+     "col": 7,
+     "occ": 2,
+     "chars": "I"
+    },
+    {
+     "line": 26,
+     "col": 9,
+     "occ": 2,
+     "chars": "m"
+    },
+    {
+     "line": 26,
+     "col": 13,
+     "occ": 2,
+     "chars": "a"
+    },
+    {
+     "line": 26,
+     "col": 16,
+     "occ": 2,
+     "chars": "pilot"
+    },
+    {
+     "line": 26,
+     "col": 18,
+     "occ": 2,
+     "chars": "any"
+    },
+    {
+     "line": 26,
+     "col": 21,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 24,
+     "occ": 2,
+     "chars": "where"
+    },
+    {
+     "line": 26,
+     "col": 26,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 29,
+     "occ": 2,
+     "chars": "Cause"
+    },
+    {
+     "line": 26,
+     "col": 33,
+     "occ": 2,
+     "chars": "I"
+    },
+    {
+     "line": 26,
+     "col": 35,
+     "occ": 2,
+     "chars": "m"
+    },
+    {
+     "line": 26,
+     "col": 39,
+     "occ": 2,
+     "chars": "a"
+    },
+    {
+     "line": 26,
+     "col": 42,
+     "occ": 2,
+     "chars": "pilot"
+    },
+    {
+     "line": 26,
+     "col": 44,
+     "occ": 2,
+     "chars": "any"
+    },
+    {
+     "line": 26,
+     "col": 48,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 51,
+     "occ": 2,
+     "chars": "where"
+    },
+    {
+     "line": 26,
+     "col": 53,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 26,
+     "col": 56,
+     "occ": 2,
+     "chars": "lighting"
+    },
+    {
+     "line": 26,
+     "col": 59,
+     "occ": 2,
+     "chars": "star"
+    },
+    {
+     "line": 26,
+     "col": 62,
+     "occ": 2,
+     "chars": "shooting"
+    },
+    {
+     "line": 26,
+     "col": 64,
+     "occ": 2,
+     "chars": "star"
+    },
+    {
+     "line": 27,
+     "col": 0,
+     "occ": 2,
+     "chars": "给"
+    },
+    {
+     "line": 27,
+     "col": 3,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 27,
+     "col": 6,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 27,
+     "col": 8,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 11,
+     "occ": 2,
+     "chars": "Ga"
+    },
+    {
+     "line": 27,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 15,
+     "occ": 2,
+     "chars": "la"
+    },
+    {
+     "line": 27,
+     "col": 17,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 19,
+     "occ": 2,
+     "chars": "xy"
+    },
+    {
+     "line": 27,
+     "col": 20,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 23,
+     "occ": 2,
+     "chars": "Cause"
+    },
+    {
+     "line": 27,
+     "col": 27,
+     "occ": 2,
+     "chars": "I"
+    },
+    {
+     "line": 27,
+     "col": 29,
+     "occ": 2,
+     "chars": "m"
+    },
+    {
+     "line": 27,
+     "col": 33,
+     "occ": 2,
+     "chars": "a"
+    },
+    {
+     "line": 27,
+     "col": 36,
+     "occ": 2,
+     "chars": "pilot"
+    },
+    {
+     "line": 27,
+     "col": 38,
+     "occ": 2,
+     "chars": "any"
+    },
+    {
+     "line": 27,
+     "col": 41,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 44,
+     "occ": 2,
+     "chars": "where"
+    },
+    {
+     "line": 27,
+     "col": 46,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 27,
+     "col": 49,
+     "occ": 2,
+     "chars": "Cause"
+    },
+    {
+     "line": 28,
+     "col": 0,
+     "occ": 2,
+     "chars": "I"
+    },
+    {
+     "line": 28,
+     "col": 2,
+     "occ": 2,
+     "chars": "m"
+    },
+    {
+     "line": 28,
+     "col": 6,
+     "occ": 2,
+     "chars": "a"
+    },
+    {
+     "line": 28,
+     "col": 9,
+     "occ": 2,
+     "chars": "pilot"
+    },
+    {
+     "line": 28,
+     "col": 11,
+     "occ": 2,
+     "chars": "any"
+    },
+    {
+     "line": 28,
+     "col": 15,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 18,
+     "occ": 2,
+     "chars": "where"
+    },
+    {
+     "line": 28,
+     "col": 20,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 28,
+     "col": 23,
+     "occ": 2,
+     "chars": "为"
+    },
+    {
+     "line": 28,
+     "col": 26,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 29,
+     "occ": 2,
+     "chars": "摘"
+    },
+    {
+     "line": 28,
+     "col": 31,
+     "occ": 2,
+     "chars": "下"
+    },
+    {
+     "line": 28,
+     "col": 33,
+     "occ": 2,
+     "chars": "小"
+    },
+    {
+     "line": 28,
+     "col": 36,
+     "occ": 2,
+     "chars": "星"
+    },
+    {
+     "line": 28,
+     "col": 39,
+     "occ": 2,
+     "chars": "星"
+    },
+    {
+     "line": 28,
+     "col": 41,
+     "occ": 2,
+     "chars": "给"
+    },
+    {
+     "line": 28,
+     "col": 44,
+     "occ": 2,
+     "chars": "你"
+    },
+    {
+     "line": 28,
+     "col": 46,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 28,
+     "col": 48,
+     "occ": 2,
+     "chars": "Ga"
+    },
+    {
+     "line": 28,
+     "col": 50,
+     "occ": 2,
+     "chars": "la"
+    },
+    {
+     "line": 28,
+     "col": 52,
+     "occ": 2,
+     "chars": "xy"
+    },
+    {
+     "line": 28,
+     "col": 53,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 3,
+     "occ": 1,
+     "chars": "Cause"
+    },
+    {
+     "line": 31,
+     "col": 7,
+     "occ": 1,
+     "chars": "I"
+    },
+    {
+     "line": 31,
+     "col": 9,
+     "occ": 1,
+     "chars": "m"
+    },
+    {
+     "line": 31,
+     "col": 13,
+     "occ": 1,
+     "chars": "a"
+    },
+    {
+     "line": 31,
+     "col": 16,
+     "occ": 1,
+     "chars": "pilot"
+    },
+    {
+     "line": 31,
+     "col": 18,
+     "occ": 1,
+     "chars": "any"
+    },
+    {
+     "line": 31,
+     "col": 21,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 24,
+     "occ": 1,
+     "chars": "where"
+    },
+    {
+     "line": 31,
+     "col": 26,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 29,
+     "occ": 1,
+     "chars": "Cause"
+    },
+    {
+     "line": 31,
+     "col": 33,
+     "occ": 1,
+     "chars": "I"
+    },
+    {
+     "line": 31,
+     "col": 35,
+     "occ": 1,
+     "chars": "m"
+    },
+    {
+     "line": 31,
+     "col": 39,
+     "occ": 1,
+     "chars": "a"
+    },
+    {
+     "line": 31,
+     "col": 42,
+     "occ": 1,
+     "chars": "pilot"
+    },
+    {
+     "line": 31,
+     "col": 44,
+     "occ": 1,
+     "chars": "any"
+    },
+    {
+     "line": 31,
+     "col": 48,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 51,
+     "occ": 1,
+     "chars": "where"
+    },
+    {
+     "line": 31,
+     "col": 53,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 31,
+     "col": 56,
+     "occ": 1,
+     "chars": "lighting"
+    },
+    {
+     "line": 31,
+     "col": 59,
+     "occ": 1,
+     "chars": "star"
+    },
+    {
+     "line": 31,
+     "col": 62,
+     "occ": 1,
+     "chars": "shooting"
+    },
+    {
+     "line": 31,
+     "col": 64,
+     "occ": 1,
+     "chars": "star"
+    },
+    {
+     "line": 32,
+     "col": 0,
+     "occ": 1,
+     "chars": "给"
+    },
+    {
+     "line": 32,
+     "col": 3,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 32,
+     "col": 6,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 32,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 11,
+     "occ": 1,
+     "chars": "Ga"
+    },
+    {
+     "line": 32,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 15,
+     "occ": 1,
+     "chars": "la"
+    },
+    {
+     "line": 32,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 19,
+     "occ": 1,
+     "chars": "xy"
+    },
+    {
+     "line": 32,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 23,
+     "occ": 1,
+     "chars": "Cause"
+    },
+    {
+     "line": 32,
+     "col": 27,
+     "occ": 1,
+     "chars": "I"
+    },
+    {
+     "line": 32,
+     "col": 29,
+     "occ": 1,
+     "chars": "m"
+    },
+    {
+     "line": 32,
+     "col": 34,
+     "occ": 1,
+     "chars": "a"
+    },
+    {
+     "line": 32,
+     "col": 38,
+     "occ": 1,
+     "chars": "pilot"
+    },
+    {
+     "line": 32,
+     "col": 41,
+     "occ": 1,
+     "chars": "any"
+    },
+    {
+     "line": 32,
+     "col": 44,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 48,
+     "occ": 1,
+     "chars": "where"
+    },
+    {
+     "line": 32,
+     "col": 51,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 32,
+     "col": 53,
+     "occ": 1,
+     "chars": "Cause"
+    },
+    {
+     "line": 33,
+     "col": 0,
+     "occ": 1,
+     "chars": "I"
+    },
+    {
+     "line": 33,
+     "col": 2,
+     "occ": 1,
+     "chars": "m"
+    },
+    {
+     "line": 33,
+     "col": 7,
+     "occ": 1,
+     "chars": "a"
+    },
+    {
+     "line": 33,
+     "col": 11,
+     "occ": 1,
+     "chars": "pilot"
+    },
+    {
+     "line": 33,
+     "col": 14,
+     "occ": 1,
+     "chars": "any"
+    },
+    {
+     "line": 33,
+     "col": 18,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 33,
+     "col": 22,
+     "occ": 1,
+     "chars": "where"
+    },
+    {
+     "line": 33,
+     "col": 25,
+     "occ": 1,
+     "chars": "lighting"
+    },
+    {
+     "line": 33,
+     "col": 29,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 33,
+     "col": 32,
+     "occ": 1,
+     "chars": "star"
+    },
+    {
+     "line": 33,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 33,
+     "col": 38,
+     "occ": 1,
+     "chars": "shooting"
+    },
+    {
+     "line": 33,
+     "col": 41,
+     "occ": 1,
+     "chars": "star"
+    },
+    {
+     "line": 33,
+     "col": 44,
+     "occ": 1,
+     "chars": "给"
+    },
+    {
+     "line": 33,
+     "col": 48,
+     "occ": 1,
+     "chars": "你"
+    },
+    {
+     "line": 33,
+     "col": 50,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 33,
+     "col": 53,
+     "occ": 1,
+     "chars": "Ga"
+    },
+    {
+     "line": 33,
+     "col": 56,
+     "occ": 1,
+     "chars": "la"
+    },
+    {
+     "line": 33,
+     "col": 59,
+     "occ": 1,
+     "chars": "xy"
+    },
+    {
+     "line": 33,
+     "col": 61,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 1,
+     "occ": 1,
+     "chars": "da~"
+    },
+    {
+     "line": 35,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 3,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 5,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 7,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 10,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 12,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 14,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 15,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 19,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 20,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 35,
+     "col": 22,
+     "occ": 1,
+     "chars": ""
+    }
+   ],
+   "stats": {
+    "n_notes": 497,
+    "n_syllable": 376,
+    "n_events": 497
+   },
+   "conservation": {
+    "n_slot_han": 259,
+    "n_raw_han": 216,
+    "missing": []
+   }
+  }
+ }
+}

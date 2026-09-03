@@ -1,0 +1,1856 @@
+{
+ "songdata": {
+  "song_name": "玫瑰先生",
+  "alias_name": "",
+  "music_composer": "",
+  "lyric_composer": "",
+  "music_composer666": "陈亦洺",
+  "music_order": "歌手作曲作词",
+  "lyric_composer666": "恨醉  ",
+  "rhythm": "4/4",
+  "keynote": "1=bG",
+  "comment": "",
+  "music_url": "",
+  "notation": "{play:A B A B B}\n{mark:A}\n0x3xx.2xxx3x2x3x5x3x2xx.1xxx|1x6dx1x6dx1-|\n0x1xx.6dxxx1x1x1x6dx1x6dxx.1xxx|3x3x3x2x3-|0x3xx.2xxx3x2x3x5x3x2xx.1xxx|\n1x6dx1x2x1.6dxx.1xxx|2x2x2x6dx1.3xx.2xxx|2x1x1x6dx1-|3-25|\n3---|3-21|2---|\nB:\n3xx(5xx5.)3xx(5xx5)1gx|7.3xx(5xx5)-|\n6dxx(1xx1.)6dxx(1xx1)3x|2x(3x3)--|3xx(5xx5.)3xx(5xx5)3x|7.(6xx5xx)3-|\n2xx(1xx1.)2xx(1xx1)3x|\n(2x.1xx)1--|||",
+  "tags": "",
+  "lyric": "[\"玫瑰先生在某天  被送给某个少年  他安家那个月夜  还刺了人一滴血  爱就是疼红了眼  还忍不住红的脸  是哪怕只字不言  玫瑰哪个闻不见  杯里有月  他有少年  明月/ 明月/  摘给少年/  少年/ 少年/  我明月/  玫瑰 /玫瑰/  作伴明/月  谈风/谈雪/  谈少/年     少年  玫瑰 明月  送给少年  少年 少年  我心念  寒风 冷雪  我陪少年  风花 雪月  多少年\",\"玫瑰先生在月夜  被送给那个少年  从此他等着凋谢  笑情人轻许永远  冬天他作别少年  未想惊醒又夏夜  爱是有花也有月  爱是有风也有雪  风花雪月  我和少年  玫瑰 /明月/  送给少年/  少年/ 少年/  我心念/  寒风/ 冷雪/  我陪少/年  风花/ 雪月/  多少；年\"]",
+  "price": "",
+  "hot": 0,
+  "instruments": "o12,o3,x8,x10,p8,a6",
+  "fingerings": "o12-F,o12-C,o12-bD,o3-F,o3-C,o3-G,o3-bD,o3-B,o3-bG,x8-F,x10-F,x10-G,p8-F,p8-bB,p8-C,p8-bE,p8-bA,a6-C,a6-F",
+  "tonalities": "o12-SF,o3-AF,o3-AG,o3-AC,a6-bG,a6-bD",
+  "scores": "[{\"tag\":\"o12@fF5@g\",\"name\":\"十二孔陶笛F调指法图谱\",\"best\":1},{\"tag\":\"o12@fC5@g\",\"name\":\"十二孔陶笛C调指法图谱\"},{\"tag\":\"o12@fbD5@g\",\"name\":\"十二孔陶笛bD调指法图谱\"},{\"tag\":\"o3@fF5@g\",\"name\":\"三管陶笛F调指法图谱\",\"best\":1},{\"tag\":\"x8@fF5@g\",\"name\":\"八孔埙F调指法图谱\",\"best\":1},{\"tag\":\"x10@fF5@g\",\"name\":\"十孔埙F调指法图谱\",\"best\":1},{\"tag\":\"x10@fG5@g\",\"name\":\"十孔埙G调指法图谱\"},{\"tag\":\"p8@fF4@g\",\"name\":\"八孔洞箫F调指法图谱\",\"best\":1},{\"tag\":\"p8@fbB4@g\",\"name\":\"八孔洞箫bB调指法图谱\"},{\"tag\":\"p8@fC5@g\",\"name\":\"八孔洞箫C调指法图谱\"},{\"tag\":\"p8@fbE4@g\",\"name\":\"八孔洞箫bE调指法图谱\"},{\"tag\":\"p8@fbA4@g\",\"name\":\"八孔洞箫bA调指法图谱\"},{\"tag\":\"a6@fC5@g\",\"name\":\"六筒陶笛(APP)C调指法图谱\",\"best\":1},{\"tag\":\"a6@fF5@g\",\"name\":\"六筒陶笛(APP)F调指法图谱\"}]",
+  "source": "{song_name:玫瑰先生}\n{music_composer666:陈亦洺}\n{lyric_composer666:恨醉  }\n{time_signature:4/4}\n{key_signature:bG}\n{music_order:歌手作曲作词}\n{play:A B A B B}\n{mark:A}\n0x3xx.2xxx3x2x3x5x3x2xx.1xxx|1x6dx1x6dx1-|\n0x1xx.6dxxx1x1x1x6dx1x6dxx.1xxx|3x3x3x2x3-|0x3xx.2xxx3x2x3x5x3x2xx.1xxx|\n1x6dx1x2x1.6dxx.1xxx|2x2x2x6dx1.3xx.2xxx|2x1x1x6dx1-|3-25|\n3---|3-21|2---|\nB:\n3xx(5xx5.)3xx(5xx5)1gx|7.3xx(5xx5)-|\n6dxx(1xx1.)6dxx(1xx1)3x|2x(3x3)--|3xx(5xx5.)3xx(5xx5)3x|7.(6xx5xx)3-|\n2xx(1xx1.)2xx(1xx1)3x|\n(2x.1xx)1--|||\n\n{lyric}\n玫瑰先生在某天  被送给某个少年  他安家那个月夜  还刺了人一滴血  爱就是疼红了眼  还忍不住红的脸  是哪怕只字不言  玫瑰哪个闻不见  杯里有月  他有少年  明月/ 明月/  摘给少年/  少年/ 少年/  我明月/  玫瑰 /玫瑰/  作伴明/月  谈风/谈雪/  谈少/年     少年  玫瑰 明月  送给少年  少年 少年  我心念  寒风 冷雪  我陪少年  风花 雪月  多少年\n{/lyric}\n\n{lyric}\n玫瑰先生在月夜  被送给那个少年  从此他等着凋谢  笑情人轻许永远  冬天他作别少年  未想惊醒又夏夜  爱是有花也有月  爱是有风也有雪  风花雪月  我和少年  玫瑰 /明月/  送给少年/  少年/ 少年/  我心念/  寒风/ 冷雪/  我陪少/年  风花/ 雪月/  多少；年\n{/lyric}",
+  "_id": 30216,
+  "_collected_at": "2026-01-26T14:53:24.407Z",
+  "notation_raw": "{play:A B A B B}\n{mark:A}\n0x3xx.2xxx3x2x3x5x3x2xx.1xxx|1x6dx1x6dx1-|\n0x1xx.6dxxx1x1x1x6dx1x6dxx.1xxx|3x3x3x2x3-|0x3xx.2xxx3x2x3x5x3x2xx.1xxx|\n1x6dx1x2x1.6dxx.1xxx|2x2x2x6dx1.3xx.2xxx|2x1x1x6dx1-|3-25|\n3---|3-21|2---|\nB:\n3xx(5xx5.)3xx(5xx5)1gx|7.3xx(5xx5)-|\n6dxx(1xx1.)6dxx(1xx1)3x|2x(3x3)--|3xx(5xx5.)3xx(5xx5)3x|7.(6xx5xx)3-|\n2xx(1xx1.)2xx(1xx1)3x|\n(2x.1xx)1--|||",
+  "notation_dialect": {
+   "line_x": true,
+   "line_us": false,
+   "line_eq": false,
+   "oct_d": true,
+   "oct_comma": false,
+   "oct_g": true
+  },
+  "lyric_layer": {
+   "raw_lyric": "[\"玫瑰先生在某天  被送给某个少年  他安家那个月夜  还刺了人一滴血  爱就是疼红了眼  还忍不住红的脸  是哪怕只字不言  玫瑰哪个闻不见  杯里有月  他有少年  明月/ 明月/  摘给少年/  少年/ 少年/  我明月/  玫瑰 /玫瑰/  作伴明/月  谈风/谈雪/  谈少/年     少年  玫瑰 明月  送给少年  少年 少年  我心念  寒风 冷雪  我陪少年  风花 雪月  多少年\",\"玫瑰先生在月夜  被送给那个少年  从此他等着凋谢  笑情人轻许永远  冬天他作别少年  未想惊醒又夏夜  爱是有花也有月  爱是有风也有雪  风花雪月  我和少年  玫瑰 /明月/  送给少年/  少年/ 少年/  我心念/  寒风/ 冷雪/  我陪少/年  风花/ 雪月/  多少；年\"]",
+   "raw_lyric_parsed": [
+    "玫瑰先生在某天  被送给某个少年  他安家那个月夜  还刺了人一滴血  爱就是疼红了眼  还忍不住红的脸  是哪怕只字不言  玫瑰哪个闻不见  杯里有月  他有少年  明月/ 明月/  摘给少年/  少年/ 少年/  我明月/  玫瑰 /玫瑰/  作伴明/月  谈风/谈雪/  谈少/年     少年  玫瑰 明月  送给少年  少年 少年  我心念  寒风 冷雪  我陪少年  风花 雪月  多少年",
+    "玫瑰先生在月夜  被送给那个少年  从此他等着凋谢  笑情人轻许永远  冬天他作别少年  未想惊醒又夏夜  爱是有花也有月  爱是有风也有雪  风花雪月  我和少年  玫瑰 /明月/  送给少年/  少年/ 少年/  我心念/  寒风/ 冷雪/  我陪少/年  风花/ 雪月/  多少；年"
+   ],
+   "pinyin_slots": [],
+   "slots": [
+    {
+     "line": 17,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 2,
+     "occ": 1,
+     "chars": "玫"
+    },
+    {
+     "line": 17,
+     "col": 6,
+     "occ": 1,
+     "chars": "瑰"
+    },
+    {
+     "line": 17,
+     "col": 10,
+     "occ": 1,
+     "chars": "先"
+    },
+    {
+     "line": 17,
+     "col": 12,
+     "occ": 1,
+     "chars": "生"
+    },
+    {
+     "line": 17,
+     "col": 14,
+     "occ": 1,
+     "chars": "在"
+    },
+    {
+     "line": 17,
+     "col": 16,
+     "occ": 1,
+     "chars": "某"
+    },
+    {
+     "line": 17,
+     "col": 18,
+     "occ": 1,
+     "chars": "天"
+    },
+    {
+     "line": 17,
+     "col": 20,
+     "occ": 1,
+     "chars": "被"
+    },
+    {
+     "line": 17,
+     "col": 24,
+     "occ": 1,
+     "chars": "送"
+    },
+    {
+     "line": 17,
+     "col": 29,
+     "occ": 1,
+     "chars": "给"
+    },
+    {
+     "line": 17,
+     "col": 31,
+     "occ": 1,
+     "chars": "某"
+    },
+    {
+     "line": 17,
+     "col": 34,
+     "occ": 1,
+     "chars": "个"
+    },
+    {
+     "line": 17,
+     "col": 36,
+     "occ": 1,
+     "chars": "少"
+    },
+    {
+     "line": 17,
+     "col": 39,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 17,
+     "col": 40,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 0,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 2,
+     "occ": 1,
+     "chars": "他"
+    },
+    {
+     "line": 18,
+     "col": 6,
+     "occ": 1,
+     "chars": "安"
+    },
+    {
+     "line": 18,
+     "col": 11,
+     "occ": 1,
+     "chars": "家"
+    },
+    {
+     "line": 18,
+     "col": 13,
+     "occ": 1,
+     "chars": "那"
+    },
+    {
+     "line": 18,
+     "col": 15,
+     "occ": 1,
+     "chars": "个"
+    },
+    {
+     "line": 18,
+     "col": 17,
+     "occ": 1,
+     "chars": "月"
+    },
+    {
+     "line": 18,
+     "col": 20,
+     "occ": 1,
+     "chars": "夜"
+    },
+    {
+     "line": 18,
+     "col": 22,
+     "occ": 1,
+     "chars": "还"
+    },
+    {
+     "line": 18,
+     "col": 27,
+     "occ": 1,
+     "chars": "刺"
+    },
+    {
+     "line": 18,
+     "col": 32,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 18,
+     "col": 34,
+     "occ": 1,
+     "chars": "人"
+    },
+    {
+     "line": 18,
+     "col": 36,
+     "occ": 1,
+     "chars": "一"
+    },
+    {
+     "line": 18,
+     "col": 38,
+     "occ": 1,
+     "chars": "滴"
+    },
+    {
+     "line": 18,
+     "col": 40,
+     "occ": 1,
+     "chars": "血"
+    },
+    {
+     "line": 18,
+     "col": 41,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 43,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 45,
+     "occ": 1,
+     "chars": "爱"
+    },
+    {
+     "line": 18,
+     "col": 49,
+     "occ": 1,
+     "chars": "就"
+    },
+    {
+     "line": 18,
+     "col": 53,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 18,
+     "col": 55,
+     "occ": 1,
+     "chars": "疼"
+    },
+    {
+     "line": 18,
+     "col": 57,
+     "occ": 1,
+     "chars": "红"
+    },
+    {
+     "line": 18,
+     "col": 59,
+     "occ": 1,
+     "chars": "了"
+    },
+    {
+     "line": 18,
+     "col": 61,
+     "occ": 1,
+     "chars": "眼"
+    },
+    {
+     "line": 18,
+     "col": 63,
+     "occ": 1,
+     "chars": "还"
+    },
+    {
+     "line": 18,
+     "col": 67,
+     "occ": 1,
+     "chars": "忍"
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 19,
+     "col": 2,
+     "occ": 1,
+     "chars": "住"
+    },
+    {
+     "line": 19,
+     "col": 5,
+     "occ": 1,
+     "chars": "红"
+    },
+    {
+     "line": 19,
+     "col": 7,
+     "occ": 1,
+     "chars": "的"
+    },
+    {
+     "line": 19,
+     "col": 9,
+     "occ": 1,
+     "chars": "脸"
+    },
+    {
+     "line": 19,
+     "col": 11,
+     "occ": 1,
+     "chars": "是"
+    },
+    {
+     "line": 19,
+     "col": 16,
+     "occ": 1,
+     "chars": "哪"
+    },
+    {
+     "line": 19,
+     "col": 21,
+     "occ": 1,
+     "chars": "怕"
+    },
+    {
+     "line": 19,
+     "col": 23,
+     "occ": 1,
+     "chars": "只"
+    },
+    {
+     "line": 19,
+     "col": 25,
+     "occ": 1,
+     "chars": "字"
+    },
+    {
+     "line": 19,
+     "col": 27,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 19,
+     "col": 30,
+     "occ": 1,
+     "chars": "言"
+    },
+    {
+     "line": 19,
+     "col": 32,
+     "occ": 1,
+     "chars": "玫"
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 1,
+     "chars": "瑰"
+    },
+    {
+     "line": 19,
+     "col": 41,
+     "occ": 1,
+     "chars": "哪"
+    },
+    {
+     "line": 19,
+     "col": 43,
+     "occ": 1,
+     "chars": "个"
+    },
+    {
+     "line": 19,
+     "col": 45,
+     "occ": 1,
+     "chars": "闻"
+    },
+    {
+     "line": 19,
+     "col": 47,
+     "occ": 1,
+     "chars": "不"
+    },
+    {
+     "line": 19,
+     "col": 50,
+     "occ": 1,
+     "chars": "见"
+    },
+    {
+     "line": 19,
+     "col": 51,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 1,
+     "chars": "杯"
+    },
+    {
+     "line": 19,
+     "col": 54,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 55,
+     "occ": 1,
+     "chars": "里"
+    },
+    {
+     "line": 19,
+     "col": 56,
+     "occ": 1,
+     "chars": "有"
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 1,
+     "chars": "月"
+    },
+    {
+     "line": 20,
+     "col": 1,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 2,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 3,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 5,
+     "occ": 1,
+     "chars": "他"
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 7,
+     "occ": 1,
+     "chars": "有"
+    },
+    {
+     "line": 20,
+     "col": 8,
+     "occ": 1,
+     "chars": "少"
+    },
+    {
+     "line": 20,
+     "col": 10,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 20,
+     "col": 11,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 13,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 1,
+     "chars": "明"
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 1,
+     "chars": "月"
+    },
+    {
+     "line": 22,
+     "col": 7,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 10,
+     "occ": 1,
+     "chars": "明"
+    },
+    {
+     "line": 22,
+     "col": 14,
+     "occ": 1,
+     "chars": "月"
+    },
+    {
+     "line": 22,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 1,
+     "chars": "摘"
+    },
+    {
+     "line": 22,
+     "col": 23,
+     "occ": 1,
+     "chars": "给"
+    },
+    {
+     "line": 22,
+     "col": 25,
+     "occ": 1,
+     "chars": "少"
+    },
+    {
+     "line": 22,
+     "col": 29,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 22,
+     "col": 32,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 34,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 1,
+     "chars": "少"
+    },
+    {
+     "line": 23,
+     "col": 5,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 23,
+     "col": 8,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 11,
+     "occ": 1,
+     "chars": "少"
+    },
+    {
+     "line": 23,
+     "col": 16,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 23,
+     "col": 19,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 21,
+     "occ": 1,
+     "chars": "我"
+    },
+    {
+     "line": 23,
+     "col": 24,
+     "occ": 1,
+     "chars": "明"
+    },
+    {
+     "line": 23,
+     "col": 27,
+     "occ": 1,
+     "chars": "月"
+    },
+    {
+     "line": 23,
+     "col": 29,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 31,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 32,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 34,
+     "occ": 1,
+     "chars": "玫"
+    },
+    {
+     "line": 23,
+     "col": 38,
+     "occ": 1,
+     "chars": "瑰"
+    },
+    {
+     "line": 23,
+     "col": 41,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 44,
+     "occ": 1,
+     "chars": "玫"
+    },
+    {
+     "line": 23,
+     "col": 48,
+     "occ": 1,
+     "chars": "瑰"
+    },
+    {
+     "line": 23,
+     "col": 51,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 53,
+     "occ": 1,
+     "chars": "作"
+    },
+    {
+     "line": 23,
+     "col": 56,
+     "occ": 1,
+     "chars": "伴"
+    },
+    {
+     "line": 23,
+     "col": 59,
+     "occ": 1,
+     "chars": "明"
+    },
+    {
+     "line": 23,
+     "col": 62,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 66,
+     "occ": 1,
+     "chars": "月"
+    },
+    {
+     "line": 23,
+     "col": 67,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 1,
+     "chars": "谈"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 1,
+     "chars": "风"
+    },
+    {
+     "line": 24,
+     "col": 7,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 1,
+     "chars": "谈"
+    },
+    {
+     "line": 24,
+     "col": 14,
+     "occ": 1,
+     "chars": "雪"
+    },
+    {
+     "line": 24,
+     "col": 17,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 19,
+     "occ": 1,
+     "chars": "谈"
+    },
+    {
+     "line": 25,
+     "col": 1,
+     "occ": 1,
+     "chars": "少"
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 1,
+     "chars": "年"
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 10,
+     "occ": 1,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 17,
+     "col": 2,
+     "occ": 2,
+     "chars": "玫"
+    },
+    {
+     "line": 17,
+     "col": 6,
+     "occ": 2,
+     "chars": "瑰"
+    },
+    {
+     "line": 17,
+     "col": 10,
+     "occ": 2,
+     "chars": "先"
+    },
+    {
+     "line": 17,
+     "col": 12,
+     "occ": 2,
+     "chars": "生"
+    },
+    {
+     "line": 17,
+     "col": 14,
+     "occ": 2,
+     "chars": "在"
+    },
+    {
+     "line": 17,
+     "col": 16,
+     "occ": 2,
+     "chars": "月"
+    },
+    {
+     "line": 17,
+     "col": 18,
+     "occ": 2,
+     "chars": "夜"
+    },
+    {
+     "line": 17,
+     "col": 20,
+     "occ": 2,
+     "chars": "被"
+    },
+    {
+     "line": 17,
+     "col": 24,
+     "occ": 2,
+     "chars": "送"
+    },
+    {
+     "line": 17,
+     "col": 29,
+     "occ": 2,
+     "chars": "给"
+    },
+    {
+     "line": 17,
+     "col": 31,
+     "occ": 2,
+     "chars": "那"
+    },
+    {
+     "line": 17,
+     "col": 34,
+     "occ": 2,
+     "chars": "个"
+    },
+    {
+     "line": 17,
+     "col": 36,
+     "occ": 2,
+     "chars": "少"
+    },
+    {
+     "line": 17,
+     "col": 39,
+     "occ": 2,
+     "chars": "年"
+    },
+    {
+     "line": 17,
+     "col": 40,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 0,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 2,
+     "occ": 2,
+     "chars": "从"
+    },
+    {
+     "line": 18,
+     "col": 6,
+     "occ": 2,
+     "chars": "此"
+    },
+    {
+     "line": 18,
+     "col": 11,
+     "occ": 2,
+     "chars": "他"
+    },
+    {
+     "line": 18,
+     "col": 13,
+     "occ": 2,
+     "chars": "等"
+    },
+    {
+     "line": 18,
+     "col": 15,
+     "occ": 2,
+     "chars": "着"
+    },
+    {
+     "line": 18,
+     "col": 17,
+     "occ": 2,
+     "chars": "凋"
+    },
+    {
+     "line": 18,
+     "col": 20,
+     "occ": 2,
+     "chars": "谢"
+    },
+    {
+     "line": 18,
+     "col": 22,
+     "occ": 2,
+     "chars": "笑"
+    },
+    {
+     "line": 18,
+     "col": 27,
+     "occ": 2,
+     "chars": "情"
+    },
+    {
+     "line": 18,
+     "col": 32,
+     "occ": 2,
+     "chars": "人"
+    },
+    {
+     "line": 18,
+     "col": 34,
+     "occ": 2,
+     "chars": "轻"
+    },
+    {
+     "line": 18,
+     "col": 36,
+     "occ": 2,
+     "chars": "许"
+    },
+    {
+     "line": 18,
+     "col": 38,
+     "occ": 2,
+     "chars": "永"
+    },
+    {
+     "line": 18,
+     "col": 40,
+     "occ": 2,
+     "chars": "远"
+    },
+    {
+     "line": 18,
+     "col": 41,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 43,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 18,
+     "col": 45,
+     "occ": 2,
+     "chars": "冬"
+    },
+    {
+     "line": 18,
+     "col": 49,
+     "occ": 2,
+     "chars": "天"
+    },
+    {
+     "line": 18,
+     "col": 53,
+     "occ": 2,
+     "chars": "他"
+    },
+    {
+     "line": 18,
+     "col": 55,
+     "occ": 2,
+     "chars": "作"
+    },
+    {
+     "line": 18,
+     "col": 57,
+     "occ": 2,
+     "chars": "别"
+    },
+    {
+     "line": 18,
+     "col": 59,
+     "occ": 2,
+     "chars": "少"
+    },
+    {
+     "line": 18,
+     "col": 61,
+     "occ": 2,
+     "chars": "年"
+    },
+    {
+     "line": 18,
+     "col": 63,
+     "occ": 2,
+     "chars": "未"
+    },
+    {
+     "line": 18,
+     "col": 67,
+     "occ": 2,
+     "chars": "想"
+    },
+    {
+     "line": 19,
+     "col": 0,
+     "occ": 2,
+     "chars": "惊"
+    },
+    {
+     "line": 19,
+     "col": 2,
+     "occ": 2,
+     "chars": "醒"
+    },
+    {
+     "line": 19,
+     "col": 5,
+     "occ": 2,
+     "chars": "又"
+    },
+    {
+     "line": 19,
+     "col": 7,
+     "occ": 2,
+     "chars": "夏"
+    },
+    {
+     "line": 19,
+     "col": 9,
+     "occ": 2,
+     "chars": "夜"
+    },
+    {
+     "line": 19,
+     "col": 11,
+     "occ": 2,
+     "chars": "爱"
+    },
+    {
+     "line": 19,
+     "col": 16,
+     "occ": 2,
+     "chars": "是"
+    },
+    {
+     "line": 19,
+     "col": 21,
+     "occ": 2,
+     "chars": "有"
+    },
+    {
+     "line": 19,
+     "col": 23,
+     "occ": 2,
+     "chars": "花"
+    },
+    {
+     "line": 19,
+     "col": 25,
+     "occ": 2,
+     "chars": "也"
+    },
+    {
+     "line": 19,
+     "col": 27,
+     "occ": 2,
+     "chars": "有"
+    },
+    {
+     "line": 19,
+     "col": 30,
+     "occ": 2,
+     "chars": "月"
+    },
+    {
+     "line": 19,
+     "col": 32,
+     "occ": 2,
+     "chars": "爱"
+    },
+    {
+     "line": 19,
+     "col": 36,
+     "occ": 2,
+     "chars": "是"
+    },
+    {
+     "line": 19,
+     "col": 41,
+     "occ": 2,
+     "chars": "有"
+    },
+    {
+     "line": 19,
+     "col": 43,
+     "occ": 2,
+     "chars": "风"
+    },
+    {
+     "line": 19,
+     "col": 45,
+     "occ": 2,
+     "chars": "也"
+    },
+    {
+     "line": 19,
+     "col": 47,
+     "occ": 2,
+     "chars": "有"
+    },
+    {
+     "line": 19,
+     "col": 50,
+     "occ": 2,
+     "chars": "雪"
+    },
+    {
+     "line": 19,
+     "col": 51,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 53,
+     "occ": 2,
+     "chars": "风"
+    },
+    {
+     "line": 19,
+     "col": 54,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 19,
+     "col": 55,
+     "occ": 2,
+     "chars": "花"
+    },
+    {
+     "line": 19,
+     "col": 56,
+     "occ": 2,
+     "chars": "雪"
+    },
+    {
+     "line": 20,
+     "col": 0,
+     "occ": 2,
+     "chars": "月"
+    },
+    {
+     "line": 20,
+     "col": 1,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 2,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 3,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 5,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 20,
+     "col": 6,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 7,
+     "occ": 2,
+     "chars": "和"
+    },
+    {
+     "line": 20,
+     "col": 8,
+     "occ": 2,
+     "chars": "少"
+    },
+    {
+     "line": 20,
+     "col": 10,
+     "occ": 2,
+     "chars": "年"
+    },
+    {
+     "line": 20,
+     "col": 11,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 12,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 20,
+     "col": 13,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 2,
+     "chars": "玫"
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 2,
+     "chars": "瑰"
+    },
+    {
+     "line": 22,
+     "col": 7,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 10,
+     "occ": 2,
+     "chars": "明"
+    },
+    {
+     "line": 22,
+     "col": 14,
+     "occ": 2,
+     "chars": "月"
+    },
+    {
+     "line": 22,
+     "col": 17,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 2,
+     "chars": "送"
+    },
+    {
+     "line": 22,
+     "col": 23,
+     "occ": 2,
+     "chars": "给"
+    },
+    {
+     "line": 22,
+     "col": 25,
+     "occ": 2,
+     "chars": "少"
+    },
+    {
+     "line": 22,
+     "col": 29,
+     "occ": 2,
+     "chars": "年"
+    },
+    {
+     "line": 22,
+     "col": 32,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 34,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 2,
+     "chars": "少"
+    },
+    {
+     "line": 23,
+     "col": 5,
+     "occ": 2,
+     "chars": "年"
+    },
+    {
+     "line": 23,
+     "col": 8,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 11,
+     "occ": 2,
+     "chars": "少"
+    },
+    {
+     "line": 23,
+     "col": 16,
+     "occ": 2,
+     "chars": "年"
+    },
+    {
+     "line": 23,
+     "col": 19,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 21,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 23,
+     "col": 24,
+     "occ": 2,
+     "chars": "心"
+    },
+    {
+     "line": 23,
+     "col": 27,
+     "occ": 2,
+     "chars": "念"
+    },
+    {
+     "line": 23,
+     "col": 29,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 31,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 32,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 34,
+     "occ": 2,
+     "chars": "寒"
+    },
+    {
+     "line": 23,
+     "col": 38,
+     "occ": 2,
+     "chars": "风"
+    },
+    {
+     "line": 23,
+     "col": 41,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 44,
+     "occ": 2,
+     "chars": "冷"
+    },
+    {
+     "line": 23,
+     "col": 48,
+     "occ": 2,
+     "chars": "雪"
+    },
+    {
+     "line": 23,
+     "col": 51,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 53,
+     "occ": 2,
+     "chars": "我"
+    },
+    {
+     "line": 23,
+     "col": 56,
+     "occ": 2,
+     "chars": "陪"
+    },
+    {
+     "line": 23,
+     "col": 59,
+     "occ": 2,
+     "chars": "少"
+    },
+    {
+     "line": 23,
+     "col": 62,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 66,
+     "occ": 2,
+     "chars": "年"
+    },
+    {
+     "line": 23,
+     "col": 67,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 2,
+     "chars": "风"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 2,
+     "chars": "花"
+    },
+    {
+     "line": 24,
+     "col": 7,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 2,
+     "chars": "雪"
+    },
+    {
+     "line": 24,
+     "col": 14,
+     "occ": 2,
+     "chars": "月"
+    },
+    {
+     "line": 24,
+     "col": 17,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 19,
+     "occ": 2,
+     "chars": "多"
+    },
+    {
+     "line": 25,
+     "col": 1,
+     "occ": 2,
+     "chars": "少"
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 2,
+     "chars": "年"
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 10,
+     "occ": 2,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 0,
+     "occ": 3,
+     "chars": "玫"
+    },
+    {
+     "line": 22,
+     "col": 4,
+     "occ": 3,
+     "chars": "瑰"
+    },
+    {
+     "line": 22,
+     "col": 7,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 10,
+     "occ": 3,
+     "chars": "明"
+    },
+    {
+     "line": 22,
+     "col": 14,
+     "occ": 3,
+     "chars": "月"
+    },
+    {
+     "line": 22,
+     "col": 17,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 19,
+     "occ": 3,
+     "chars": "送"
+    },
+    {
+     "line": 22,
+     "col": 23,
+     "occ": 3,
+     "chars": "给"
+    },
+    {
+     "line": 22,
+     "col": 25,
+     "occ": 3,
+     "chars": "少"
+    },
+    {
+     "line": 22,
+     "col": 29,
+     "occ": 3,
+     "chars": "年"
+    },
+    {
+     "line": 22,
+     "col": 32,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 22,
+     "col": 34,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 0,
+     "occ": 3,
+     "chars": "少"
+    },
+    {
+     "line": 23,
+     "col": 5,
+     "occ": 3,
+     "chars": "年"
+    },
+    {
+     "line": 23,
+     "col": 8,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 11,
+     "occ": 3,
+     "chars": "少"
+    },
+    {
+     "line": 23,
+     "col": 16,
+     "occ": 3,
+     "chars": "年"
+    },
+    {
+     "line": 23,
+     "col": 19,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 21,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 23,
+     "col": 24,
+     "occ": 3,
+     "chars": "心"
+    },
+    {
+     "line": 23,
+     "col": 27,
+     "occ": 3,
+     "chars": "念"
+    },
+    {
+     "line": 23,
+     "col": 29,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 31,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 32,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 34,
+     "occ": 3,
+     "chars": "寒"
+    },
+    {
+     "line": 23,
+     "col": 38,
+     "occ": 3,
+     "chars": "风"
+    },
+    {
+     "line": 23,
+     "col": 41,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 44,
+     "occ": 3,
+     "chars": "冷"
+    },
+    {
+     "line": 23,
+     "col": 48,
+     "occ": 3,
+     "chars": "雪"
+    },
+    {
+     "line": 23,
+     "col": 51,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 53,
+     "occ": 3,
+     "chars": "我"
+    },
+    {
+     "line": 23,
+     "col": 56,
+     "occ": 3,
+     "chars": "陪"
+    },
+    {
+     "line": 23,
+     "col": 59,
+     "occ": 3,
+     "chars": "少"
+    },
+    {
+     "line": 23,
+     "col": 62,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 23,
+     "col": 66,
+     "occ": 3,
+     "chars": "年"
+    },
+    {
+     "line": 23,
+     "col": 67,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 0,
+     "occ": 3,
+     "chars": "风"
+    },
+    {
+     "line": 24,
+     "col": 4,
+     "occ": 3,
+     "chars": "花"
+    },
+    {
+     "line": 24,
+     "col": 7,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 10,
+     "occ": 3,
+     "chars": "雪"
+    },
+    {
+     "line": 24,
+     "col": 14,
+     "occ": 3,
+     "chars": "月"
+    },
+    {
+     "line": 24,
+     "col": 17,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 24,
+     "col": 19,
+     "occ": 3,
+     "chars": "多"
+    },
+    {
+     "line": 25,
+     "col": 1,
+     "occ": 3,
+     "chars": "少"
+    },
+    {
+     "line": 25,
+     "col": 4,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 8,
+     "occ": 3,
+     "chars": "年"
+    },
+    {
+     "line": 25,
+     "col": 9,
+     "occ": 3,
+     "chars": ""
+    },
+    {
+     "line": 25,
+     "col": 10,
+     "occ": 3,
+     "chars": ""
+    }
+   ],
+   "stats": {
+    "n_notes": 300,
+    "n_syllable": 218,
+    "n_events": 300
+   },
+   "conservation": {
+    "n_slot_han": 218,
+    "n_raw_han": 220,
+    "missing": []
+   }
+  }
+ }
+}
